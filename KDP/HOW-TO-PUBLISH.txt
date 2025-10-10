@@ -1,0 +1,120 @@
+═══════════════════════════════════════════════════════════════════════════
+ PUBLISH-READY FILES FOR AMAZON KDP
+═══════════════════════════════════════════════════════════════════════════
+
+Out of the Swamp: How I Found Truth
+By Skyler Thomas
+ISBN: 979-8-218-83354-1
+
+═══════════════════════════════════════════════════════════════════════════
+ YOUR FILES - READY TO UPLOAD
+═══════════════════════════════════════════════════════════════════════════
+
+1. PAPERBACK (Print Book)
+   File: OUT-OF-THE-SWAMP-COMPLETE.pdf
+   - 925 KB, 6"x9", ~280-300 pages
+   - Includes 14 unique scannable QR codes (one per chapter/song)
+   - Plus general QR code for all songs
+   - Upload to KDP for PAPERBACK
+
+2. EBOOK (Kindle)
+   File: OUT-OF-THE-SWAMP.epub
+   - 213 KB, EPUB format
+   - Includes 14 unique scannable QR codes embedded in chapters
+   - Upload to KDP for EBOOK
+   - KDP automatically converts EPUB to Kindle format
+
+NOTE: I cannot create .kpf files directly (those require Amazon's Kindle
+Create app). However, EPUB works perfectly - KDP accepts it and converts
+it automatically for Kindle.
+
+═══════════════════════════════════════════════════════════════════════════
+ QUICK START - PUBLISH ON AMAZON KDP
+═══════════════════════════════════════════════════════════════════════════
+
+1. GO TO: kdp.amazon.com
+
+2. CREATE PAPERBACK:
+   - Upload: OUT-OF-THE-SWAMP-COMPLETE.pdf
+   - ISBN: 979-8-218-83354-1
+   - Trim size: 6" x 9"
+   - Paper: Cream
+   - Upload your cover (use KDP Cover Calculator for dimensions)
+   - Price: $14.99 - $16.99
+
+3. CREATE EBOOK:
+   - Upload: OUT-OF-THE-SWAMP.epub
+   - Same title/author as paperback (KDP links them automatically)
+   - Price: $6.99 - $9.99 (70% royalty)
+
+4. CATEGORIES:
+   - Religion & Spirituality > Christian Living > Spiritual Growth
+   - Religion & Spirituality > Christian Living > Devotional
+
+5. KEYWORDS:
+   spiritual formation, grace, Christian devotional, spiritual journey,
+   transformation, worship songs, faith and music
+
+═══════════════════════════════════════════════════════════════════════════
+ BOOK DESCRIPTION (for KDP)
+═══════════════════════════════════════════════════════════════════════════
+
+What do you do when you find yourself in the swamp—stuck, struggling,
+sinking?
+
+Out of the Swamp: How I Found Truth is a raw, honest journey through
+spiritual transformation. From the depths of struggle to the water's edge
+of grace, and finally into the unforced rhythms of life with Jesus, this
+book invites you into a story that might feel a lot like your own.
+
+Through 14 chapters, 3 movements, and 14 original songs, Skyler Thomas
+explores what it means to:
+• Name your swamp and cry out honestly to God
+• Experience the turning point of grace at the water's edge
+• Learn to live in the unforced rhythms that come from walking with Jesus
+
+This isn't a book about having all the answers. It's about learning to ask
+better questions. It's about discovering that grace isn't just sufficient
+—it's everything.
+
+Each chapter includes:
+- Personal narrative and theological reflection
+- Biblical stories and core scriptures
+- An original song with full lyrics
+- Reflective questions for personal or group study
+- Practical spiritual practices
+
+Perfect for:
+- Personal devotional reading
+- Small group study
+- Anyone feeling stuck in their spiritual journey
+- Those exploring what grace-centered living really means
+
+All songs available free at skylerthomas.com/songs
+
+═══════════════════════════════════════════════════════════════════════════
+ PRICING RECOMMENDATIONS
+═══════════════════════════════════════════════════════════════════════════
+
+PAPERBACK at $14.99:
+- Printing cost: ~$4.85
+- Your royalty: ~$5.64 per book
+
+EBOOK at $6.99:
+- 70% royalty
+- Your royalty: $4.89 per book
+
+═══════════════════════════════════════════════════════════════════════════
+ NEXT STEPS
+═══════════════════════════════════════════════════════════════════════════
+
+1. Create your cover (or hire designer on Fiverr $50-150)
+2. Upload files to kdp.amazon.com
+3. Order proof copy (paperback only)
+4. Review and approve
+5. Publish!
+
+═══════════════════════════════════════════════════════════════════════════
+
+Files ready to publish!
+Created: October 10, 2025

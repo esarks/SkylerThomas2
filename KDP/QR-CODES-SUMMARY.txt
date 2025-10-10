@@ -1,0 +1,79 @@
+═══════════════════════════════════════════════════════════════════════════
+ QR CODES EMBEDDED IN YOUR BOOK
+═══════════════════════════════════════════════════════════════════════════
+
+Your book now contains 15 unique QR codes:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ CHAPTER QR CODES (14 total)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Each chapter has its own QR code that links directly to that chapter's song:
+
+Chapter 1:  I Will Rise
+Chapter 2:  But Then I Prayed
+Chapter 3:  STOP!! And Make a Decision
+Chapter 4:  Dying Changes Everything
+Chapter 5:  Living Waters Edge
+Chapter 6:  In the Shadow of Your Grace
+Chapter 7:  Amazing Grace
+Chapter 8:  Dig a Little Deeper
+Chapter 9:  Mindful Bliss of Grace
+Chapter 10: I Will Trust You Lord
+Chapter 11: Redemption Story
+Chapter 12: Nothing is Wasted
+Chapter 13: Devil's On The Run
+Chapter 14: This Moment is Enough
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ GENERAL QR CODE (1 total)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The "How to Access the Songs" section at the end includes a QR code that
+links to: https://skylerthomas.com/songs
+
+This allows readers to access all songs in one place.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ WHERE THE QR CODES APPEAR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+In each chapter, the QR code appears immediately after the song link:
+
+Example from Chapter 1:
+---
+[I Will Rise](https://www.skylerthomas.com/...)
+
+![Scan to listen: I Will Rise](qr-ch01-i-will-rise.png)
+
+---
+
+This placement makes it easy for readers to:
+1. See the song title and click the link if reading digitally
+2. Scan the QR code with their phone if reading a physical book
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ TECHNICAL DETAILS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+QR Code Size:      2.5 inches (centered on page)
+QR Code Format:    PNG, 290x290 pixels
+Error Correction:  High (works even if partially damaged)
+All URLs:          Point to actual MP3 files on skylerthomas.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ FILES UPDATED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ OUT-OF-THE-SWAMP-COMPLETE.docx (258 KB)
+  - All 15 QR codes embedded and scannable
+
+✓ OUT-OF-THE-SWAMP-COMPLETE.pdf (925 KB)
+  - All 15 QR codes embedded and scannable
+
+✓ OUT-OF-THE-SWAMP.epub (213 KB)
+  - All 14 chapter QR codes embedded
+
+All files are ready to upload to Amazon KDP!
+
+═══════════════════════════════════════════════════════════════════════════

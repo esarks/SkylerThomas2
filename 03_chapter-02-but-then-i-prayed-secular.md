@@ -1,4 +1,4 @@
-# Dying Changes Everything: A Wayfarer's Journey (Chapter 2)
+# Out of the Swamp: A Wayfarer's Journey (Chapter 2)
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 2: But Then I Prayed
@@ -6,11 +6,63 @@
 [But Then I Prayed](https://www.skylerthomas.com/wp-content/uploads/2025/01/But-then-I-Prayed-Female.mp3)
 *(Right-click to open in new tab)*
 
+---
+
+**An Invitation to Consider**
+
+Before we dig into this chapter, I want you to consider something.
+
+What if that stirring in the middle of the night isn't just anxiety or restlessness?
+
+What if the God of the Universe—the God who created you—has been calling to you? Not with demands. Not with conditions. Just calling.
+
+Wanting to hear from you. Wanting to speak to you.
+
+I'm not asking you to believe everything right now. I'm not asking you to commit to a religion or join a church or sign a statement of faith.
+
+I'm just asking you to consider: what if He's there? What if He's been there all along, waiting for you to turn toward Him?
+
+You don't need a huge performance prayer. No religious jargon. No fancy words.
+
+Just a simple prayer. Something like this:
+
+*"Yes, God. I want to listen to You. I want to consider what You may have to offer me from my swamp."*
+
+That's it. That's enough.
+
+Because the God who created you doesn't need your eloquence. He just wants your honesty.
+
+He doesn't need your strength. He just wants your willingness.
+
+He doesn't need your certainty. He just wants you to crack the door open and say, "I'm listening."
+
+What if that's all it takes? What if the turning point—the "but then I prayed" moment—is simply saying yes to the possibility that Someone is calling your name?
+
+Can you do that? Can you just consider it?
+
+---
+
+**If you're still here, you've looked up from the swamp.**
+
+Now what?
+
+This chapter is about what happens when you finally run out of options. When you've tried everything and nothing works. When self-sufficiency collapses and you reach out—not with polished words, but with honest cries.
+
+You might not call it prayer. Maybe you've never prayed before. Maybe prayer feels too religious, too formal, too... much.
+
+That's okay. Because what I'm talking about isn't religious performance. It's honest conversation with whatever is Real, whatever is greater than yourself.
+
+And if you're willing to consider that "whatever" might actually be Someone—that changes everything.
+
+Keep reading.
+
+---
+
 Here's the pattern most of us follow when life falls apart:
 
 First, we try to fix it ourselves. We strategize, problem-solve, work harder. We're competent—we've handled crises before.
 
-When that doesn't work, we try to manage it. We numb the pain, stay busy, medicate with work, Netflix, food, scrolling—whatever keeps the darkness at bay.
+When that doesn't work, we try to manage it. We numb the pain, stay busy, medicate with work (or substances), Netflix, food, scrolling—whatever keeps the darkness at bay.
 
 When that stops working, we start bargaining. *If I just... If they would... If this changes...* Desperate negotiations from a position of no power.
 
@@ -20,25 +72,23 @@ This chapter is about that moment. When self-sufficiency collapses. When all our
 
 Because reaching out isn't the last resort when everything else fails. It's the first reality we keep trying to avoid: we need help more than we need solutions.
 
-*Take a breath.*
-
 The writing that follows came from a season when I learned to speak honestly instead of performing politely. When "But then I prayed" became the turning point in every valley I walked through.
 
-Prayer—conversation with the Divine, with your deepest self, with what's Real—in the swamp doesn't look like prayer on the mountaintop. Mountaintop prayer is full of gratitude and joy, hands raised, voice strong. Swamp prayer is different.
+Prayer—conversation with the Divine, with your deepest self, with what's Real—in the swamp doesn't look like prayer on the mountaintop (or in a flashy church setting). Mountaintop prayer is full of gratitude and joy, hands raised, voice strong. Swamp prayer is different.
 
 Swamp prayer is:
 
-- Groaning when words won't come: "The Spirit helps us in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us through wordless groans"
-- Crying out instead of composing: "I cry aloud; I lift up my voice for mercy"
-- Complaining honestly instead of pretending piously: "How long? Will you forget me forever? How long will you hide your face from me?"
-- Questioning reality instead of defending platitudes: "Why do the wicked prosper? Why does injustice prevail?"
+- Groaning when words won't come: "The Spirit helps us in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us through wordless groans" (Romans 8:26, The Message)
+- Crying out instead of composing: "I cry aloud; I lift up my voice for mercy" (Psalm 142:1, The Message)
+- Complaining honestly instead of pretending piously: "How long? Will you forget me forever? How long will you hide your face from me?" (Psalm 13:1, The Message)
+- Questioning reality instead of defending platitudes: "Why do the wicked prosper? Why does injustice prevail?" (Jeremiah 12:1, The Message)
 
 In the swamp, you learn that honest conversation isn't about saying the right things. It's about saying the real things.
 
 You learn to speak like:
 
-- **The fugitive in the cave**: "I cry aloud... I pour out my complaint... no one cares for my life"
-- **Jesus in the garden**: "Father, if it is possible, may this cup be taken from me"
+- **The fugitive in the cave**: "I cry aloud... I pour out my complaint... no one cares for my life" (Psalm 142, The Message)
+- **Jesus in the garden**: "Father, if it is possible, may this cup be taken from me" (Matthew 26:39, The Message)
 
 Notice what these moments have in common? They're honest. Painfully, uncomfortably, refreshingly honest.
 
@@ -74,11 +124,11 @@ The swamp isn't punishment. It's invitation.
 
 **2. Reaching Out as Surrender, Not Strategy**
 
-Here's what we get wrong: We treat prayer like a vending machine. Insert the right words, push the right button (faith! persistence! positive thinking!), and out pops the answer we want.
+Here's what we get wrong: The religious treat prayer like a vending machine. Insert the right words, push the right button (faith! persistence! positive thinking!), and out pops the answer we want.
 
 But swamp prayer isn't strategy. It's surrender.
 
-Not: "Universe, here's my five-point plan—please bless it."
+Not: "God, here's my five-point plan—please bless it."
 
 But: "I'm out of plans. I'm placing this in hands larger than mine because mine are empty."
 
@@ -91,6 +141,8 @@ The second surrenders the pen. We acknowledge the script might look different fr
 Jesus models this in Gethsemane:
 
 > "He withdrew about a stone's throw beyond them, knelt down and prayed, 'Father, if you are willing, take this cup from me; yet not my will, but yours be done.'"
+>
+> — Luke 22:41-42 (The Message)
 
 That's not resignation. That's trust at the bone.
 
@@ -98,36 +150,9 @@ That's not resignation. That's trust at the bone.
 
 This is swamp prayer: not manipulating the universe, but yielding to what's real. Not demanding answers, but trusting the process.
 
-**A Framework for Honest Conversation: Reality → Response → Results**
-
-For years, the "Universe says Yes, No, or Maybe" framework left me cold. Prayer felt like a cosmic lottery. Spin the wheel, hope for the best, live with disappointment.
-
-But what if there was a way to connect that guaranteed meaning—not because we get what we demand, but because we align ourselves with what's actually happening?
-
-I developed what I call **The Three R's: Reality → Response → Results**.
-
-It's simple, but it changes everything:
-
-**Reality** – What is actually happening in my life right now?
-Life force is present and active, even when life feels heavy. There's breath moving through you (you're reading this), consciousness observing (you're aware), and possibility emerging (nothing is final). Honest conversation begins with acknowledgment: *What's my situation? Where do I see signs of life, even if the picture isn't clear?*
-
-**Response** – How will I choose to act in partnership with what's real?
-Help is an invitation to partnership, not passivity. My response includes surrender (letting go of control), listening (to my body, my intuition, my deeper wisdom), small-step obedience (to what I know is true), and choosing hope over despair. Conversation continues with surrender: *What step, however small, will I take today in cooperation with life?*
-
-**Results** – What will emerge?
-Life works toward wholeness and growth—character development, peace beyond circumstances, guidance through intuition, and power to witness truth. Conversation concludes with trust: *How has my heart shifted? Where can I already see movement?*
-
-This framework shifts prayer from "Will I get what I want?" to "How is life already working, and how can I cooperate?"
-
-Not getting reality to do what we want. Aligning ourselves with what's actually happening.
-
 > "Real prayer comes not from gritting our teeth but from falling in love. When we see prayer as a burden, a duty, something we have to grit our teeth to accomplish, we've missed the point entirely. Prayer is not about spiritual calisthenics or religious performance. It's about relationship. It's about learning to notice presence, to recognize truth, to trust process. The Three R's framework helps us shift from trying harder to loving deeper—from striving to abiding."
 >
 > — Richard Foster, adapted from *Prayer: Finding the Heart's True Home*
-
-The Three R's help us fall in love with what's real rather than our agenda.
-
-Life always says "Yes" to this kind of reaching out. Yes, I'm present in your reality. Yes, I'll work through your response. Yes, I'll produce results toward wholeness.
 
 **3. The Turning Point: "But Then I Prayed"**
 
@@ -155,8 +180,10 @@ Western culture has lost the art of lament. We're taught to be positive, to thin
 The ancient Hebrew poets knew better. Nearly a third of the Psalms are laments—raw, honest, sometimes angry prayers that bring pain directly before the Divine without sugarcoating it.
 
 > "My God, my God, why have you forsaken me? Why are you so far from saving me, so far from my cries of anguish? My God, I cry out by day, but you do not answer, by night, but I find no rest."
+>
+> — Psalm 22:1-2 (The Message)
 
-That's Psalm 22. It's in the sacred texts. No apology. No caveat. Just honest anguish.
+That's in the sacred texts. No apology. No caveat. Just honest anguish.
 
 Lament says: *This is not okay. This hurts. And I'm bringing that hurt into the presence of love instead of pretending it doesn't exist.*
 
@@ -183,6 +210,8 @@ This is the scandal: Love doesn't wait for strength. It comes when we're weak. I
 We come to prayer not as those who have it together, but as those falling apart. And that's exactly where love meets us.
 
 > "In the same way, the Spirit helps us in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us through wordless groans."
+>
+> — Romans 8:26 (The Message)
 
 Even when we don't know how to pray, the Spirit prays for us. Our groaning is enough. Our tears are enough. Our whispered "help" is enough.
 
@@ -200,7 +229,7 @@ Those prayers bounced off the ceiling.
 
 But when I finally stopped performing and started being real—when I prayed the ugly prayers, the doubting prayers, the angry prayers, the desperate prayers—something shifted.
 
-Not because the universe suddenly started listening. It had been listening all along. But because I finally started being honest.
+Not because God suddenly started listening. He had been listening all along. But because I finally started being honest.
 
 And honesty is the language of connection.
 

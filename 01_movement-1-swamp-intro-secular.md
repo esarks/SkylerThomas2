@@ -1,4 +1,4 @@
-# Dying Changes Everything: A Wayfarer's Journey (Movement 1)
+# Out of the Swamp: A Wayfarer's Journey (Movement 1)
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 
