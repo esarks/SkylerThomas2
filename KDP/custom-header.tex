@@ -1,0 +1,14 @@
+% Custom LaTeX header to make block quotes same size as body text
+% This overrides the default LaTeX quote environment
+
+% Redefine quote environment to use normal font size
+\renewenvironment{quote}
+  {\list{}{\leftmargin=0.5in\rightmargin=0.5in}%
+   \item\relax}
+  {\endlist}
+
+% Redefine quotation environment similarly
+\renewenvironment{quotation}
+  {\list{}{\leftmargin=0.5in\rightmargin=0.5in}%
+   \item\relax}
+  {\endlist}

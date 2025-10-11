@@ -31,7 +31,7 @@ Cover design by [Publisher/Designer Name]
 Published in the United States of America
 
 
-ewpage
+\newpage
 
 **Contact:**
 skylerthomas.com
@@ -45,6 +45,7 @@ skyler@skylerthomas.com
 
 ---
 
+\newpage
 
 # Dedication
 
@@ -63,6 +64,8 @@ This is your story too.
 And most important, to my loving wife and children who didn't leave me when things got at their worst.  You make life pure joy.
 
 ---
+
+\newpage
 
 # Table of Contents
 
@@ -98,6 +101,8 @@ And most important, to my loving wife and children who didn't leave me when thin
 14. **Living in the Moment**
 
 ---
+
+\pagenumbering{arabic}
 
 # Out of the Swamp: How I Found Truth (Introduction)
 
@@ -906,13 +911,11 @@ Exhaustion whispers: *You're too tired to move. The swamp is killing you, but at
 
 Identity whispers: *If you're not the strong one, the competent one, the leader—who are you?*
 
-Dallas Willard explains why the swamp is so exhausting. We cannot transform ourselves. We cannot make ourselves into the people we need to be. Every self-help program, every technique, every discipline—pursued as self-salvation—will fail. Not because the practices are bad, but because we're asking them to do something they cannot do: save us.
+One spiritual teacher explains why the swamp is so exhausting:
 
-As Willard writes in *The Great Omission*:
-
-> "Grace is not opposed to effort; it is opposed to earning."
-
-You cannot earn transformation by trying harder. But you can position yourself where transformation happens.
+> "We cannot transform ourselves. We cannot make ourselves into the people we need to be. Every self-help program, every technique, every discipline—pursued as self-salvation—will fail. Not because the practices are bad, but because we're asking them to do something they cannot do: save us. Grace is not opposed to effort; it is opposed to earning. You cannot earn transformation by trying harder. But you can position yourself where transformation happens."
+>
+> — Dallas Willard, *The Great Omission*
 
 Here's the swamp's hidden curriculum: the self-salvation project is a lie.
 
@@ -9183,4 +9186,93 @@ And this moment—this sacred, grace-filled, God-inhabited moment—is enough.
 More than enough.
 
 It's everything.
+
+# Epilogue: The Road Ahead
+
+You've journeyed from swamp to water's edge to unforced rhythms. You've named your struggle, cried out in prayer, made the decision to stop and choose life, and discovered that dying to self changes everything.
+
+You've been washed at the water's edge, learning what it means to live in the shadow of grace, receiving what you could never earn, and digging deeper into healing.
+
+And you've begun to walk in the unforced rhythms of grace—sending roots deep, discovering redemption's story woven through your life, learning that nothing is wasted, standing firm because the devil is on the run, and living fully present in this moment.
+
+But here's the truth I need you to hear before you close this book:
+
+**This isn't the end. It's the beginning.**
+
+The Christian life isn't about arriving at some final destination where everything is fixed and all questions are answered. It's about walking with Jesus—day by day, moment by moment, breath by breath.
+
+There will be days when you feel like you're back in the swamp. When old patterns resurface. When shame whispers that you haven't really changed.
+
+On those days, remember: you're not starting over. You're continuing forward. The work God began in you, He is faithful to complete (Philippians 1:6).
+
+There will be days when grace feels distant. When you're exhausted from trying to live up to standards you were never meant to carry.
+
+On those days, come back to the water's edge. Let grace wash over you again. It's not a one-time event—it's a daily returning to the truth of who you are in Christ.
+
+There will be days when the rhythms feel forced. When life speeds up and you lose your footing in the chaos.
+
+On those days, hear Jesus' invitation again: "Come to me, all you who are weary and burdened, and I will give you rest" (Matthew 11:28). The rhythms are always unforced. The striving is always unnecessary. He is always enough.
+
+---
+
+## What Now?
+
+If you're wondering what to do next, here are a few suggestions:
+
+**1. Go back through the "Reflections for the Road" questions.** Don't rush. Sit with each one. Journal. Pray. Be honest with God and with yourself.
+
+**2. Practice one thing from this book consistently.** Maybe it's the Daily Examen from Chapter 14. Maybe it's breath prayers throughout your day. Maybe it's naming your swamp and bringing it to God in honest prayer. Pick one. Do it. Let it become a rhythm.
+
+**3. Find a community.** This journey isn't meant to be walked alone. Find people who will listen without judgment, who will speak truth in love, who will remind you of grace when you forget.
+
+**4. Listen to the songs.** Music has a way of reaching places words alone can't touch. Let these songs become part of your prayer life, your worship, your remembering.
+
+**5. Keep walking.** Some days you'll sprint. Some days you'll crawl. Some days you'll sit still and rest. All of it is part of the journey. Just don't stop moving toward Jesus.
+
+---
+
+## A Final Word
+
+I don't know where you are right now. Maybe you're in the deepest part of the swamp, and this book felt like a lifeline. Maybe you're at the water's edge, tentatively stepping into grace. Maybe you're learning the rhythms and discovering that life with Jesus is better than you imagined.
+
+Wherever you are, know this:
+
+God isn't finished with you.
+Grace is still sufficient.
+This moment is still enough.
+
+And the One who called you out of the swamp is faithful to walk with you every step of the way.
+
+Keep walking, wayfarer.
+The journey is just beginning.
+
+---
+
+*"Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus."*
+— Philippians 1:6
+
+
+# About the Author
+
+**Skyler Thomas** is a songwriter, writer, and wayfarer who believes that honest stories and grace-filled truth have the power to change lives.
+
+Born and raised in across many states of the U.S. of A., Skyler has spent a lifetime exploring the intersection of faith, music, and spiritual formation. Through personal struggles and profound encounters with God's grace, Skyler discovered that transformation doesn't happen through striving, but through surrender to the unforced rhythms of grace.
+
+This book represents over a dozen years of journaling, songwriting, and wrestling with what it means to follow Jesus in the midst of real life—messy, broken, beautiful, and redeemed.
+
+Skyler's music and writing can be found at **skylerthomas.com**, where you can access all the songs featured in this book, read additional blog posts, and connect with a growing community of wayfarers learning to walk in grace.
+
+When not writing or making music, Skyler enjoys family and friends building memories.
+
+---
+
+**Connect with Skyler:**
+
+Website: skylerthomas.com
+Email: skyler@skylerthomas.com
+
+---
+
+*"These songs and stories aren't just mine—they're ours. I'm simply putting words to what so many of us have experienced but struggle to name. My prayer is that somewhere in these pages, you find your own story reflected back to you, and you hear God whisper: 'I see you. I know you. And I'm not done with you yet.'"*
+
 
