@@ -22,17 +22,16 @@ All rights reserved. No part of this book may be reproduced or transmitted in an
 
 **ISBN:** 979-8-218-83354-1
 
-Unless otherwise noted, all Scripture quotations are taken from the Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission of Zondervan. All rights reserved worldwide. www.zondervan.com The "NIV" and "New International Version" are trademarks registered in the United States Patent and Trademark Office by Biblica, Inc.™
-
-Scripture quotations marked (ESV) are from The Holy Bible, English Standard Version®, copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.
-
-Scripture quotations marked (MSG) are taken from THE MESSAGE, copyright © 1993, 2002, 2018 by Eugene H. Peterson. Used by permission of NavPress. All rights reserved. Represented by Tyndale House Publishers, a Division of Tyndale House Ministries.
+Unless otherwise noted, all Scripture quotations are taken from the Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, Inc., Carol Stream, Illinois 60188. All rights reserved.
 
 All songs and lyrics copyright © 2025 by Skyler Thomas. All rights reserved.
 
 Cover design by [Publisher/Designer Name]
 
 Published in the United States of America
+
+
+ewpage
 
 **Contact:**
 skylerthomas.com
@@ -65,15 +64,6 @@ And most important, to my loving wife and children who didn't leave me when thin
 
 ---
 
-*"You have made us for yourself, O Lord,
-and our hearts are restless until they rest in you."*
-— Augustine
-
-
-
----
-
-
 # Table of Contents
 
 **Introduction:** The Wayfarer's Anthem
@@ -98,7 +88,7 @@ and our hearts are restless until they rest in you."*
 
 ---
 
-## MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
+## MOVEMENT 3: UNFORCED RHYTHMS (The Transformation)
 
 9. **Unforced Rhythms of Grace**
 10. **Deep Roots, Strong Growth**
@@ -109,27 +99,7 @@ and our hearts are restless until they rest in you."*
 
 ---
 
-**Epilogue:** The Road Ahead
-
-**About the Author**
-
-**Acknowledgments**
-
-**How to Access the Songs**
-
-
-
----
-
-
----
-wp_post_id: 2144
-last_updated: 2025-10-10 08:57:48
----
-
 # Out of the Swamp: How I Found Truth (Introduction)
-
-*Last updated: 2025-10-10 08:57:48*
 
 ## The Wayfarer's Anthem
 
@@ -604,18 +574,7 @@ Let's walk together.
 
 ---
 
-
----
-
-
----
-wp_post_id: 2146
-last_updated: 2025-10-10 08:57:51
----
-
 # Out of the Swamp: How I Found Truth (Movement 1)
-
-*Last updated: 2025-10-10 08:57:51*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 
@@ -801,18 +760,7 @@ The swamp is waiting. But so is grace.
 
 ---
 
-
----
-
-
----
-wp_post_id: 2148
-last_updated: 2025-10-10 08:57:53
----
-
 # Out of the Swamp: How I Found Truth (Chapter 1)
-
-*Last updated: 2025-10-10 08:57:53*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 1: My Swamp
@@ -825,8 +773,9 @@ last_updated: 2025-10-10 08:57:53
 
 [I Will Rise](https://www.skylerthomas.com/wp-content/uploads/2025/03/I-Will-Rise-Duet.mp3)
 
-![Scan to listen: I Will Rise](qr-ch01-i-will-rise.png)
+**Listen at:** http://go.skylerthomas.com/8o4Etw
 
+![Scan to listen: I Will Rise](qr-ch01-i-will-rise.png)
 
 ---
 
@@ -1349,18 +1298,7 @@ It's a beginning.
 
 ---
 
-
----
-
-
----
-wp_post_id: 2150
-last_updated: 2025-10-10 08:57:55
----
-
 # Out of the Swamp: How I Found Truth (Chapter 2)
-
-*Last updated: 2025-10-10 08:57:55*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 2: But Then I Prayed
@@ -1373,8 +1311,9 @@ last_updated: 2025-10-10 08:57:55
 
 [But Then I Prayed](https://www.skylerthomas.com/wp-content/uploads/2025/01/But-then-I-Prayed-Female.mp3)
 
-![Scan to listen: But Then I Prayed](qr-ch02-but-then-i-prayed.png)
+**Listen at:** http://go.skylerthomas.com/swI2s8
 
+![Scan to listen: But Then I Prayed](qr-ch02-but-then-i-prayed.png)
 
 ---
 
@@ -1905,18 +1844,7 @@ And somehow—impossibly—that changes everything.
 
 ---
 
-
----
-
-
----
-wp_post_id: 2187
-last_updated: 2025-10-10 08:57:56
----
-
 # Out of the Swamp: How I Found Truth (Chapter 3)
-
-*Last updated: 2025-10-10 08:57:56*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 3: STOP!! And Make a Decision
@@ -1929,8 +1857,9 @@ last_updated: 2025-10-10 08:57:56
 
 [STOP!! And Make a Decision](https://www.skylerthomas.com/wp-content/uploads/2024/12/STOP-a-Rap.mp3)
 
-![Scan to listen: STOP!! And Make a Decision](qr-ch03-stop.png)
+**Listen at:** http://go.skylerthomas.com/8vYOR0
 
+![Scan to listen: STOP!! And Make a Decision](qr-ch03-stop.png)
 
 ---
 
@@ -2492,18 +2421,7 @@ Move.
 
 ---
 
-
----
-
-
----
-wp_post_id: 2190
-last_updated: 2025-10-10 08:57:56
----
-
 # Out of the Swamp: How I Found Truth (Chapter 4)
-
-*Last updated: 2025-10-10 08:57:56*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 4: Dying Changes Everything
@@ -2516,8 +2434,9 @@ last_updated: 2025-10-10 08:57:56
 
 [Dying Changes Everything](https://www.skylerthomas.com/wp-content/uploads/2025/10/Dying-Changes-Everything.mp3)
 
-![Scan to listen: Dying Changes Everything](qr-ch04-dying-changes.png)
+**Listen at:** http://go.skylerthomas.com/7U8VKi
 
+![Scan to listen: Dying Changes Everything](qr-ch04-dying-changes.png)
 
 ---
 
@@ -3116,18 +3035,7 @@ And Sunday always comes.
 
 ---
 
-
----
-
-
----
-wp_post_id: 2193
-last_updated: 2025-10-10 08:57:57
----
-
 # Out of the Swamp: How I Found Truth (Movement 2)
-
-*Last updated: 2025-10-10 08:57:57*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 
@@ -3341,18 +3249,7 @@ The water is here. The invitation is extended. Grace is waiting.
 
 ---
 
-
----
-
-
----
-wp_post_id: 2198
-last_updated: 2025-10-10 08:57:58
----
-
 # Out of the Swamp: How I Found Truth (Chapter 5)
-
-*Last updated: 2025-10-10 08:57:58*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 5: Living Waters Edge
@@ -3366,8 +3263,9 @@ last_updated: 2025-10-10 08:57:58
 
 [Living Waters Edge](https://www.skylerthomas.com/wp-content/uploads/2024/12/Miracle.mp3)
 
-![Scan to listen: Living Waters Edge](qr-ch05-living-waters-edge.png)
+**Listen at:** http://go.skylerthomas.com/nXiDRV
 
+![Scan to listen: Living Waters Edge](qr-ch05-living-waters-edge.png)
 
 ---
 
@@ -4053,18 +3951,7 @@ You're at the water's edge. And you're wading in. And it's the beginning of ever
 
 ---
 
-
----
-
-
----
-wp_post_id: 2279
-last_updated: 2025-10-10 08:57:59
----
-
 # Out of the Swamp: How I Found Truth (Chapter 6)
-
-*Last updated: 2025-10-10 08:57:59*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 6: In the Shadow of Your Grace
@@ -4079,8 +3966,9 @@ last_updated: 2025-10-10 08:57:59
 
 [In the Shadow of Your Grace](https://www.skylerthomas.com/wp-content/uploads/2025/03/Shadow-of-Your-Grace-Duet.mp3)
 
-![Scan to listen: In the Shadow of Your Grace](qr-ch06-shadow-grace.png)
+**Listen at:** http://go.skylerthomas.com/wqg9eX
 
+![Scan to listen: In the Shadow of Your Grace](qr-ch06-shadow-grace.png)
 
 ---
 
@@ -4590,18 +4478,7 @@ In the shadow of grace.
 
 ---
 
-
----
-
-
----
-wp_post_id: 2281
-last_updated: 2025-10-10 08:58:00
----
-
 # Out of the Swamp: How I Found Truth (Chapter 7)
-
-*Last updated: 2025-10-10 08:58:00*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 7: Amazing Grace I Did Receive
@@ -4614,8 +4491,9 @@ last_updated: 2025-10-10 08:58:00
 
 [Amazing Grace](https://www.skylerthomas.com/wp-content/uploads/2025/02/Amazing-Grace-Female-Remastered.mp3)
 
-![Scan to listen: Amazing Grace](qr-ch07-amazing-grace.png)
+**Listen at:** http://go.skylerthomas.com/UCBWc5
 
+![Scan to listen: Amazing Grace](qr-ch07-amazing-grace.png)
 
 ---
 
@@ -5137,18 +5015,7 @@ You're being made new. And it's only just beginning.
 
 ---
 
-
----
-
-
----
-wp_post_id: 2296
-last_updated: 2025-10-10 08:58:01
----
-
 # Out of the Swamp: How I Found Truth (Chapter 8)
-
-*Last updated: 2025-10-10 08:58:01*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 8: Dig a Little Deeper
@@ -5161,8 +5028,9 @@ last_updated: 2025-10-10 08:58:01
 
 [Dig a Little Deeper](https://www.skylerthomas.com/wp-content/uploads/2025/10/Dig-a-Little-Deeper.mp3)
 
-![Scan to listen: Dig a Little Deeper](qr-ch08-dig-deeper.png)
+**Listen at:** http://go.skylerthomas.com/i0kY88
 
+![Scan to listen: Dig a Little Deeper](qr-ch08-dig-deeper.png)
 
 ---
 
@@ -5786,18 +5654,7 @@ And grace, you're discovering, has no bottom.
 
 ---
 
-
----
-
-
----
-wp_post_id: 2300
-last_updated: 2025-10-10 08:58:02
----
-
 # Out of the Swamp: How I Found Truth (Movement 3)
-
-*Last updated: 2025-10-10 08:58:02*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 
@@ -5973,18 +5830,7 @@ If you're not sure yet, that's okay too. These chapters will teach you. Step by 
 
 ---
 
-
----
-
-
----
-wp_post_id: 2302
-last_updated: 2025-10-10 08:58:02
----
-
 # Out of the Swamp: How I Found Truth (Chapter 9)
-
-*Last updated: 2025-10-10 08:58:02*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 9: Unforced Rhythms of Grace
@@ -5998,8 +5844,9 @@ last_updated: 2025-10-10 08:58:02
 
 [Mindful Bliss of Grace](https://www.skylerthomas.com/wp-content/uploads/2025/01/Mindful-Bliss-Female.mp3)
 
-![Scan to listen: Mindful Bliss of Grace](qr-ch09-mindful-bliss.png)
+**Listen at:** http://go.skylerthomas.com/jYgQNf
 
+![Scan to listen: Mindful Bliss of Grace](qr-ch09-mindful-bliss.png)
 
 ---
 
@@ -6551,18 +6398,7 @@ You take a breath—deep, full, unforced. And you realize: this is sustainable. 
 
 Into mindful bliss.
 
-
----
-
-
----
-wp_post_id: 2317
-last_updated: 2025-10-10 08:58:03
----
-
 # Out of the Swamp: How I Found Truth (Chapter 10)
-
-*Last updated: 2025-10-10 08:58:03*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 10: Deep Roots, Strong Growth
@@ -6577,8 +6413,9 @@ last_updated: 2025-10-10 08:58:03
 
 [I Will Trust You Lord](https://www.skylerthomas.com/wp-content/uploads/2025/02/I-Will-Trust-You-Lord.mp3)
 
-![Scan to listen: I Will Trust You Lord](qr-ch10-trust-you-lord.png)
+**Listen at:** http://go.skylerthomas.com/DxCmnx
 
+![Scan to listen: I Will Trust You Lord](qr-ch10-trust-you-lord.png)
 
 ---
 
@@ -7117,18 +6954,7 @@ Like a tree planted by streams of water. Leaves green. Fruit in season. Soul str
 
 Deeply rooted in the love of God.
 
-
----
-
-
----
-wp_post_id: 2318
-last_updated: 2025-10-10 08:58:04
----
-
 # Out of the Swamp: How I Found Truth (Chapter 11)
-
-*Last updated: 2025-10-10 08:58:04*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 11: Redemption's Story
@@ -7141,8 +6967,9 @@ last_updated: 2025-10-10 08:58:04
 
 [Redemption Story](https://www.skylerthomas.com/wp-content/uploads/2024/12/Redemption-Story-Female.mp3)
 
-![Scan to listen: Redemption Story](qr-ch11-redemption-story.png)
+**Listen at:** http://go.skylerthomas.com/MN36D4
 
+![Scan to listen: Redemption Story](qr-ch11-redemption-story.png)
 
 ---
 
@@ -7730,18 +7557,7 @@ You're part of that story. A beloved participant in God's grand project to redee
 
 Forever redeemed. Forever His own.
 
-
----
-
-
----
-wp_post_id: 2319
-last_updated: 2025-10-10 08:58:04
----
-
 # Out of the Swamp: How I Found Truth (Chapter 12)
-
-*Last updated: 2025-10-10 08:58:04*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 12: Nothing is Wasted
@@ -7754,8 +7570,9 @@ last_updated: 2025-10-10 08:58:04
 
 [Nothing is Wasted](https://www.skylerthomas.com/wp-content/uploads/2025/08/Nothing-is-Wasted-Remastered.mp3)
 
-![Scan to listen: Nothing is Wasted](qr-ch12-nothing-wasted.png)
+**Listen at:** http://go.skylerthomas.com/smBjeW
 
+![Scan to listen: Nothing is Wasted](qr-ch12-nothing-wasted.png)
 
 ---
 
@@ -8250,18 +8067,7 @@ On the mountain of the Lord, provision is made.
 
 And in the economy of God, nothing—absolutely nothing—is wasted.
 
-
----
-
-
----
-wp_post_id: 2320
-last_updated: 2025-10-10 08:58:05
----
-
 # Out of the Swamp: How I Found Truth (Chapter 13)
-
-*Last updated: 2025-10-10 08:58:05*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 13: Devil's On The Run
@@ -8275,8 +8081,9 @@ last_updated: 2025-10-10 08:58:05
 
 [Devil's On The Run](https://www.skylerthomas.com/wp-content/uploads/2025/07/Devils-On-The-Run-III-Remix-Remastered-Remix.mp3)
 
-![Scan to listen: Devil's On The Run](qr-ch13-devils-run.png)
+**Listen at:** http://go.skylerthomas.com/xSXwkH
 
+![Scan to listen: Devil's On The Run](qr-ch13-devils-run.png)
 
 ---
 
@@ -8835,18 +8642,7 @@ He runs.
 
 Every single time.
 
-
----
-
-
----
-wp_post_id: 2321
-last_updated: 2025-10-10 08:58:06
----
-
 # Out of the Swamp: How I Found Truth (Chapter 14)
-
-*Last updated: 2025-10-10 08:58:06*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 14: Living in the Moment
@@ -8859,8 +8655,9 @@ last_updated: 2025-10-10 08:58:06
 
 [This Moment is Enough](https://www.skylerthomas.com/wp-content/uploads/2025/09/This-Moment-is-Enough.mp3)
 
-![Scan to listen: This Moment is Enough](qr-ch14-this-moment.png)
+**Listen at:** http://go.skylerthomas.com/jIthAe
 
+![Scan to listen: This Moment is Enough](qr-ch14-this-moment.png)
 
 ---
 
@@ -9386,199 +9183,4 @@ And this moment—this sacred, grace-filled, God-inhabited moment—is enough.
 More than enough.
 
 It's everything.
-
-
----
-
-
-# Epilogue: The Road Ahead
-
-You've journeyed from swamp to water's edge to unforced rhythms. You've named your struggle, cried out in prayer, made the decision to stop and choose life, and discovered that dying to self changes everything.
-
-You've been washed at the water's edge, learning what it means to live in the shadow of grace, receiving what you could never earn, and digging deeper into healing.
-
-And you've begun to walk in the unforced rhythms of grace—sending roots deep, discovering redemption's story woven through your life, learning that nothing is wasted, standing firm because the devil is on the run, and living fully present in this moment.
-
-But here's the truth I need you to hear before you close this book:
-
-**This isn't the end. It's the beginning.**
-
-The Christian life isn't about arriving at some final destination where everything is fixed and all questions are answered. It's about walking with Jesus—day by day, moment by moment, breath by breath.
-
-There will be days when you feel like you're back in the swamp. When old patterns resurface. When shame whispers that you haven't really changed.
-
-On those days, remember: you're not starting over. You're continuing forward. The work God began in you, He is faithful to complete (Philippians 1:6).
-
-There will be days when grace feels distant. When you're exhausted from trying to live up to standards you were never meant to carry.
-
-On those days, come back to the water's edge. Let grace wash over you again. It's not a one-time event—it's a daily returning to the truth of who you are in Christ.
-
-There will be days when the rhythms feel forced. When life speeds up and you lose your footing in the chaos.
-
-On those days, hear Jesus' invitation again: "Come to me, all you who are weary and burdened, and I will give you rest" (Matthew 11:28). The rhythms are always unforced. The striving is always unnecessary. He is always enough.
-
----
-
-## What Now?
-
-If you're wondering what to do next, here are a few suggestions:
-
-**1. Go back through the "Reflections for the Road" questions.** Don't rush. Sit with each one. Journal. Pray. Be honest with God and with yourself.
-
-**2. Practice one thing from this book consistently.** Maybe it's the Daily Examen from Chapter 14. Maybe it's breath prayers throughout your day. Maybe it's naming your swamp and bringing it to God in honest prayer. Pick one. Do it. Let it become a rhythm.
-
-**3. Find a community.** This journey isn't meant to be walked alone. Find people who will listen without judgment, who will speak truth in love, who will remind you of grace when you forget.
-
-**4. Listen to the songs.** Music has a way of reaching places words alone can't touch. Let these songs become part of your prayer life, your worship, your remembering.
-
-**5. Keep walking.** Some days you'll sprint. Some days you'll crawl. Some days you'll sit still and rest. All of it is part of the journey. Just don't stop moving toward Jesus.
-
----
-
-## A Final Word
-
-I don't know where you are right now. Maybe you're in the deepest part of the swamp, and this book felt like a lifeline. Maybe you're at the water's edge, tentatively stepping into grace. Maybe you're learning the rhythms and discovering that life with Jesus is better than you imagined.
-
-Wherever you are, know this:
-
-God isn't finished with you.
-Grace is still sufficient.
-This moment is still enough.
-
-And the One who called you out of the swamp is faithful to walk with you every step of the way.
-
-Keep walking, wayfarer.
-The journey is just beginning.
-
----
-
-*"Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus."*
-— Philippians 1:6
-
-
-
----
-
-
-# About the Author
-
-**Skyler Thomas** is a songwriter, writer, and wayfarer who believes that honest stories and grace-filled truth have the power to change lives.
-
-Born and raised in across many states of the U.S. of A., Skyler has spent a lifetime exploring the intersection of faith, music, and spiritual formation. Through personal struggles and profound encounters with God's grace, Skyler discovered that transformation doesn't happen through striving, but through surrender to the unforced rhythms of grace.
-
-This book represents over a dozen years of journaling, songwriting, and wrestling with what it means to follow Jesus in the midst of real life—messy, broken, beautiful, and redeemed.
-
-Skyler's music and writing can be found at **skylerthomas.com**, where you can access all the songs featured in this book, read additional blog posts, and connect with a growing community of wayfarers learning to walk in grace.
-
-When not writing or making music, Skyler enjoys family and friends building memories.
-
----
-
-**Connect with Skyler:**
-
-Website: skylerthomas.com
-Email: skyler@skylerthomas.com
-
----
-
-*"These songs and stories aren't just mine—they're ours. I'm simply putting words to what so many of us have experienced but struggle to name. My prayer is that somewhere in these pages, you find your own story reflected back to you, and you hear God whisper: 'I see you. I know you. And I'm not done with you yet.'"*
-
-
-
----
-
-
-# Acknowledgments
-
-*[Note: Customize this section with your personal acknowledgments]*
-
----
-
-This book would not exist without the grace of God and the support of countless people who have walked with me through the swamp, the water's edge, and into the unforced rhythms.
-
-**To Jesus:** Thank You for meeting me in the darkest places and refusing to let me stay there. This book is a testimony to Your faithfulness, Your patience, and Your relentless love. Everything I have, everything I am, is because of grace.
-
-**To my family:** [Personalize this section - thank family members by name]
-
-**To my spiritual community:** [Thank your church, small group, mentors, spiritual directors, etc.]
-
-**To my early readers and editors:** [Thank those who reviewed drafts, provided feedback, encouraged you]
-
-**To the musicians and producers:** [Thank anyone who helped with the songs - musicians, producers, sound engineers, etc.]
-
-**To [Publisher/Editor name]:** Thank you for believing in this project and helping bring it to life.
-
-**To those who shared their stories with me:** Your vulnerability and honesty shaped this book in profound ways. Thank you for trusting me with your swamps, your struggles, and your discoveries of grace.
-
-**To you, the reader:** Thank you for picking up this book. Thank you for being willing to do the hard work of spiritual formation. Thank you for being a fellow wayfarer on this journey toward wholeness.
-
----
-
-*"I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me."*
-— Galatians 2:20
-
-
-
----
-
-
-# How to Access the Songs
-
-Each chapter in this book features an original song written to accompany the spiritual themes and personal narratives. These songs are not just supplementary material—they are integral to the experience of this book.
-
-Music has a unique ability to reach places in our hearts that words alone cannot touch. These songs were written in the midst of struggle, in moments of revelation, and in seasons of transformation. They are prayers set to melody, theology wrapped in rhythm, and testimonies sung from a place of deep vulnerability.
-
-## Listen Online
-
-All songs featured in this book are available for free listening at:
-
-**skylerthomas.com/songs**
-
-You can stream each song directly from the website, where you'll also find:
-- Lyrics for each song
-- Background stories about how each song was written
-- Additional devotional content
-- Links to download or purchase the songs
-
-## QR Code Access
-
-![Scan to access all songs at skylerthomas.com/songs](songs-qr-code.png)
-
-Scan this QR code with your smartphone camera to instantly access all the songs.
-
-## Song List
-
-Here are all 14 songs featured in this book, in order of appearance:
-
-1. **I Will Rise** (Chapter 1: My Swamp)
-2. **But Then I Prayed** (Chapter 2: But Then I Prayed)
-3. **STOP!! And Make a Decision** (Chapter 3: STOP!! And Make a Decision)
-4. **Dying Changes Everything** (Chapter 4: Dying Changes Everything)
-5. **Living Waters Edge** (Chapter 5: Living Waters Edge)
-6. **In the Shadow of Your Grace** (Chapter 6: In the Shadow of Your Grace)
-7. **Amazing Grace I Did Receive** (Chapter 7: Amazing Grace I Did Receive)
-8. **Dig a Little Deeper** (Chapter 8: Dig a Little Deeper)
-9. **Unforced Rhythms of Grace** (Chapter 9: Unforced Rhythms of Grace)
-10. **Deep Roots, Strong Growth** (Chapter 10: Deep Roots, Strong Growth)
-11. **Redemption's Story** (Chapter 11: Redemption's Story)
-12. **Nothing is Wasted** (Chapter 12: Nothing is Wasted)
-13. **Devil's On The Run** (Chapter 13: Devil's On The Run)
-14. **This Moment is Enough** (Chapter 14: Living in the Moment)
-
-## A Suggestion
-
-As you read each chapter, consider listening to the song before you begin or after you finish. Let the music become part of your spiritual practice. Sing along. Pray the lyrics. Let them sink deep into your soul.
-
-Some readers have found it helpful to create a playlist of all the songs and listen while journaling through the "Reflections for the Road" questions at the end of each chapter.
-
-However you choose to engage with these songs, my prayer is that they become companions on your journey—reminders of grace, anchors in the storm, and melodies of hope when words fail.
-
----
-
-*"Speak to one another with psalms, hymns, and songs from the Spirit. Sing and make music from your heart to the Lord."*
-— Ephesians 5:19
-
-
-
----
 
