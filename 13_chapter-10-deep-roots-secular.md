@@ -1,33 +1,68 @@
+---
+wp_post_id: 2317
+last_updated: 2025-10-11 19:28:21
+---
+
+# Out of the Swamp: How I Found Truth (Chapter 10)
+
+*Last updated: 2025-10-11 19:28:21*
+
+### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 10: Deep Roots, Strong Growth
-**Based on:** "I Will Trust You Lord" (Devotional and Song)
 
-**Opening Scene (2-3 pages):**
-
-It's late July, and the heat wave has been relentless. Three weeks without rain. Your neighbor's lawn is brown and crispy. The flowers in the planters along Main Street are wilting, despite the city's best efforts to keep them watered.
-
-But there's one tree in your yard—an old oak that's been there longer than your house—and it's still green. Lush, even. While everything else withers, this tree stands tall, leaves full and vibrant, like it doesn't even notice the drought.
-
-You mention it to a friend who happens to be a landscaper. "How is that tree still green? Everything else is dying."
-
-He smiles. "Roots. That tree's been there fifty, maybe sixty years. Its roots go down twenty, thirty feet. It's not depending on surface water anymore. It's tapped into something deeper."
-
-You stand there looking at that tree, and something clicks.
-
-This is what you've been missing.
-
-You've learned rhythm. You've discovered the unforced way of living. You're not in crisis mode anymore. But you're also aware—painfully aware—that when stress comes, when pressure mounts, when circumstances get hard, you still revert to old patterns.
-
-You still react defensively when criticized. You still withdraw when hurt. You still carry bitterness longer than you should. You still struggle with pride, with comparison, with the need to prove yourself.
-
-The rhythms are good. But they're not enough. Because rhythms without roots become rote. Practices without depth become performance.
-
-You need more than sustainable patterns. You need deep foundations. The kind that reach down to streams of living water and anchor you when everything else shakes.
-
-You're learning that transformation isn't just about what you do. It's about who you're becoming. And becoming takes time. It happens underground, unseen, in the slow work of roots going deep.
+> "Blessed is the one who trusts in the LORD...
+> They will be like a tree planted by the water...
+> Its leaves are always green; it has no worries...
+> and never fails to bear fruit."
+> — Jeremiah 17:7-8
 
 ---
 
-**The Geography of Deep Roots (2 pages):**
+[I Will Trust You Lord](https://www.skylerthomas.com/wp-content/uploads/2025/02/I-Will-Trust-You-Lord.mp3)
+
+**Listen at:** http://go.skylerthomas.com/DxCmnx
+
+![Scan to listen: I Will Trust You Lord](qr-ch10-trust-you-lord.png)
+
+---
+
+**An Invitation to Go Deeper**
+
+You've discovered rhythm. You've learned the unforced way of living. You're not in crisis mode anymore, not frantically trying to maintain impossible intensity.
+
+But now I need to ask you something uncomfortable:
+
+**When stress comes, when pressure mounts, when circumstances get hard—do you still revert to old patterns?**
+
+Be honest. Do you still react defensively when criticized? Still withdraw when hurt? Still carry bitterness longer than you should? Still struggle with pride, with comparison, with the need to prove yourself?
+
+Here's what I've discovered: **Rhythms are good. But rhythms without roots become rote. Practices without depth become performance.**
+
+You need more than sustainable patterns. You need deep foundations. The kind that reach down to streams of living water and anchor you when everything else shakes.
+
+This chapter is about what happens underground. The hidden work. The slow transformation that no one sees but everyone eventually experiences.
+
+It's about discovering that you're not just learning new habits—you're becoming a new person. And becoming takes time. It happens in the dark, unseen, in the patient work of roots going deep.
+
+*Think of a tree during drought. Surface plants die—they had no depth, no reserves, nothing to draw from when conditions got hard. But the deeply rooted? They stay green. Not because they're stronger or trying harder. Because their roots have gone deep enough to reach water others can't access.*
+
+That's what this chapter is about. Not what you look like on the surface. But what's happening underground.
+
+Deep roots require putting to death what doesn't belong: pride, reactivity, isolation, bitterness. And cultivating what does: humility, responsiveness, connection, forgiveness.
+
+None of this is impressive. None of this gets applause. None of this makes for a dramatic testimony.
+
+But it's everything. Because roots determine what happens above ground.
+
+So before you continue, pause. Consider:
+
+*Can you say, even with hesitation: "God, I don't just want to look different. I want to BE different. Do the deep work in me—the underground work, the unseen work. Send my roots down deep until I'm anchored in You, not in circumstances."*
+
+That's the prayer that opens transformation.
+
+Because what comes next isn't about impressive growth. It's about sustainable depth.
+
+---
 
 Here's the hard truth about roots: you can't see them. You can't measure them. You can't Instagram them.
 
@@ -57,10 +92,9 @@ The question isn't "What do I look like on the surface?"
 The question is "What's happening underground?"
 
 ---
+## Key Themes
 
-**Key Themes (3-4 pages):**
-
-**1. The Work of Putting to Death**
+### 1. The Work of Putting to Death
 
 Before roots can go deep into what belongs, they have to let go of what doesn't. This is the paradox at the heart of spiritual growth: deep roots require dying.
 
@@ -79,6 +113,8 @@ Humility is the antidote. Not self-hatred. But what Paul calls "considering othe
 Reactivity is living from your False Self—the wounded, defended, self-protective version of you.
 
 Deep roots grow when you learn to respond from your True Self—the beloved, secure, grounded-in-God version of you.
+
+There's a space between what happens to us and how we respond. In that space lies our power to choose. Viktor Frankl called this the essence of human freedom—the ability to choose our response even in the most difficult circumstances.
 
 I've been working on this for years, and I still fail regularly. Someone questions my decision, and I immediately get defensive. Someone misunderstands my motives, and I rush to explain. Someone hurts me, and I want to hurt back.
 
@@ -104,7 +140,12 @@ Forgiveness is the answer. Not because what happened was okay. But because holdi
 
 You release it so your roots can grow deep into grace rather than staying tangled in grievance.
 
-**2. The Work of Cultivating What Belongs**
+> "To forgive is to set a prisoner free and discover that the prisoner was you."
+> — Lewis B. Smedes, *Forgive and Forget*
+
+Putting things to death is only half the work of sending roots deep. The other half is actively cultivating what belongs—replacing what dies with what brings life.
+
+### 2. The Work of Cultivating What Belongs
 
 Putting to death is only half the work. The other half is cultivating what belongs—the virtues, practices, and postures that create conditions for deep roots.
 
@@ -128,7 +169,9 @@ Connection is where roots deepen.
 
 Forgiveness isn't a one-time decision. It's a daily practice. Sometimes an hourly practice. You choose to release the offense again and again until one day you realize it no longer has power over you.
 
-**3. The Tree by Streams of Water**
+These practices of putting to death and cultivating life create the conditions for deep roots. And Psalm 1 paints the picture of what a deeply rooted life looks like.
+
+### 3. The Tree by Streams of Water
 
 Psalm 1 paints a picture of flourishing that captures everything deep roots make possible:
 
@@ -150,7 +193,9 @@ Notice the progression:
 
 Stay rooted. The fruit will come. Not forced. Not manufactured. Organic. In season.
 
-**4. Roots Take Time**
+This picture of the tree by streams of water is beautiful. But here's what we need to understand: roots like these don't grow overnight. They require something most of us struggle with: time.
+
+### 4. Roots Take Time
 
 Here's what nobody tells you about deep roots: they take time. Years. Sometimes decades.
 
@@ -172,13 +217,23 @@ This is the long obedience in the same direction. This is the slow work of becom
 
 And it's worth it. Because when the drought comes—and it will come—deep roots mean the difference between withering and thriving.
 
----
+> "A Christian is never in a state of completion but always in the process of becoming."
+> — Martin Luther, *Lectures on Romans*
 
-**Biblical Parallels (2-3 pages):**
+---
+## Stories of Roots and Growth
 
 **The Parable of the Sower (Matthew 13:1-23)**
 
-Jesus tells a story about a farmer scattering seed. Some falls on the path—birds eat it. Some falls on rocky ground—it sprouts quickly but withers because it has no root. Some falls among thorns that choke it. And some falls on good soil and produces a crop.
+Picture a farmer at sunrise, walking through his field with a bag of seed slung across his shoulder. He reaches in, pulls out a handful, and with a practiced motion scatters it in a wide arc. The seeds catch the light as they fly—some landing on the hardened path where people walk, some on the rocky outcropping at the field's edge, some among the tangle of thistles and thornbushes, and some on the rich, dark soil he's spent years cultivating.
+
+The birds descend immediately on the path—quick, efficient, merciless. The seed never had a chance. Hard ground, no penetration, gone.
+
+The rocky ground is more deceptive. Within days, bright green shoots push through the thin layer of soil. It looks promising—fast growth, visible progress. But underneath, the roots hit stone. They can't go deep. They spread sideways, searching for depth that isn't there. When the sun climbs high and hot, these plants are the first to wilt. No water reaches them. The shallow soil heats up. They brown, curl, die. Speed isn't the same as strength.
+
+The thorny ground also shows promise at first. The seeds germinate, the plants grow. But so do the weeds. Thorns that were cut back last season return with a vengeance, growing faster, reaching higher. They don't kill the good plants outright—they just crowd them out. Steal their light. Choke their growth. The plants survive but never thrive, never fruit. They're strangled slowly by competition for resources.
+
+But the good soil—this is different. The seeds sink in. The roots go down, spreading through soil that's been broken up, enriched, prepared. When the sun beats down, these roots reach moisture. When storms come, these roots hold firm. The plants grow steadily—not frantically, but surely. And when harvest comes, they're heavy with grain. Thirty, sixty, a hundred times what was planted.
 
 The rocky ground is particularly relevant here:
 
@@ -198,29 +253,33 @@ The disciplines are how you cultivate the soil of your soul so roots can go deep
 
 **The Vine and the Branches (John 15:1-8)**
 
-Jesus uses agricultural imagery to describe the Christian life:
+Walk through a vineyard in late summer and you'll see the vine—thick, gnarled, ancient—with branches spreading out in all directions. Run your hand along a healthy branch and you can feel it: firm, supple, alive. The connection point where branch meets vine is seamless, organic. Sap flows from the vine through that connection, carrying nutrients, water, life itself.
+
+Pick up a branch that's been cut off and the difference is immediate. It looks similar at first—same shape, same leaves. But touch it and you feel the brittleness. The leaves are already starting to brown at the edges. Give it a few days and it's completely dead, fit only for burning.
 
 > "I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing."
 >
 > — John 15:5
 
-The key word is "remain"—or "abide." This is the language of roots. Branches don't try to produce fruit. They remain connected to the vine. And fruit happens naturally.
+The key word is "remain"—or "abide." This is the language of roots, of connection that sustains life. Branches don't try to produce fruit through effort or willpower. They remain connected to the vine. And fruit happens naturally, inevitably, organically.
 
-You don't manufacture fruit through effort. You remain connected to Jesus through sustained practices of prayer, Scripture, worship, community. And fruit—love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control—grows organically.
+You don't manufacture fruit through striving. You remain connected through sustained practices—prayer that keeps the conversation going, Scripture that keeps the life flowing, worship that keeps the heart open, community that keeps the connection strong. And fruit—love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control—grows the way grapes grow on a branch: not by trying, but by remaining.
 
-But remaining requires intentionality. Branches can be cut off. They can be pruned. They can wither if they don't stay connected to the vine.
+But remaining requires intentionality. A branch doesn't have to work to stay connected, but it can be cut off if diseased. It can be pruned to produce more fruit. It can even choose to pull away from the vine. The vinedresser tends the branches carefully, cutting away what's dead, trimming back what's unproductive, ensuring that every branch that remains produces as much fruit as possible.
 
-The unforced rhythms of grace aren't passive. They're active cooperation with God's life flowing into you. You position yourself. You remain. You abide. And the fruit comes.
+The unforced rhythms of grace aren't passive—they're active cooperation with God's life flowing into you. You position yourself under the flow. You remain in the connection. You abide in the relationship. And the fruit comes, not from your effort but from His life in you.
 
 **Jeremiah's Promise (Jeremiah 17:7-8)**
 
-The prophet Jeremiah expands on Psalm 1's imagery with even stronger promises:
+Picture two trees in the same region during a drought year. The first tree stands alone in an open field, dependent entirely on rainfall. Its roots spread wide but shallow, searching for moisture that isn't there. As the rainless months stretch on, its leaves yellow, then brown. It drops them early, conserving what little moisture remains. It survives, barely, but produces no fruit this year. Maybe next year, if the rains return.
+
+The second tree looks different even from a distance. Its leaves are deep green, almost glossy. It stands tall, full, healthy—not because it's stronger or more resilient by nature, but because of where it's planted: right by a stream. You can see its roots at the water's edge, thick and gnarled, disappearing into the mud. Those roots don't just touch the water—they're in it, drawing constantly from a source that doesn't depend on weather patterns.
 
 > "But blessed is the one who trusts in the LORD, whose confidence is in him. They will be like a tree planted by the water that sends out its roots by the stream. It does not fear when heat comes; its leaves are always green. It has no worries in a year of drought and never fails to bear fruit."
 >
 > — Jeremiah 17:7-8
 
-Notice the difference: Jeremiah emphasizes trust and resilience.
+This is Jeremiah's promise, and it's built on trust and resilience.
 
 **Trust as the foundation.** Your roots go where your trust is. If you trust yourself, roots stay shallow—limited by your capacity. If you trust God, roots go deep—accessing an infinite source.
 
@@ -231,8 +290,7 @@ Notice the difference: Jeremiah emphasizes trust and resilience.
 When you're deeply rooted in God, you don't become fruitless in hard seasons. The fruit might look different—not abundance, but endurance; not productivity, but presence. But you never fail to bear it.
 
 ---
-
-**Theological Anchor (2 pages):**
+## The Core Scripture Truth
 
 **John 15:5-8** - "I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing. If you do not remain in me, you are like a branch that is thrown away and withers... This is to my Father's glory, that you bear much fruit, showing yourselves to be my disciples."
 
@@ -267,8 +325,7 @@ This is the theological anchor: remain in Jesus. Let His words remain in you. An
 Deep roots make abiding possible. And abiding makes fruit inevitable.
 
 ---
-
-**The Wayfarer Moment (1-2 pages):**
+## The Wayfarer Moment
 
 **Learning to trust the hidden work.**
 
@@ -309,10 +366,69 @@ But I don't panic anymore. Because I know: the roots are there. They're deep. An
 This is the invitation: trust the hidden work. Keep showing up. Keep practicing the disciplines. Keep remaining in Jesus. The fruit will come. In season. When roots are ready.
 
 ---
+## Psalm 1 (NLT)
 
-**Song Integration (2-3 pages):**
+> Oh, the joys of those who do not
+>     follow the advice of the wicked,
+>     or stand around with sinners,
+>     or join in with mockers.
+> But they delight in the law of the LORD,
+>     meditating on it day and night.
+> They are like trees planted along the riverbank,
+>     bearing fruit each season.
+> Their leaves never wither,
+>     and they prosper in all they do.
+>
+> But not the wicked!
+>     They are like worthless chaff, scattered by the wind.
+> They will be condemned at the time of judgment.
+>     Sinners will have no place among the godly.
+> For the LORD watches over the path of the godly,
+>     but the path of the wicked leads to destruction.
+>
+> — Psalm 1 (NLT)
 
-**Song: "I Will Trust You Lord"**
+---
+## Song Integration
+
+The counselor looked at me and said, "You're doing all the right things, but your roots haven't gone deep enough yet."
+
+I didn't want to hear that. I'd been practicing the rhythms for months. Showing up to prayer even when I didn't feel like it. Reading Scripture even when it felt dry. Staying connected to community even when I wanted to withdraw.
+
+But I couldn't see results. I still struggled with the same issues. Still reacted defensively. Still battled pride. Still felt the pull of isolation.
+
+I was discouraged, wondering: *Is any of this working? Am I actually growing? Or am I just going through the motions?*
+
+The answer, I discovered, was that transformation happens underground before it's visible above the surface.
+
+Then I read Psalm 1. And Jeremiah 17. And something clicked.
+
+The tree planted by streams of water doesn't produce fruit immediately. First, roots go down. Deep. Searching for water. Anchoring in soil. Building the underground foundation that will support everything above ground.
+
+The fruit comes later. In season. When roots are ready.
+
+I was expecting visible growth—immediate fruit, dramatic change, measurable progress. But God was doing underground work. Sending my roots deeper. Teaching me to draw from living water instead of surface emotions.
+
+Psalm 1 became my anchor. The image of a tree "replanted in Eden, bearing fresh fruit every month, never dropping a leaf, always in blossom"—that's not describing constant productivity. It's describing sustainable fruitfulness rooted in something deeper than circumstances.
+
+The tree thrives not because it tries harder but because it's connected to a source of life that never runs dry.
+
+That's when "I Will Trust You Lord" was born. The song is a declaration: even when I can't see growth, even when the work feels invisible, even when drought comes—my roots are going deep. I'm planted by streams of living water. And I will trust the hidden work.
+
+The chorus captures the promise: "Like a tree beside the river, I will stand so tall. Through the fire, through the season, You're my all in all."
+
+Not standing because I'm strong. Standing because I'm rooted. Not thriving because conditions are perfect. Thriving because I'm drawing from a source deeper than circumstances.
+
+The bridge confronts the fears: "No fear in the drought... No doubt in the storm... Your love is my anchor... I'll trust You, Lord."
+
+This isn't denial. It's confidence. Rooted confidence that says: I can face drought because my roots go deeper than surface water. I can weather storms because I'm anchored in something immovable.
+
+When I sing this now, it reminds me: the work happening underground is just as real—maybe more real—than the work visible above ground. And if I'll trust the process, keep showing up, keep putting roots down deep, the fruit will come.
+
+In season. When roots are ready.
+
+---
+## Lyrics: I Will Trust You Lord
 
 **[Verse 1]**
 I will trust You, Lord, my shelter, my song
@@ -370,37 +486,16 @@ By Your love, I stand so strong
 Deeply rooted, always faithful
 In Your hands, I belong
 
-*Copyright © 2025 by SkylerThomas*
+---
+## Key Takeaways
+
+- **Roots determine resilience.** Surface growth impresses, but deep roots sustain. When drought comes, shallow plants wither while deeply rooted trees stay green—not through effort, but through connection to living water.
+- **Put pride, reactivity, isolation, and bitterness to death.** These keep roots shallow. Replace them with humility, responsiveness, connection, and forgiveness to create conditions for deep growth.
+- **Remain in the vine; fruit follows naturally.** You don't manufacture spiritual fruit through striving. You stay connected to Jesus through sustained practices, and transformation flows from that abiding relationship.
+- **Trust the hidden work.** The most important growth happens underground, unseen and unmeasured. Keep showing up, keep practicing, keep remaining—the roots are going deeper than you realize.
 
 ---
-
-**The Story Behind the Song:**
-
-I wrote this song during a season when I felt invisible. Not in crisis. Not in the swamp. Just... quietly growing. And wondering if anything was actually changing.
-
-I'd been practicing the rhythms for months. Showing up to prayer even when I didn't feel like it. Reading Scripture even when it felt dry. Staying connected to community even when I wanted to withdraw.
-
-But I couldn't see results. I still struggled with the same issues. Still reacted defensively. Still battled pride. Still felt the pull of isolation.
-
-And I was discouraged. Wondering: Is any of this working? Am I actually growing? Or am I just going through the motions?
-
-Then I read Psalm 1. And Jeremiah 17. And something clicked.
-
-The tree doesn't look dramatically different day to day. But its roots are going deeper. And when drought comes, it doesn't wither. Because the roots have reached water others can't access.
-
-That's when I understood: God wasn't concerned with my visible progress. He was doing the hidden work. Growing roots.
-
-The song poured out as a declaration of trust. Not "I feel strong." But "I will trust You, Lord." Not "I've arrived." But "My roots grow strong."
-
-It became my anthem for the invisible seasons. The times when I couldn't see growth but had to trust it was happening. When I had to believe that deep roots were forming even though I couldn't measure them.
-
-And looking back now, years later, I can see it. The roots did go deep. The storms came. And I didn't wither.
-
-Not because I'm strong. Because the roots reached living water.
-
----
-
-**Reflections for the Road (1-2 pages):**
+## Reflections for the Road
 
 **Questions for the Journey:**
 - What needs to die so roots can go deep? Where is pride keeping you shallow? Where is reactivity preventing growth? Where is isolation cutting you off? Where is bitterness poisoning the soil?
@@ -408,28 +503,29 @@ Not because I'm strong. Because the roots reached living water.
 - Where are you trying to manufacture fruit instead of remaining in the vine? Are you striving to be more loving? Trying harder to be joyful? White-knuckling your way to peace?
 - What does "fruit in season" mean for you right now? Not every season is fruitful. Some are for growth. Some for pruning. Some for rest. What season are you in?
 
-**Practice: Cultivating Deep Roots**
+---
+
+## Practice: Cultivating Deep Roots
 
 Here's a simple framework for sending roots deep through spiritual disciplines:
 
-**1. Daily: Drink from the stream**
+### 1. Daily: Drink from the stream
 Choose one practice that connects you to God daily. Morning prayer and Scripture. Lectio divina. Journaling. Listening prayer in silence. The practice matters less than the consistency.
 
-**2. Weekly: Sabbath rest**
+### 2. Weekly: Sabbath rest
 Set aside one day (or a few hours) each week for Sabbath. Not as legalism. As gift. Stop striving so you can receive rest. Stop producing so you can receive belovedness.
 
-**3. Monthly: Solitude and silence**
+### 3. Monthly: Solitude and silence
 Once a month, create extended space for solitude. A few hours. A half day. A full day if possible. Intentional time alone with God. Away from noise, hurry, screens, people. Listen. Rest. Let God search your heart.
 
-**4. Seasonally: Examine your roots**
+### 4. Seasonally: Examine your roots
 Every few months, review: Are my roots going deeper? Or am I staying shallow? Am I more reactive or more responsive? More isolated or more connected? More bitter or more forgiving?
 
-**5. Community: Grow in groves**
+### 5. Community: Grow in groves
 Trees don't grow in isolation. Their roots intertwine with other roots. You need community. Real community. Where you can confess struggles, receive prayer, offer encouragement, practice forgiveness, serve together.
 
 ---
-
-**Closing Image:**
+## Closing Image
 
 You're standing at the base of an ancient tree. Massive. Towering. Its canopy spreads wide, providing shade for acres.
 
@@ -464,5 +560,3 @@ Because your roots—hidden, deep, sustained by streams of living water—will h
 Like a tree planted by streams of water. Leaves green. Fruit in season. Soul strong.
 
 Deeply rooted in the love of God.
-
-**Length:** 14-16 pages

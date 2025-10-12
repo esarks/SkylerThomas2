@@ -1,30 +1,66 @@
-# Out of the Swamp: A Wayfarer's Journey (Chapter 7)
+---
+wp_post_id: 2281
+last_updated: 2025-10-11 19:28:18
+---
+
+# Out of the Swamp: How I Found Truth (Chapter 7)
+
+*Last updated: 2025-10-11 19:28:18*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 7: Amazing Grace I Did Receive
 
-[Amazing Grace](https://www.skylerthomas.com/wp-content/uploads/2025/01/Amazing-Grace-Male-2.mp3)
-*(Right-click to open in new tab)*
+> "For it is by grace you have been saved, through faith—
+> and this is not from yourselves, it is the gift of God."
+> — Ephesians 2:8
 
 ---
 
-**Let me tell you about the most offensive word in the English language.**
+[Amazing Grace](https://www.skylerthomas.com/wp-content/uploads/2025/02/Amazing-Grace-Female-Remastered.mp3)
 
-It's not a curse word. It's not vulgar. It's actually a beautiful word.
+**Listen at:** http://go.skylerthomas.com/UCBWc5
 
-The word is *grace*.
+![Scan to listen: Amazing Grace](qr-ch07-amazing-grace.png)
 
-And it's offensive because of what it implies: that you don't deserve what you're being given. That you can't earn it. That no amount of effort or goodness on your part will ever make you worthy of it.
+---
 
-Grace says: "You're getting this for free, and there's nothing you can do about it."
+**An Invitation to Receive**
 
-That drives us crazy. Because we've been conditioned to believe we get what we earn. Work hard, get rewarded. Mess up, face consequences. The world runs on merit, on fairness, on getting what you deserve.
+You've walked through six chapters now. You've named the swamp, cried out, decided, died to the old, stepped into the water, and discovered grace shelters you in the wilderness.
 
-But grace shatters that entire system.
+But here's a question that might make you uncomfortable:
 
-And that's why it's scandalous.
+**Do you really believe you're worthy of this? Do you believe grace is actually for you?**
 
-If you're still reading, you're about to encounter grace. Not the polite, sanitized version. The real thing. The kind that reaches wretches who absolutely do not deserve it.
+Because if you're honest, part of you is still keeping score. Still calculating whether you've done enough, been good enough, believed hard enough to deserve what you're receiving.
+
+Part of you is still trying to earn it.
+
+And that's the problem. Because what comes next—what you're about to encounter in this chapter—can't be earned. Can't be deserved. Can't be worked for or achieved.
+
+It can only be received.
+
+Grace is the most offensive word in the language because it says: "You're getting this for free, and there's nothing you can do about it."
+
+No performance required. No goodness quota. No earning your way in.
+
+Just... receiving.
+
+So I need to ask you: **Can you let go of trying to deserve it? Can you stop calculating your worthiness? Can you simply open your hands and receive what's being freely given?**
+
+This is harder than it sounds. Because receiving grace means admitting you're the kind of person who needs it. Not someone mostly good who stumbled. Not someone who tried their best. But someone who absolutely, categorically doesn't deserve it.
+
+A wretch, in fact.
+
+And grace says: "That's exactly who this is for."
+
+Before you continue reading, pause. Consider:
+
+*Can you say, even if it feels scandalous: "God, I don't deserve this. I can't earn it. I can't repay it. But I'm opening my hands to receive it anyway. Amazing grace—for a wretch like me."*
+
+That's the prayer that opens the door.
+
+Because what comes next isn't about what you've done or who you've been. It's about what Love does for those who don't deserve it.
 
 Keep reading. Because what comes next might offend you—or it might save you.
 
@@ -50,8 +86,6 @@ Not people who stumbled—people who ran. Not people who tried their best—peop
 
 Not a mostly-good person. A wretch.
 
-*Take a breath.*
-
 This chapter is about receiving what you don't deserve. About standing at the edge of clean water while still covered in swamp mud and discovering: the water isn't waiting for you to clean up first.
 
 The water is what cleans you up.
@@ -61,10 +95,9 @@ The writing that follows came from my encounter with scandalous grace. When I'd 
 Grace, in fact, had just begun.
 
 ---
-
 ## Key Themes
 
-**1. The Scandal of Grace: For the Undeserving**
+### 1. The Scandal of Grace: For the Undeserving
 
 Grace is scandalous precisely because it's for people who don't deserve it. If you deserved it, it wouldn't be grace—it would be payment. A transaction. You do X, you get Y.
 
@@ -78,9 +111,9 @@ But grace shatters that entire system.
 
 The Apostle Paul writes in Ephesians 2:8-9:
 
-> "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast."
+> "God saved you by his grace when you believed. And you can't take credit for this; it is a gift from God. Salvation is not a reward for the good things we have done, so none of us can boast about it."
 >
-> — Ephesians 2:8-9 (The Message)
+> — Ephesians 2:8-9 (NLT)
 
 Not by works. Not by trying harder. Not by cleaning yourself up first. By grace. Through faith. A gift.
 
@@ -94,9 +127,9 @@ When Jonah fled, he wasn't seeking freedom—he was seeking autonomy. Control. T
 
 In that belly, in that darkness, Jonah cried out:
 
-> "In my distress I called to the LORD, and he answered me. From the depths of the grave I called for help, and you listened to my cry."
+> "I cried out to the LORD in my great trouble, and he answered me. I called to you from the land of the dead, and LORD, you heard me!"
 >
-> — Jonah 2:2 (The Message)
+> — Jonah 2:2 (NLT)
 
 He didn't clean himself up first. Didn't earn the right to be heard. From the grave of his own making, from the consequences of his own rebellion, he cried out.
 
@@ -112,7 +145,7 @@ Philip Yancey writes powerfully about this scandal:
 
 Grace is dangerous precisely because it refuses to play by our rules. It doesn't wait for worthiness. It doesn't demand payment. It just gives—freely, scandalously, outrageously.
 
-**2. Trading True Freedom for False Freedom**
+### 2. Trading True Freedom for False Freedom
 
 The writing from the blog captures this perfectly:
 
@@ -132,9 +165,9 @@ Real freedom isn't found in throwing off all restraints. Real freedom is found i
 
 Jesus says in John 8:36:
 
-> "So if the Son sets you free, you will be free indeed."
+> "So if the Son sets you free, you are truly free."
 >
-> — John 8:36 (The Message)
+> — John 8:36 (NLT)
 
 Not freedom to do whatever we want. Freedom to become who we were created to be. Freedom from the tyranny of self. Freedom to live in the flow of love instead of fighting against it.
 
@@ -148,7 +181,7 @@ True freedom isn't found in ruling our own throne—it's found in bowing before 
 
 The pathway to this freedom is counterintuitive: it requires us to step off our dead-end road and run toward the very One we've been fleeing from.
 
-**3. From the Grave to the Water's Edge**
+### 3. From the Grave to the Water's Edge
 
 The progression in the writing is crucial:
 
@@ -171,7 +204,7 @@ The water of life is right there. Close enough to see. Close enough to reach. Bu
 
 Will we stay on the familiar path, even though it's killing us? Or will we step off into the unknown, trusting that Love will catch us?
 
-**4. The Decision: Fleeing or Embracing**
+### 4. The Decision: Fleeing or Embracing
 
 *"Would I turn around and walk away / Fleeing from the water's edge / Or would I leave my road and run to Him / Embracing His freedom pledge"*
 
@@ -193,7 +226,7 @@ That's all grace requires. Not perfection. Not performance. Just trust.
 
 Trust that God is who He says He is. Trust that grace is real. Trust that the water won't reject you.
 
-**5. The Lifting: God's Hand Raises Us**
+### 5. The Lifting: God's Hand Raises Us
 
 *"With each step I took, I felt His hand / Lifting me out of my grave"*
 
@@ -205,9 +238,9 @@ But when we trust—when we simply turn toward the water and step—God's hand r
 
 Paul captures this in Ephesians 2:4-5:
 
-> "But because of his great love for us, God, who is rich in mercy, made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved."
+> "But God is so rich in mercy, and he loved us so much, that even though we were dead because of our sins, he gave us life when he raised Christ from the dead. (It is only by God's grace that you have been saved!)"
 >
-> — Ephesians 2:4-5 (The Message)
+> — Ephesians 2:4-5 (NLT)
 
 Made us alive. Not "helped us get a little better." Not "gave us a boost." Made us alive.
 
@@ -217,7 +250,7 @@ You can't resurrect yourself. You can only be resurrected. And that's what God d
 
 From death to life. From grave to grace. From wretch to beloved.
 
-**6. Addressing Objections: Cheap Grace vs. Costly Grace**
+### 6. Addressing Objections: Cheap Grace vs. Costly Grace
 
 Whenever we talk about grace being free, unearned, and given to the undeserving, someone will object: "But doesn't that make grace cheap? Doesn't that give people license to sin?"
 
@@ -240,7 +273,6 @@ Costly grace says: "You're forgiven, and because of that, you're free to become 
 The grace extended at the water's edge is costly grace. It cost Jesus His life. And it will cost us our old life—the one built on autonomy and self-rule. But what we gain in exchange is life itself. Real life. Abundant life. Eternal life.
 
 ---
-
 ## Stories of Scandalous Grace
 
 **Want to hear more stories about this kind of grace?**
@@ -251,17 +283,17 @@ There's a famous story Jesus told about a younger son who demanded his inheritan
 
 From that pigpen, he makes a decision:
 
-> "I will set out and go back to my father and say to him: Father, I have sinned against heaven and against you. I am no longer worthy to be called your son; make me like one of your hired servants."
+> "I will go home to my father and say, 'Father, I have sinned against both heaven and you, and I am no longer worthy of being called your son. Please take me on as a hired servant.'"
 >
-> — Luke 15:18-19 (The Message)
+> — Luke 15:18-19 (NLT)
 
 He's not expecting grace. He's expecting to be a servant at best. He's rehearsing his speech, his apology, his offer to earn his way back.
 
 But watch what happens:
 
-> "But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him."
+> "So he returned home to his father. And while he was still a long way off, his father saw him coming. Filled with love and compassion, he ran to his son, embraced him, and kissed him."
 >
-> — Luke 15:20 (The Message)
+> — Luke 15:20 (NLT)
 
 The father doesn't wait for the apology. Doesn't wait for the son to grovel. While the son is still far off, the father runs.
 
@@ -271,29 +303,39 @@ This is scandalous grace. The son deserves nothing. He's squandered everything. 
 
 Grace isn't based on worthiness. It's based on relationship. And in God's economy, you're a son or daughter not because you've earned it but because He's declared it.
 
+Henri Nouwen, in his profound meditation on this parable, *The Return of the Prodigal Son*, writes:
+
+> "The father's love is unconditional... There are no 'ifs.' The love of the father is given, not as the reward for effort, but as a pure gift. The younger son did not deserve that love... But the father gives it anyway. The love of the father is free; it is not dependent on any behavior, performance, or result. It simply is."
+>
+> — Henri Nouwen, *The Return of the Prodigal Son*
+
+Nouwen spent hours contemplating Rembrandt's painting of this scene, and he discovered something profound: the father's hands on the son's shoulders aren't just holding—they're blessing. One hand is strong and masculine, the other gentle and feminine. Together they represent the fullness of God's love: both strength and tenderness, justice and mercy, power and compassion.
+
+The son comes home to be a servant. The father makes him a son. That's grace.
+
 **The Woman Caught in Adultery: No Condemnation (John 8:1-11)**
 
 The religious leaders drag a woman caught in adultery before Jesus. The Law says she should be stoned. They're testing Jesus, trying to trap Him.
 
 Jesus bends down and writes in the dust. Then He says:
 
-> "Let any one of you who is without sin be the first to throw a stone at her."
+> "All right, but let the one who has never sinned throw the first stone!"
 >
-> — John 8:7 (The Message)
+> — John 8:7 (NLT)
 
 One by one, the accusers leave. Starting with the oldest—the ones who've lived long enough to know their own sin.
 
 Finally, it's just Jesus and the woman. And Jesus asks:
 
-> "Woman, where are they? Has no one condemned you?" "No one, sir," she said. "Then neither do I condemn you," Jesus declared. "Go now and leave your life of sin."
+> "Then Jesus stood up again and said to the woman, 'Where are your accusers? Didn't even one of them condemn you?' 'No, Lord,' she said. And Jesus said, 'Neither do I. Go and sin no more.'"
 >
-> — John 8:10-11 (The Message)
+> — John 8:10-11 (NLT)
 
-No condemnation. Not "You're forgiven because you promised never to do it again." Not "You're forgiven because you've suffered enough." Just: "Neither do I condemn you."
+No condemnation. Not "You're forgiven because you promised never to do it again." Not "You're forgiven because you've suffered enough." Just: "Neither do I."
 
 That's grace. Unearned. Undeserved. Freely given.
 
-And notice what follows: "Go now and leave your life of sin." Grace doesn't excuse sin—it empowers transformation. It doesn't say, "Keep living however you want." It says, "You're free now. Free from condemnation. Free from the power of sin. So go live like the free person you are."
+And notice what follows: "Go and sin no more." Grace doesn't excuse sin—it empowers transformation. It doesn't say, "Keep living however you want." It says, "You're free now. Free from condemnation. Free from the power of sin. So go live like the free person you are."
 
 **Zacchaeus: Grace That Seeks the Seeker (Luke 19:1-10)**
 
@@ -303,17 +345,17 @@ But he's curious about Jesus. So he climbs a tree to see Him.
 
 Jesus stops under the tree, looks up, and says:
 
-> "Zacchaeus, come down immediately. I must stay at your house today."
+> "Zacchaeus!" he said. "Quick, come down! I must be a guest in your home today."
 >
-> — Luke 19:5 (The Message)
+> — Luke 19:5 (NLT)
 
 The crowd grumbles: "He has gone to be the guest of a sinner."
 
 But Zacchaeus responds to grace with transformation:
 
-> "Look, Lord! Here and now I give half of my possessions to the poor, and if I have cheated anybody out of anything, I will pay back four times the amount."
+> "I will give half my wealth to the poor, Lord, and if I have cheated people on their taxes, I will give them back four times as much!"
 >
-> — Luke 19:8 (The Message)
+> — Luke 19:8 (NLT)
 
 Jesus didn't demand restitution first. He offered relationship first. And the relationship produced transformation.
 
@@ -328,14 +370,9 @@ John Ortberg captures this perfectly:
 Zacchaeus wanted to see Jesus more than he wanted to maintain his reputation. He climbed a tree—ridiculous for a wealthy tax collector. And Jesus saw him, called him down, and offered relationship. That's grace—meeting us in our ridiculous, desperate seeking and saying, "Come down. I want to be with you."
 
 ---
-
 ## The Core Scripture Truth
 
-Here's the theological bedrock of everything we're exploring:
-
-> "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast."
->
-> — Ephesians 2:8-9 (The Message)
+Here's the theological bedrock of everything we're exploring in Ephesians 2:8-9:
 
 Let's unpack this verse phrase by phrase, because it changes everything.
 
@@ -376,7 +413,6 @@ Andrew Murray beautifully expresses this:
 We don't come to grace because we're good enough. We come because we're desperate enough. And that desperation—that acknowledgment of our wretchedness—is the beginning of transformation.
 
 ---
-
 ## The Wayfarer Moment
 
 **When grace stops being doctrine and becomes your story.**
@@ -402,87 +438,35 @@ That's when grace stopped being a hymn they sang and became their testimony.
 Not theological theory. Personal history.
 
 ---
-
-## Original Writing from the Blog
-
-Amazing Grace how sweet the sound
-That saved a wretch like me
-But I trampled on that gift of life
-Refusing to be set free
-
-I traded it in for my version of freedom
-Ruling others from my own throne
-Instead of following the Master's plan
-I wrote one of my own
-
-I failed to see that it was a lie
-A folly from the master of deceit
-I thought I invented it on my own
-How the system I would cheat
-
-I learned the art of hiding out
-And dodging from my own shame
-Never taking responsibility
-Everyone else was to blame
-
-But in the end I was the fool
-For freedom I did not understand
-Freedom is not free you see
-It didn't work out how I planned
-
-The freedom I was living
-Turned out to make me a slave
-Rather than bringing life to me
-It buried me in my own grave
-
-He led me down a dead end path
-So He could show me His vision
-It stopped way short of the water of life
-And I had to make a decision
-
-Would I turn around and walk away
-Fleeing from the water's edge
-Or would I leave my road and run to Him
-Embracing His freedom pledge
-
-I stepped off that dead end road
-And simply trusted He would save
-With each step I took, I felt His hand
-Lifting me out of my grave
-
-Amazing Grace how sweet the sound
-That saved a wretch like me
-I once was lost but now I'm found
-Was blind but now I see
-
----
-
 ## Song Integration
 
-This writing came out of a time when I'd been living what I thought was freedom—making my own choices, ruling my own life, writing my own plan. I'd grown up knowing the truth, but I'd convinced myself I could improve on it. Make it work better for me.
+The first time I truly understood John Newton's "Amazing Grace," I was standing at a dead end of my own making, and the word "wretch" suddenly stopped being offensive and started being honest. This isn't a song about minor mistakes. This is about moral catastrophe, actively participating in your own destruction, deserving condemnation and receiving grace instead.
 
-The lie was subtle: "You don't have to rebel completely. Just tweak the plan a little. Take what works, leave what doesn't. You're smart enough to figure this out."
+To understand this hymn, you need to know who wrote it. John Newton was a slave trader. He commanded ships transporting kidnapped Africans across the Atlantic in horrific conditions. He profited from human suffering on an industrial scale. When a violent storm nearly sank his ship in 1748, Newton cried out to God. That moment began a long transformation—but even after his conversion, he continued in the slave trade for years. Only later, after entering ministry, did he become an active abolitionist, working with William Wilberforce to end the slave trade in Britain. When Newton called himself a wretch, he wasn't being dramatic. He was being factual.
 
-But autonomy is a dead-end road. It doesn't look like a dead end at first. It looks like freedom, like possibility, like the open road. But eventually, it stops. It hits a wall. And you realize you're standing in a grave of your own making.
+Modern Christianity has a complicated relationship with "wretch." Some hymnals have softened it: "that saved and strengthened me" or "that saved a soul like me." But the softening misses the point entirely. Grace only makes sense if we're honest about what we're being saved from. If we're basically good people who just need a little help, grace isn't amazing—it's redundant. But if we're wretches—so far gone we can't save ourselves, having actively participated in evil—then grace isn't just nice. It's necessary. It's scandalous. It's amazing.
 
-For me, that moment came when I couldn't hide anymore. When the consequences of my choices caught up with me. When the shame I'd been dodging finally cornered me and I had to face the truth: I'd trampled on grace. I'd taken the gift of life and thrown it away for a counterfeit.
+The word "wretch" isn't about self-loathing. It's about honest assessment. Romans 3:23 doesn't say "all have stumbled a little"—it says "all have sinned and fall short of the glory of God." All. Every single one. We're all wretches in need of grace. And that's good news. Because if grace is only for the basically good, most of us are disqualified. But if grace is for wretches, we all qualify.
 
-I expected condemnation. I deserved it. If there's a line between "forgivable" and "too far gone," I was sure I'd crossed it.
+The original writing from my blog captures the journey: "I traded it in for my version of freedom / Ruling others from my own throne." This is the Genesis 3 temptation: "You will be like God"—the seductive belief that we can define reality for ourselves, that autonomy is the highest good. So I took the gifts I'd been given and threw them away for my version of freedom. And my version of freedom turned out to be slavery. "The freedom I was living / Turned out to make me a slave / Rather than bringing life to me / It buried me in my own grave."
 
-But standing at that dead end, I heard the invitation: Turn around. The water is here.
+Sometimes God lets us exhaust our own options. He doesn't intervene the moment we start running. He lets the path we've chosen reveal its true nature. He lets us hit the dead end. Not because He's cruel, but because that's when we're finally ready to listen. The dead-end path isn't punishment. It's mercy.
 
-I looked back over my shoulder and saw it. The water's edge. Living water. Clean, clear, flowing. And Jesus standing there, arms open, saying: "Come. Just trust Me. I'll lift you out."
+"I stepped off that dead end road / And simply trusted He would save / With each step I took, I felt His hand / Lifting me out of my grave." *Simply trusted.* Not "I cleaned myself up and then approached." Just trust. That's all grace requires. Not perfection, not performance. And the miracle: with each step toward the water, I felt His hand. Not after I arrived. *With each step.* He met me in the moving. Grace active, present, immediate.
 
-I didn't deserve it. But grace isn't about what I deserve. It's about who He is.
+The three verses I recorded trace the journey. Verse 1: The Rescue—"Amazing grace, how sweet the sound / That saved a wretch like me." All passive voice—things done *to* me, not *by* me. Grace is the actor. I'm the recipient. Verse 2: The Fear and Relief—grace teaches holy fear (appropriate awe) and relieves fear (terror of condemnation). Both. Verse 3: The Testimony—"'Tis grace hath brought me safe thus far / And grace will lead me home." Looking back: I didn't survive through my own strength. Looking forward: grace *will* lead me home. Certainty.
 
-So I stepped off the dead-end road. One step. Then another. And with each step, I felt His hand. Lifting me. Carrying me. Raising me from the grave I'd dug.
-
-The old hymn became my testimony: *I once was lost but now I'm found. Was blind but now I see.*
-
-This writing is my re-telling of that hymn. My personal declaration of what grace did for me when I was too far gone to save myself.
+"Amazing Grace" has endured for centuries because we're all wretches, and we all need grace. The scandal isn't just that grace saved me once. The scandal is that grace keeps saving me—daily, hourly, every time I turn from the dead-end path and move toward the water's edge.
 
 ---
+## Key Takeaways
 
+- **Grace is for wretches, not nice people.** If you deserved it, it wouldn't be grace—it would be payment. The scandal is that God loves you while you're still a mess, not after you clean up.
+- **You traded true freedom for false freedom.** Autonomy isn't liberty—it's slavery in disguise. Real freedom comes through surrender to the One who died to set you free.
+- **Grace is costly, not cheap.** It cost Christ His life and will cost you your old life built on self-rule. But what you gain is life itself—abundant, eternal, real.
+- **Your dead-end road is grace's invitation.** When your self-made path stops short of living water, that's not failure—it's God showing you where the real source is. Step off and run toward it.
+
+---
 ## Reflections for the Road
 
 These questions aren't homework. They're invitations to encounter grace personally.
@@ -506,7 +490,6 @@ These questions aren't homework. They're invitations to encounter grace personal
    Don't rush this. Imagine standing far off, still in your filth, rehearsing your apology. And then imagine seeing the Father—not waiting sternly at the door, but running toward you with arms open. What would that do to your heart?
 
 ---
-
 ## Practice: Writing Your Grace Story
 
 Grace becomes real when it becomes personal. When it's not just doctrine but story.
@@ -529,7 +512,6 @@ And then, if possible, share it with someone. Not to impress them. Just to decla
 Because when grace stops being doctrine and becomes your story, it changes everything.
 
 ---
-
 ## Closing Image
 
 You're standing in the water now. Not all the way in yet—just ankle-deep. But you're in.

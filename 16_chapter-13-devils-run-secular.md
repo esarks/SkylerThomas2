@@ -1,41 +1,73 @@
+---
+wp_post_id: 2320
+last_updated: 2025-10-11 19:28:24
+---
+
+# Out of the Swamp: How I Found Truth (Chapter 13)
+
+*Last updated: 2025-10-11 19:28:24*
+
+### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 13: Devil's On The Run
-**Based on:** "Devil's On The Run III (Remix)" (Devotional and Song)
 
-**Opening Scene (2-3 pages):**
+> "Having disarmed the powers and authorities,
+> he made a public spectacle of them,
+> triumphing over them by the cross."
+> — Colossians 2:15
 
-It's 3 AM and you're wide awake. Again.
+---
 
-The accusations are playing on repeat in your mind like a broken record: *You're not really forgiven. God's still angry. You've failed too many times. You'll never be free. This sin is too big.*
+[Devil's On The Run](https://www.skylerthomas.com/wp-content/uploads/2025/07/Devils-On-The-Run-III-Remix-Remastered-Remix.mp3)
 
-You know these voices. You've heard them before. They always show up in the dark, in the quiet, when you're too tired to fight back effectively.
+**Listen at:** http://go.skylerthomas.com/xSXwkH
 
-And tonight, they feel true.
+![Scan to listen: Devil's On The Run](qr-ch13-devils-run.png)
 
-You've been doing well—walking in the rhythms, sending roots deep, seeing your story within God's story, trusting that nothing's wasted. But now, in the middle of the night, all that progress feels fragile. One accusation away from crumbling.
+---
+
+**An Invitation to Stand**
+
+You've walked through twelve chapters. You've experienced rescue, rhythm, depth, redemption. You've discovered that nothing is wasted.
+
+But now I need to ask you something crucial:
+
+**When the accusations come at 3 AM—when they feel true—do you know where you're standing?**
+
+You know these voices. They always show up in the dark, in the quiet, when you're too tired to fight back effectively:
+
+*You're not really forgiven. God's still angry. You've failed too many times. You'll never be free. This sin is too big.*
+
+And here's what makes it so hard: sometimes it feels like all the progress you've made is fragile. One accusation away from crumbling.
 
 The enemy whispers: *See? You haven't really changed. This is who you are. This is who you'll always be.*
 
-You sit up in bed, exhausted. Not from lack of sleep, but from this constant battle. This relentless warfare that feels like hand-to-hand combat in the dark.
+But here's what I've discovered, and it's the truth that changes the battle:
 
-And then, almost without thinking, you whisper something you've been learning: "Jesus, the cross. The cross settles this."
-
-The accusations don't stop immediately. But something shifts. Because you're remembering something crucial: this isn't a battle for victory. It's a battle from victory.
+**This isn't a fight for victory. It's a fight from victory.**
 
 The war is already over. The enemy has already been defeated. You're not fighting to win—you're enforcing the win that's already been won.
 
-You think of Colossians 2:15: "Having disarmed the powers and authorities, he made a public spectacle of them, triumphing over them by the cross."
+Colossians 2:15 says: "Having disarmed the powers and authorities, he made a public spectacle of them, triumphing over them by the cross."
 
 Disarmed. Public spectacle. Triumphed.
 
 Past tense. Done. Finished.
 
+This chapter is about the fundamental shift from desperate warfare to confident standing. From fighting for freedom to standing in freedom. From resisting from fear to resisting from rest.
+
 The devil is on the run. Not because you're strong. Because Christ is victorious.
 
-And you—standing in Christ's victory—don't have to fight for freedom. You just have to stand in the freedom that's already yours.
+And you—standing in Christ's victory—don't have to earn freedom. You just have to stand in the freedom that's already yours.
+
+So before you continue, pause. Consider:
+
+*Can you say, even when the accusations feel true: "Jesus, the cross. The cross settles this. I'm not fighting for victory—I'm standing in victory. The enemy is defeated. I resist from rest, and he flees."*
+
+That's the declaration that shifts the battle.
+
+Because what comes next isn't about fighting harder. It's about standing firmer.
 
 ---
-
-**The Geography of Spiritual Warfare (2 pages):**
 
 Let's be honest about what spiritual warfare feels like. Because if you've been in the fight, you know it's not theoretical. It's visceral.
 
@@ -60,10 +92,9 @@ The battlefield is still real. The enemy still attacks. But you're not desperate
 You're standing in freedom. Enforcing victory. Resisting from rest.
 
 ---
+## Key Themes
 
-**Key Themes (3-4 pages):**
-
-**1. Fighting From Victory, Not For Victory**
+### 1. Fighting From Victory, Not For Victory
 
 This is the fundamental shift. And it changes everything.
 
@@ -83,7 +114,14 @@ Why? Because he's already defeated. And he knows it.
 
 You're not fighting to win. Christ won. You're enforcing that win. Standing in that victory. And when you do, the enemy has no choice but to flee.
 
-**2. The Lies of the Enemy vs. The Truth of Grace**
+C.S. Lewis explains the Christian's unique position:
+
+> "The Christian is in a different position from other people who are trying to be good. They hope, by being good, to please God if there is one; or—if they think there is not—at least they hope to deserve approval from good men. But the Christian thinks any good he does comes from the Christ-life inside him."
+> — C.S. Lewis, *Mere Christianity*
+
+We're not fighting in our own strength. We're fighting from Christ's strength already at work in us.
+
+### 2. The Lies of the Enemy vs. The Truth of Grace
 
 The devil's primary weapon isn't force—it's deception. He can't take your salvation. He can't reverse what Christ has done. But he can lie to you about it.
 
@@ -101,9 +139,21 @@ Lies. All of them. But lies that feel true when you're in the swamp, when you're
 
 The antidote is truth. Not just knowing it intellectually, but anchoring your identity in it.
 
-You are forgiven—completely, fully, eternally (1 John 1:9).
-God is not angry with you—His wrath was satisfied at the cross (Romans 5:1).
-Your failures don't define you—Christ's righteousness does (2 Corinthians 5:21).
+**You are forgiven—completely, fully, eternally:**
+
+> "But if we confess our sins to him, he is faithful and just to forgive us our sins and to cleanse us from all wickedness."
+> — 1 John 1:9 (NLT)
+
+**God is not angry with you—His wrath was satisfied at the cross:**
+
+> "Therefore, since we have been made right in God's sight by faith, we have peace with God because of what Jesus Christ our Lord has done for us."
+> — Romans 5:1 (NLT)
+
+**Your failures don't define you—Christ's righteousness does:**
+
+> "For God made Christ, who never sinned, to be the offering for our sin, so that we could be made right with God through Christ."
+> — 2 Corinthians 5:21 (NLT)
+
 You are free—the chains are broken, the prison door is open (John 8:36).
 No sin is too big for grace—grace is bigger than all of them combined (Romans 5:20).
 
@@ -111,7 +161,14 @@ When you stand in these truths, the lies lose their power. The accusations fall 
 
 Because truth always defeats lies. And grace always trumps accusation.
 
-**3. Colossians 2:15 – The Public Spectacle**
+A.W. Tozer offers a sobering reminder:
+
+> "The devil is a better theologian than any of us and is a devil still."
+> — A.W. Tozer, *The Knowledge of the Holy*
+
+The enemy knows Scripture. He knows theology. But knowledge without submission is worthless. We don't defeat him with superior arguments—we defeat him by standing in the truth of who we are in Christ.
+
+### 3. Colossians 2:15 – The Public Spectacle
 
 One of the most powerful verses about spiritual warfare is Colossians 2:15:
 
@@ -129,7 +186,14 @@ Triumphing. This is the language of a victory parade. Jesus didn't just win—He
 
 This is why the devil is on the run. He has no authority anymore. His power was stripped at the cross. His claims were nullified in the resurrection. All he has left are lies and fear—and both crumble in the presence of truth and faith.
 
-**4. The Danger of Giving the Enemy Too Much Credit**
+Charles Stanley identifies the enemy's real strategy:
+
+> "Satan's primary objective is not to lead you into a blatant sin. It's to get you to live independently of God."
+> — Charles Stanley, *When the Enemy Strikes*
+
+This is the core battle. Not spectacular moral failures, but subtle independence. Living like you don't need God. Making decisions without Him. Trusting yourself instead of Him. This is where the real warfare happens.
+
+### 4. The Danger of Giving the Enemy Too Much Credit
 
 There's a danger on the other side of spiritual warfare: giving the devil too much credit. Making him seem more powerful than he is. Living in constant fear of his schemes.
 
@@ -145,7 +209,7 @@ The devil is on the run. That's the truth. But don't spend your life looking ove
 
 Keep your eyes on Jesus. Stand firm in truth. And when the enemy shows up with his lies and accusations, resist him with confidence—knowing that he has no choice but to flee.
 
-**5. Walking in Freedom, Not Just Fighting for It**
+### 5. Walking in Freedom, Not Just Fighting for It
 
 The ultimate goal of understanding spiritual warfare isn't just to fight better—it's to walk in freedom. To live in the victory that Christ has won. To stop constantly battling and start consistently abiding.
 
@@ -162,26 +226,37 @@ Stand firm in freedom. Don't go back to slavery. Don't pick up chains that Chris
 The devil is on the run. And you're free to live like it.
 
 ---
-
-**Biblical Parallels (2-3 pages):**
+## Stories of Spiritual Warfare
 
 **Jesus' Temptation in the Wilderness (Matthew 4:1-11)**
 
-After His baptism, Jesus was led by the Spirit into the wilderness to be tempted by the devil. Three temptations. Three lies designed to make Jesus doubt His identity and His mission.
+Forty days. Forty nights. No food. No shelter. Just Jesus, alone in the wilderness—a barren landscape of stone and sand, scorching heat by day, bitter cold by night. The same wilderness where Israel wandered for forty years. The same kind of testing ground where God's people failed again and again.
+
+Jesus is hungry. Not the kind of hunger you feel when you skip lunch. The kind that makes your stomach cramp, your head swim, your vision blur. His body is screaming for food. Every stone looks like bread. And that's exactly when the enemy shows up.
 
 *"If you are the Son of God, command these stones to become bread."*
+
+If. That word is a knife. The Father just spoke at Jesus' baptism: "This is my beloved Son." But now the devil plants doubt: *If* you are... *If* God really loves you, why are you starving? *If* you're really His Son, why doesn't He provide? Prove it. Use your power. Take care of yourself.
+
+Jesus' response cuts through the fog of hunger with clarity: "It is written: 'Man shall not live on bread alone, but on every word that comes from the mouth of God.'"
+
+The second test shifts location—suddenly they're at the highest point of the temple in Jerusalem, hundreds of feet above the ground. People below look like ants. The drop is dizzying.
+
 *"If you are the Son of God, throw yourself down from the temple."*
+
+Again, *if*. But this time the devil quotes Scripture—Psalm 91, God's promise of protection. See? God will catch you. He has to. It's promised. Test it. Prove it. Force God's hand.
+
+Jesus doesn't flinch: "It is also written: 'Do not put the Lord your God to the test.'"
+
+The third temptation is the most brazen. The devil shows Jesus all the kingdoms of the world in an instant—their wealth, their power, their glory. Everything Jesus came to redeem, offered as a shortcut.
+
 *"All this I will give you if you will bow down and worship me."*
 
-Notice the pattern: the devil attacks identity ("If you are...") and tries to offer shortcuts to what God has already promised.
+No more *if*. Now it's a straight-up offer: Skip the cross. Avoid the suffering. Take the kingdom now. Just bow.
 
-Jesus' response? Scripture. Truth. Every single time.
+Jesus' final response is sharp, decisive: "Away from me, Satan! For it is written: 'Worship the Lord your God, and serve him only.'"
 
-"It is written..."
-"It is also written..."
-"Away from me, Satan! For it is written..."
-
-And the result? The devil left him. Fled. Ran.
+And the devil left. Fled. Ran.
 
 This is the pattern for every believer. The enemy will attack your identity in Christ. He'll offer shortcuts. He'll tempt you to doubt God's promises.
 
@@ -191,33 +266,50 @@ And he will flee. Just like he fled from Jesus.
 
 **Peter Sinking (Matthew 14:22-33)**
 
-Peter steps out of the boat, walking on water toward Jesus. For a moment, he's doing the impossible.
+The storm hits in the middle of the night. Wind howling. Waves crashing over the bow. The disciples are straining at the oars, trying to keep the boat from capsizing. They're experienced fishermen—they've been through storms before. But this one is different. Relentless. Exhausting. And Jesus isn't with them.
 
-Then he sees the wind, feels the waves, remembers how crazy this is—and he starts to sink.
+Then, in the pre-dawn darkness, they see something impossible: a figure walking on the water. Their first reaction isn't faith—it's terror. "It's a ghost!" But then they hear His voice cutting through the wind: "Take courage! It is I. Don't be afraid."
+
+Peter, impulsive as always, shouts back: "Lord, if it's you, tell me to come to you on the water."
+
+"Come."
+
+One word. One invitation. And Peter—reckless, passionate Peter—climbs over the side of the boat. His foot touches the surface. And it holds. He takes another step. Still holding. He's walking on water. Actually walking on water.
+
+For a few glorious moments, Peter is doing the impossible. Eyes locked on Jesus. Faith overriding physics.
+
+Then he notices the wind. Feels the spray of the waves hitting his legs. Hears the roar of the storm around him. His brain catches up with what he's doing—*I'm standing on water, this is insane, I'm going to drown*—and the moment he shifts his focus from Jesus to the circumstances, he starts to sink.
+
+Not slowly. Fast. Water up to his knees, his waist, his chest. Panic floods in.
 
 And he cries out: "Lord, save me!"
 
-Three words. Not a theological treatise. Not a confession of unworthiness. Just a desperate cry.
+Three words. Not a theological treatise. Not a confession of unworthiness. Not an apology for his lack of faith. Just a desperate, drowning cry.
 
-And immediately—not after Peter proved himself, not after Peter had a better attitude, not after Peter deserved it—immediately, Jesus reached out and caught him.
+And immediately—not after Peter proved himself, not after Peter had a better attitude, not after Peter pulled himself together and deserved it—immediately, Jesus reached out His hand and caught him.
 
 That's the pattern. Not "get yourself together and then call on Jesus." But "call on Jesus from the middle of your sinking."
 
 The enemy wants you to think you have to fix yourself before God will help you. But Jesus reaches out immediately when you cry out.
 
+> "We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be."
+> — C.S. Lewis, *Letters to Malcolm*
+
 **The Fall of Satan (Revelation 12:7-12)**
 
-Revelation gives us a cosmic perspective on spiritual warfare:
+Picture the scene: war breaks out in heaven. Not a skirmish. Not a disagreement. War. Michael and his angels arrayed against the dragon and his forces. The ancient serpent, the one who deceived Eve in the garden, the accuser who has stood before God's throne day and night bringing charges against His people—he thought he could win.
+
+But he couldn't. "He was not strong enough."
 
 > "Then war broke out in heaven... But he was not strong enough, and they lost their place in heaven. The great dragon was hurled down—that ancient serpent called the devil, or Satan... The accuser of our brothers and sisters, who accuses them before our God day and night, has been hurled down."
 >
 > — Revelation 12:7-10
 
-The devil was cast down. Defeated. Expelled from heaven.
+Not escorted out. Not gently removed. Hurled. Thrown down like a defeated enemy. The one who claimed to be like God, the one who promised Eve she could be like God, the one who has been accusing God's children for millennia—cast out. Expelled. Defeated.
 
-And the response of heaven? "Now have come the salvation and the power and the kingdom of our God, and the authority of his Messiah."
+And the response of heaven? Not relief. Not cautious celebration. A victory shout: "Now have come the salvation and the power and the kingdom of our God, and the authority of his Messiah!"
 
-The accuser is cast down. His accusations no longer stand. His authority is revoked. The victory is complete.
+The accuser is cast down. His accusations no longer stand. His authority is revoked. His place in heaven is gone. The victory is complete, cosmic, irreversible.
 
 And the call to believers?
 
@@ -230,8 +322,7 @@ You overcome by the blood of the Lamb (Christ's finished work) and the word of y
 Christ's victory + your faith = the devil on the run.
 
 ---
-
-**Theological Anchor (2 pages):**
+## The Core Scripture Truth
 
 **Colossians 2:13-15** - "And having disarmed the powers and authorities, he made a public spectacle of them, triumphing over them by the cross."
 
@@ -262,10 +353,9 @@ The devil is on the run. Not because you're strong, but because Christ is victor
 And in Him, you share that victory.
 
 ---
+## The Wayfarer Moment
 
-**The Wayfarer Moment (1-2 pages):**
-
-**The shift from fighting for victory to fighting from victory changed everything for me.**
+The shift from fighting for victory to fighting from victory changed everything for me.
 
 For years, I felt like I was barely holding on. Every temptation was a potential defeat. Every accusation felt true. Every battle left me exhausted, wondering if I'd survive the next one.
 
@@ -299,11 +389,28 @@ But more and more, I'm living from victory instead of for it. Resisting from res
 
 The devil is on the run. And I'm learning to live in the freedom of that reality.
 
+## Song Integration
+
+The attack came when I thought I was finally safe. I'd been out of the swamp, washed at the water's edge, learning the rhythms, sending roots deep. Then the accusations started—relentless, day and night. "You're not really changed. You'll always be that person. You'll never be free." I was exhausted, barely holding on, wondering if the enemy was right. I was fighting for my freedom, fighting to prove I was really changed, fighting to hold onto ground I'd gained. And I was losing.
+
+Then something happened. I was reading Colossians 2, barely able to focus, when verse 15 leaped off the page: *"Having disarmed the powers and authorities, he made a public spectacle of them, triumphing over them by the cross."* Three words stopped me: **Disarmed. Public spectacle. Triumphed.** In that moment, I realized what I'd been doing wrong.
+
+I'd been fighting **for** victory—like the outcome was in doubt, like I had to win through my strength, my determination, my spiritual disciplines. But that's not how it works. The victory is already won. The enemy is already defeated. Jesus didn't just wound him—He disarmed him, stripped him of his weapons, made a public spectacle of his defeat, triumphed over every power of darkness. **Past tense. Done. Finished.**
+
+I don't fight **for** victory. I fight **from** victory. The devil isn't a threat I have to overcome. He's a defeated foe I resist from a position of victory. This shift changed everything. When you're fighting **for** victory, you fight from fear, from desperation, from weakness. But when you're fighting **from** victory, you fight from confidence, from rest, from strength—not your own, but Christ's.
+
+This is a declaration, a proclamation, a battle cry. When you're in spiritual warfare, you don't whisper or hedge. You declare truth—loudly, boldly, with authority. The song does exactly this. It's aggressive, confrontational, declarative. Each line hits like a punch. Because that's what truth does to lies—it demolishes them.
+
+The chorus declares: *"The devil is a liar, he's done. Ain't no grace where he's from. Devil's on the run—'cause I'm saved by grace."* Three truths: (1) The devil is a liar—everything he says is deception, every accusation false. (2) He's done—past tense, finished, defeated. Not "will be done someday." Done now. (3) Devil's on the run—he's the one fleeing, not me. Because I'm saved by grace. Notice: the reason for his defeat isn't my strength. It's grace. Always grace.
+
+The bridge goes back to the source: *"Oh the blood! Oh the Lamb! Crushed the devil with a mighty hand."* The victory wasn't won in my bedroom during a spiritual battle. It was won at Calvary two thousand years ago when Jesus shed His blood and crushed the serpent's head. Everything I'm declaring in this song is grounded in that finished work—not in my effort or discipline, but in His blood, His sacrifice, His triumph.
+
+Since writing this song, my approach to spiritual warfare has completely changed. I used to enter battles with anxiety. Now I enter with declarations: "Devil, you're already defeated. Christ disarmed you. You have no power here." I used to fight from fear. Now I fight from rest. Because the outcome isn't in doubt. I used to beg God for victory. Now I thank Him for victory already won and resist the enemy from that position of confidence.
+
+You don't fight to become victorious. You fight because you already are. You don't resist the devil hoping he'll flee. You resist him knowing he must flee because he's already defeated. You don't beg for freedom. You stand in the freedom Christ already won. The devil is on the run. Not someday. Right now.
+
 ---
-
-**Song Integration (2-3 pages):**
-
-**Song: "Devil's On The Run"**
+## Lyrics: Devil's On The Run
 
 **[Verse 1]**
 Devil on the run
@@ -395,47 +502,16 @@ Devil's on the run
 Yeah, the devil's on the run
 Jesus won — and I'm saved by grace
 
-*Copyright © 2025 by SkylerThomas*
+---
+## Key Takeaways
+
+- **Fight from victory, not for victory.** The battle was won at the cross. You're not fighting to defeat the enemy—you're enforcing Christ's already-accomplished victory by standing firm in truth.
+- **The devil is already defeated.** Colossians 2:15 declares that Jesus disarmed the powers and authorities and made a public spectacle of them. Don't give a defeated enemy more credit than he deserves.
+- **Lies lose power when exposed to truth.** The enemy's primary weapon is deception. When you identify the lie and speak God's truth over it, the stronghold crumbles. Light always dispels darkness.
+- **Walk in the freedom Christ secured.** You're not in bondage anymore—you're free. Live like it. Resist the devil from a place of rest, not fear, knowing he must flee when you stand firm.
 
 ---
-
-**The Story Behind the Song:**
-
-I wrote this song in the middle of one of the fiercest spiritual battles I've ever faced.
-
-The accusations were relentless. Day and night. "You're not really changed. This is who you are. You'll never be free."
-
-And I was exhausted. Barely holding on. Wondering if the enemy was right.
-
-But then something happened. I was reading Colossians 2, and verse 15 just leaped off the page: "Having disarmed the powers and authorities, he made a public spectacle of them, triumphing over them by the cross."
-
-Disarmed. Public spectacle. Triumphed.
-
-And I realized: I've been fighting like the outcome is in doubt. But it's not. The victory is already won. The enemy is already defeated. I'm not fighting for freedom—I'm standing in it.
-
-The song poured out as a declaration. Not a prayer for victory, but a proclamation of victory already won.
-
-"Devil on the run, he's a wicked beast. Tried to take me down, but he lost his feast."
-
-The verses tell the truth about the battle: "He kicked me hard, left me buried deep." That's real. The enemy does attack. He does lie. He does try to steal, kill, and destroy.
-
-But the chorus declares the reality: "The devil is a liar, he's done. Ain't no grace where he's from. Devil's on the run—'cause I'm saved by grace."
-
-Notice the past tense. He's done. Not "will be done someday." Done now. Finished. Defeated.
-
-And notice the reason: not because I'm strong, but because I'm saved by grace. The victory isn't mine—it's Christ's. And because I'm in Him, His victory is my victory.
-
-The bridge became my battle cry: "Oh the blood! Oh the Lamb! Crushed the devil with a mighty hand."
-
-This is where the victory was won. Not in my effort. At the cross. In Christ's finished work.
-
-Every time I sing this song—or hear it—I'm reminded: I don't fight for victory. I fight from victory. The devil is on the run. Not because I'm powerful, but because Christ is victorious.
-
-And in Him, I am free.
-
----
-
-**Reflections for the Road (1-2 pages):**
+## Reflections for the Road
 
 **Questions for the Journey:**
 - Where are you still fighting for victory instead of from victory? What battles feel desperate? Where do you feel like you're barely holding on?
@@ -443,31 +519,32 @@ And in Him, I am free.
 - Read Colossians 2:15 slowly. What does it mean that Jesus "disarmed" the enemy? What weapons does the enemy no longer have?
 - Are you giving the devil too much credit—or not enough? What would a balanced approach look like?
 
-**Practice: Truth Declarations**
+---
+
+## Practice: Truth Declarations
 
 One of the most powerful practices for spiritual warfare is declaring truth over the enemy's lies. Here's how:
 
-**1. Identify the lie**
+### 1. Identify the lie
 What is the enemy whispering to you? What accusation feels most powerful? Write it down.
 
-**2. Find the countering truth**
+### 2. Find the countering truth
 Search Scripture for the truth that directly counters the lie. For example:
 - Lie: "You're not really forgiven." Truth: 1 John 1:9, Colossians 1:13-14
 - Lie: "God is angry with you." Truth: Romans 5:1, Romans 8:1
 - Lie: "You'll never be free." Truth: John 8:36, Galatians 5:1
 
-**3. Declare the truth out loud**
+### 3. Declare the truth out loud
 Don't just think it. Speak it. "Enemy, you say I'm not forgiven. But God's Word says that if I confess my sins, He is faithful and just to forgive me. I am forgiven—completely, fully, eternally. Your lie has no power here."
 
-**4. Stand firm**
+### 4. Stand firm
 The lie will come back. That's what the enemy does. But every time it returns, declare the truth again.
 
-**5. Thank God for the victory**
+### 5. Thank God for the victory
 End by thanking God for the victory that's already been won. For the truth that sets you free. For the armor He provides. For the fact that in Christ, the devil is on the run.
 
 ---
-
-**Closing Image:**
+## Closing Image
 
 You're standing on the battlefield, but the battle is over. The smoke is clearing. The enemy is retreating. And you realize—you didn't win this fight. Christ did.
 
@@ -502,5 +579,3 @@ And the enemy, hearing that truth, does the only thing he can do.
 He runs.
 
 Every single time.
-
-**Length:** 14-16 pages

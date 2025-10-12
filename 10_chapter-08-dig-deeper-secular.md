@@ -1,28 +1,58 @@
-# Out of the Swamp: A Wayfarer's Journey (Chapter 8)
+---
+wp_post_id: 2296
+last_updated: 2025-10-11 19:28:19
+---
+
+# Out of the Swamp: How I Found Truth (Chapter 8)
+
+*Last updated: 2025-10-11 19:28:19*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 8: Dig a Little Deeper
 
-[Great Is Your Faithfulness](https://www.skylerthomas.com/wp-content/uploads/2025/01/Great-is-Your-Faithfulness.mp3)
-*(Right-click to open in new tab)*
+> "They will be like a tree planted by the water
+> that sends out its roots by the stream."
+> — Jeremiah 17:8
 
 ---
 
-**Here's the hard truth nobody tells you upfront:**
+[Dig a Little Deeper](https://www.skylerthomas.com/wp-content/uploads/2025/10/Dig-a-Little-Deeper.mp3)
 
-Getting clean isn't the same as getting healed.
+**Listen at:** http://go.skylerthomas.com/i0kY88
 
-You can wash off the surface mud. You can look better. Smell better. Function better.
+![Scan to listen: Dig a Little Deeper](qr-ch08-dig-deeper.png)
 
-But underneath? That's where the real work lives.
+---
 
-This chapter is about what happens when you realize that grace doesn't just want to clean you up—it wants to dig deep and heal you from the inside out.
+**An Invitation to Go Deeper**
 
-And that terrifies you. Because digging means opening wounds you've spent years protecting. It means feeling pain you've been numbing. It means facing truths you've been avoiding.
+You've journeyed through seven chapters now. You've named the swamp, cried out, decided, died to the old, stepped into living water, found shelter in grace, and received what you don't deserve.
 
-But here's what I learned: You can't heal what you won't feel. And you can't feel what you keep buried.
+You've been washed. The surface mud is gone. You look better. Smell better. Function better.
 
-If you're ready to go deeper—really deeper—keep reading.
+But now I need to ask you something uncomfortable:
+
+**Are you willing to let grace go deeper than the surface?**
+
+Because here's what I've learned: Getting clean isn't the same as getting healed.
+
+It's like the sign in the doctor's office: "Do you want to be right, or do you want to be well?"
+
+You can wash off the mud and still carry the wounds underneath. You can look healed on the outside while the infection still festers inside. You can function well while the scar tissue hides the pain you've never actually dealt with.
+
+Grace doesn't just want to clean you up. Grace wants to heal you from the inside out. And that requires digging—opening wounds you've spent years protecting, feeling pain you've been numbing, facing truths you've been avoiding.
+
+**Here's the hard truth nobody tells you upfront: You can't heal what you won't feel. And you can't feel what you keep buried.**
+
+This chapter is about excavation. About going beneath the surface to the deep places where real transformation happens.
+
+And I'm not going to lie to you—it's terrifying. It's going to hurt. You're going to want to stop halfway through and just settle for looking clean on the outside.
+
+But if you're willing—if you can say, even with fear, "God, I don't want to just look healed, I want to BE healed. Dig as deep as You need to"—then what comes next will transform you from the inside out.
+
+**Are you ready to go deeper? To let grace excavate not just your behavior but your heart? To dig through the scar tissue until you hit bedrock truth?**
+
+If yes, take a breath and keep reading.
 
 This is where transformation stops being surface-level and starts becoming soul-level.
 
@@ -37,8 +67,6 @@ But underneath? That's where the real work begins.
 Underneath the surface are the wounds you've carried for years. The scar tissue that formed over the original pain. The coping mechanisms you developed to survive. The defense strategies that became so automatic you forgot you were using them. The ways of numbing, avoiding, performing, pretending that protected you from feeling the full weight of what happened.
 
 The surface dirt washes away easily. The scar tissue? That requires excavation.
-
-*Take a breath.*
 
 This chapter is about the moment you realize: if you want real healing—not just cleaning, but healing—you're going to have to go deeper.
 
@@ -59,16 +87,15 @@ But you have to let it.
 You have to dig.
 
 ---
-
 ## Key Themes
 
-**1. The Depths of Grace: How Wide, How Long, How High, How Deep**
+### 1. The Depths of Grace: How Wide, How Long, How High, How Deep
 
 The Apostle Paul prays one of the most beautiful prayers in Scripture in Ephesians 3:
 
-> "I pray that you, being rooted and established in love, may have power, together with all the Lord's holy people, to grasp how wide and long and high and deep is the love of Christ, and to know this love that surpasses knowledge—that you may be filled to the measure of all the fullness of God."
+> "May you have the power to understand, as all God's people should, how wide, how long, how high, and how deep his love is. May you experience the love of Christ, though it is too great to understand fully. Then you will be made complete with all the fullness of life and power that comes from God."
 >
-> — Ephesians 3:17-19 (The Message)
+> — Ephesians 3:18-19 (NLT)
 
 How wide? Wide enough to reach every person, every nation, every generation. No one is outside the reach of this love.
 
@@ -96,7 +123,7 @@ Grace doesn't wait at the surface for us to climb up. It descends—all the way 
 
 That's where grace does its deepest work.
 
-**2. Spiritual Formation as Excavation, Not Construction**
+### 2. Spiritual Formation as Excavation, Not Construction
 
 We tend to think of spiritual growth as building something. Adding disciplines. Improving behavior. Constructing a better version of ourselves.
 
@@ -108,9 +135,9 @@ You're not building a new self from scratch. You're uncovering your true self—
 
 Dallas Willard writes in *Renovation of the Heart*:
 
-> "Spiritual formation is not a matter of doing the right things. It is a matter of being—becoming the kind of person whose actions flow naturally from who they are."
+> "Actions are not impostions on who we are, but are expressions of who we are. They come out of our heart and the inner realities it supervises and interacts with."
 >
-> — Dallas Willard, *Renovation of the Heart* (adapted)
+> — Dallas Willard, *Renovation of the Heart*
 
 Who you are at the core—created in love's image, beloved, chosen, redeemed—is already true. But it's buried. Hidden under layers of pain and protection.
 
@@ -128,7 +155,7 @@ Thomas Merton understood this deeply:
 
 Excavation isn't just about removing what's false—it's about uncovering who we truly are. The two discoveries are one journey.
 
-**3. Digging Through the Layers**
+### 3. Digging Through the Layers
 
 The journey inward follows a pattern. Not everyone goes through these layers in the same order, but most of us encounter them:
 
@@ -162,7 +189,7 @@ Underneath the wounds are the false beliefs. The conclusions we drew from the wo
 
 These beliefs formed in moments of pain. And they've been running our lives ever since.
 
-*Pause and consider: What false beliefs have you been living under? What lies sound like truth because you've heard them so long?*
+*What false beliefs have you been living under? What lies sound like truth because you've heard them so long?*
 
 **Layer 5: Bedrock Truth**
 
@@ -174,13 +201,13 @@ This truth was true before the wounds. It remained true through the wounds. And 
 
 Digging deeper means excavating through performance, shame, wounds, and false beliefs until you hit bedrock. Until you touch the truth of who you actually are.
 
-**4. Finding Treasure Buried in the Depths**
+### 4. Finding Treasure Buried in the Depths
 
 Jesus tells a parable in Matthew 13:
 
-> "The kingdom of heaven is like treasure hidden in a field. When a man found it, he hid it again, and then in his joy went and sold all he had and bought that field."
+> "The Kingdom of Heaven is like a treasure that a man discovered hidden in a field. In his excitement, he hid it again and sold everything he owned to get enough money to buy the field."
 >
-> — Matthew 13:44 (The Message)
+> — Matthew 13:44 (NLT)
 
 The treasure is there. Already in the field. The work isn't creating the treasure—it's finding it.
 
@@ -204,13 +231,13 @@ Eugene Peterson writes:
 
 Digging deeper means going back to bedrock truth—not our opinions, not our feelings, but what reality reveals about who we are. That's the treasure buried in the field.
 
-**5. Surface Religion vs. Deep Transformation**
+### 5. Surface Religion vs. Deep Transformation
 
 Jesus had no patience for surface religion. He called out the religious leaders repeatedly for their performance—they looked good on the outside, rotten inside.
 
-> "Woe to you, teachers of the law and Pharisees, you hypocrites! You clean the outside of the cup and dish, but inside they are full of greed and self-indulgence. Blind Pharisee! First clean the inside of the cup and dish, and then the outside also will be clean."
+> "What sorrow awaits you teachers of religious law and you Pharisees. Hypocrites! For you are so careful to clean the outside of the cup and the dish, but inside you are filthy—full of greed and self-indulgence! You blind Pharisee! First wash the inside of the cup and the dish, and then the outside will become clean, too."
 >
-> — Matthew 23:25-26 (The Message)
+> — Matthew 23:25-26 (NLT)
 
 Surface religion focuses on the outside: behavior, appearance, performance. It's about looking good to others.
 
@@ -222,9 +249,9 @@ Digging deeper means going to the heart. Letting Love excavate not just your act
 
 Paul captures this in 2 Corinthians 3:18:
 
-> "And we all, who with unveiled faces contemplate the Lord's glory, are being transformed into his image with ever-increasing glory, which comes from the Lord, who is the Spirit."
+> "So all of us who have had that veil removed can see and reflect the glory of the Lord. And the Lord—who is the Spirit—makes us more and more like him as we are changed into his glorious image."
 >
-> — 2 Corinthians 3:18 (The Message)
+> — 2 Corinthians 3:18 (NLT)
 
 Transformation. Not behavior modification. Not surface cleaning. Transformation from the inside out.
 
@@ -241,22 +268,27 @@ A.W. Tozer captures this beautifully:
 Surface religion settles for low thoughts—a manageable concept that confirms our preferences. Deep transformation requires digging down to encounter what's truly Real—infinite, holy, transcendent, and yet intimately near. When we behold rightly, we cannot remain unchanged.
 
 ---
-
 ## Stories of Digging Deeper
 
 **Want to hear some ancient stories about this kind of excavation?**
 
 **Isaac Re-Digging the Wells (Genesis 26:18)**
 
-After Abraham died, enemies filled in all the wells Abraham had dug. Wells were life in that arid land—without water, you couldn't survive. So filling in the wells was an act of sabotage, an attempt to drive Isaac out.
+Picture the scene: Isaac is living in the Negev, the dry southern desert where his father Abraham once dwelt. Water is life here—without wells, there's no survival. No water for people, no water for flocks, no way to stay in the land.
 
-But Isaac didn't give up. The text says:
+Abraham had done the hard work years before. He'd dug deep wells, found water, established a life. But after Abraham died, enemies came and filled in every single well. They hauled dirt and rocks, stopped up the openings, buried the sources. It was sabotage—an attempt to drive Isaac out, to reclaim the land, to erase Abraham's legacy.
 
-> "Isaac reopened the wells that had been dug in the time of his father Abraham, which the Philistines had stopped up after Abraham died, and he gave them the same names his father had given them."
+Isaac could have left. Could have said, "The wells are gone. The work is undone. I'll start somewhere else."
+
+But he didn't. The text says:
+
+> "He reopened the wells his father had dug, which the Philistines had filled in after Abraham's death. Isaac also restored the names Abraham had given them."
 >
-> — Genesis 26:18 (The Message)
+> — Genesis 26:18 (NLT)
 
-Isaac had to dig again. The wells had been there. His father had done the work. But over time, they'd been filled in. Now Isaac had to re-dig them.
+Isaac had to dig again. Shovel by shovel, stone by stone, removing the fill, excavating through layers of debris until he hit the original well shaft. The wells had been there. His father had done the work. Water had flowed. But over time, they'd been deliberately stopped up, buried, hidden.
+
+Now Isaac had to re-dig them. Hard, sweaty, exhausting work. Digging through sabotage. Excavating through enemy interference. Going back to what was true from the beginning.
 
 This is the work of excavation. The well was dug. Your true identity was established. The truth about you was set. The well is there.
 
@@ -272,9 +304,9 @@ Still living. Still life-giving.
 
 The psalmist writes:
 
-> "Deep calls to deep in the roar of your waterfalls; all your waves and breakers have swept over me."
+> "I hear the tumult of the raging seas as your waves and surging tides sweep over me."
 >
-> — Psalm 42:7 (The Message)
+> — Psalm 42:7 (NLT)
 
 There's a depth in Reality that calls to the depth in you. Not the surface you. Not the performed you. The real you. The deep you.
 
@@ -296,44 +328,60 @@ The deep waters aren't a place to avoid—they're the place where we encounter L
 
 **The Woman at the Well Going Deeper (John 4)**
 
-We've looked at the woman at the well before, but notice the progression of the conversation. It starts surface-level:
+It's noon—the hottest part of the day. No one comes to the well at noon if they can help it. You come in the morning or evening when it's cooler, when the other women are there, when drawing water becomes a social event.
 
-Jesus: "Give me a drink."
-Woman: "You're a Jew. I'm a Samaritan. Why are you talking to me?"
+But this woman comes at noon. Alone. Because she can't face the other women. Can't bear the stares, the whispers, the judgment. Five marriages. Five. And the man she's with now isn't even her husband. Everyone knows. Everyone talks.
 
-Jesus could have stayed at that level. But He goes deeper:
+So she comes when no one else is there.
+
+Except today, there's a Jewish man sitting by the well. A Jew. In Samaria. Jews don't come here. And they definitely don't talk to Samaritan women.
+
+But He does. "Give me a drink."
+
+The conversation starts surface-level, defensive:
+
+Woman: "You're a Jew. I'm a Samaritan. Why are you even talking to me?"
+
+Jesus could have stayed at that level—cultural barriers, religious differences, safe territory. But He goes deeper:
 
 Jesus: "If you knew who was asking, you'd ask me for living water."
+
 Woman: "You don't have a bucket. Where's this water coming from?"
 
-Still surface. Still literal. But Jesus goes deeper:
+Still surface. Still literal. Still protected. But Jesus goes deeper:
 
 Jesus: "Everyone who drinks this water will be thirsty again, but whoever drinks the water I give will never thirst."
-Woman: "Give me this water!"
 
-Getting closer. But Jesus goes even deeper:
+Woman: "Sir, give me this water!"
+
+Getting closer. She's starting to want something. But Jesus goes even deeper:
 
 Jesus: "Go call your husband."
+
+There it is. The question she dreads. The reality she can't escape.
+
 Woman: "I don't have a husband."
+
+She states it simply. Flatly. Hoping that ends it.
+
 Jesus: "You're right. You've had five husbands, and the man you're with now isn't your husband."
 
-Now we're at the wound. The shame. The thing she came at noon to avoid facing. The thing everyone in town whispers about.
+Now we're at the wound. The shame. The thing she came at noon to avoid facing. The thing everyone in town whispers about. The reason she's alone.
 
-And Jesus doesn't condemn her. He doesn't lecture her. He just sees her. Fully. And offers her living water anyway.
+And Jesus—He doesn't condemn her. Doesn't lecture her. Doesn't pull back in disgust. He just sees her. Fully. Knows her completely. And still offers her living water.
 
-From this depth—the place of wound and shame—she encounters Jesus as the Messiah. And she runs back to town, no longer hiding, and becomes an evangelist.
+From this depth—the place of wound and shame and honesty—she encounters Jesus as the Messiah. And everything changes. She leaves her water jar behind and runs back to town, no longer hiding, and tells everyone: "Come see a man who told me everything I ever did!"
 
 That's what happens when we let truth go deep. Transformation flows from depth, not surface.
 
 ---
-
 ## The Core Scripture Truth
 
 Here's the promise that makes digging possible:
 
-> "You will seek me and find me when you seek me with all your heart."
+> "If you look for me wholeheartedly, you will find me."
 >
-> — Jeremiah 29:13 (The Message)
+> — Jeremiah 29:13 (NLT)
 
 God isn't hiding from you. He's not playing games, making Himself difficult to find so only the spiritually elite can reach Him.
 
@@ -346,7 +394,6 @@ When you seek Him there—in the depths, not just the shallows—you find Him. A
 This isn't about earning presence by being vulnerable enough. It's about discovering that Love's presence is already there, in the depths, and the work is removing the barriers we've erected to keep it (and everyone else) out.
 
 ---
-
 ## The Wayfarer Moment
 
 **Grace on the surface is wonderful. Grace in the depths is life-changing.**
@@ -371,224 +418,138 @@ But here's the promise: you don't dig alone. Love is the excavator. It has the s
 
 Proverbs 20:5 says:
 
-> "The purposes of a person's heart are deep waters, but one who has insight draws them out."
+> "Though good advice lies deep within the heart, a person with understanding will draw it out."
 >
-> — Proverbs 20:5 (The Message)
+> — Proverbs 20:5 (NLT)
 
 God has the insight. He knows how to draw out what's buried. And when He does, transformation happens. Not surface transformation. Deep, lasting, bedrock transformation.
 
 ---
-
-## Original Writing from the Blog
-
-They say that time
-Is all it takes
-
-Time will heal
-...Every mistake
-...Every loss
-...Every wound
-...Every wrong-doing
-...Every abuse
-...Every tragedy
-...Every pain
-
-Time heals all
-That's what they say
-
-Just give it more time
-Eventually I'll be fine
-I'll see, just trust
-The pain will go away
-It won't hurt so much tomorrow
-Eventually I'll forget
-I won't feel so bad
-Just give it time
-Just give it
-Just
-More time
-Time
-
-Echoing in my brain
-The words are bouncing
-Off the walls
-Off the walls of an echo chamber
-The echo chamber between my ears
-Time
-Time
-Time
-TIME
-TIME
-TIME
-
-And finally I scream
-I don't want to hear it any more
-Falling to my knees
-Wrapped up like a ball of string
-Wrapping my arms tightly
-Tightly around my stomach
-My head between my knees
-And I cry deeply
-I bawl out in anguish
-Until silently I cry
-So much I cry
-Until the tears
-Until the tears are dry
-In anguish
-I cry
-Alone I cry
-All alone I cry
-And wonder why
-I wonder why
-Why this works for everyone else
-But not for me
-Why not for me?
-
-"What's wrong with me?"
-"Oh God, what's wrong with me?"
-"Why am I the only one?"
-"Why doesn't Time heal me?"
-
-I dare not tell anyone
-I can't talk to anyone
-They would think I am crazy
-Crazy in the head
-I'm broken
-I can't be fixed
-I deserve what I get
-
-And so...at night
-I weep
-In my pillow I weep
-
-Night
-After
-Night
-After
-Night
-The cycle repeats itself endlessly
-
-And one day
-One day
-I read a book
-And I decide
-Sure I can beat this thing
-
-All I have to do is one simple thing
-Just follow one simple rule
-It's simple
-I just have to follow one simple rule
-I just have to fake it
-That's it
-I just have to fake it
-Fake it until I make it
-Fake it until I
-Fake it until
-Fake it
-Until I Make It
-
-I just have to give it more time
-And...Everything...Will...Be...Ok
-
-But until then
-What do I do?
-Until then...what?
-What do I do...in the mean...time?
-
----
-
-I must dig
-I must dig a little deeper
-I must dig into the scars
-I must dig a little deeper
-To cut through the scar tissue
-To cut through the scar tissue that has me fooled
-To cut through the scar to get to the original pain
-To open up that wound
-To open the wound I don't want to open
-I gotta dig deeper
-I gotta dig a little deeper
-To open the wound
-So it can drain
-So it can drain the toxins that are keeping me down
-So it can drain the toxins and heal again
-
-Yes, it's scary
-It's downright frightening if I think I'm all alone
-If I think I have no one there to help me
-Yes, it's scary as hell
-But it doesn't have to be
-
-But it's necessary to dig a little deeper
-And it's going to hurt like hell
-
-And for this to work I can't numb this pain
-I can't tip the bottle dry
-I can't swallow that pill
-I can't inhale that drag
-And I can't snort that line
-
-No no...
-It's going to hurt like hell
-But that's what it takes
-So I can feel again
-So I can laugh again
-So I can cry real tears again
-So I can feel real pain again
-So I can experience real joy again
-So I can live again
-So I can love again
-
-And so that I can be loved by those around me
-
-But here's the thing...
-I don't have to do this alone...
-If all I will do is tell someone
-
----
-
 ## Song Integration
 
-This writing came out of a season of deep personal work. I'd been in counseling for months, doing the hard work of excavation. And I was discovering something painful: time doesn't heal all wounds. Time just buries them deeper.
+"Time heals all wounds"—it sounds like truth until you discover something painful: time doesn't heal wounds. Time just buries them deeper under layers of scar tissue until we've convinced ourselves we're fine when we're actually just numb.
 
-For years, I'd been told—and told myself—that if I just waited long enough, the pain would fade. The trauma would lose its power. The wounds would close on their own.
+"Dig a Little Deeper" emerged from that season of excavation—when I learned you can't heal what you won't feel, and you can't feel what you keep buried.
 
-But they didn't. They just developed scar tissue. I learned to function around them, to avoid triggering them, to numb when they flared up.
+My counselor, Dr. Petit, explained it with devastating clarity: "It's been said time heals all wounds...yet for the untreated or poorly treated wound, time will infect then scar. For the unset or improperly set bone, time will knit then lame." This is medically accurate. A wound left untreated doesn't heal—it becomes infected and forms scar tissue over the infection. A broken bone left unset knits back together in the wrong position, leaving you permanently lame.
 
-And I thought that meant I was healed. But I wasn't healed—I was just covered up.
+The same is true spiritually and emotionally. Time doesn't heal soul wounds. Proper treatment does. And proper treatment requires digging—opening the wound, draining the infection, then giving time as the servant of healing rather than as the supposed healer itself. For years, I'd been functioning around my wounds rather than healing them. I looked healed. I sounded healed. But I was just well-rehearsed at hiding.
 
-The turning point came when my counselor helped me distinguish between the "reactive self" and the "real self." The reactive self is the one that responds from wounds, fear, and old patterns. The real self is the one that responds from true identity.
+The turning point came when my counselor helped me distinguish between the "reactive self" and the "real self." After moments when I'd reacted poorly, he would ask: "What specifically was reactive? Once that becomes clear, we can explore why that's a trigger." That question opened the door to excavation. Triggers aren't random. They're connected to wounds. To disarm the trigger, you have to heal the wound. But to heal the wound, you have to open it.
 
-After moments when I'd reacted poorly—explosive anger, withdrawal, defensiveness—he would gently ask: "What specifically was reactive? What was mature? Once that becomes clear, we can explore why that's a trigger."
+This terrified me. The wound was covered, scarred over. Opening it meant feeling the original pain again. Meant acknowledging how deep it went. Meant admitting I wasn't as healed as I'd been pretending to be.
 
-That question—"why is this a trigger?"—opened the door to excavation.
+The song begins by calling out the platitude: "They say that time can heal what's broke, but it just whispers empty hope." Time as healer is an empty promise. The pre-chorus captures the breaking point: "I tried to fake it 'til I made it, but I can't outrun what's breaking me." The decision to stop running and start digging.
 
-Because triggers aren't random. They're connected to wounds. And if you want to disarm the trigger, you have to heal the wound.
+The chorus is theologically crucial: "So I'm gonna dig a little deeper, down where the hurting hides. Open the scar so grace can reach, the pain that's buried deep inside." We don't dig just to feel the pain—we dig so grace can reach what's been inaccessible. As long as the wound is buried under scar tissue, grace can't touch it. But when we expose it to light and truth, grace can do its healing work. "It's gonna hurt, I know it will, and healing starts when I finally feel."
 
-But to heal the wound, you have to open it. You have to dig through the scar tissue. You have to drain the infection. And that means feeling the pain you've been avoiding.
+Verse two introduces the promise that makes excavation possible: "Truth won't run, it stands its ground, and mercy whispers through the sound: 'You're not alone, I'm still right here, even in your tears.'" Presence in the pain. God doesn't wait until we're healed to show up. He meets us in the mess, in the tears, in the raw exposed wound. Not after them, not despite them, but in them.
 
-I remember the moment I realized I couldn't numb this. Couldn't fake it. Couldn't "give it more time" and hope it would go away on its own.
+The bridge confesses dependence: "I can't do this on my own, but I was never meant to be alone." We can't heal ourselves. We need divine help and human help—counselors, friends, community. "You reach into the mess I've made, and call my broken heart by name." God doesn't wait for us to clean up before reaching in. He reaches into the chaos and calls our hearts by name—identity based not on our wounds but on whose we are.
 
-I had to dig.
+The final chorus testifies: "So I dig a little deeper, You meet me in the pain. You wash my wounds with holy light, and I am whole again. It hurts, but I can feel again." The paradox of healing: the pain doesn't disappear, but it's no longer the only reality. God's presence in the pain is also real. And presence transforms pain from something that destroys to something that refines.
 
-And it was terrifying. Because what if the wound was too deep? What if opening it meant I'd never stop bleeding?
+Since writing this song, excavation has become a rhythm, not a one-time event. But I'm no longer afraid of the digging. The deeper I go, the more grace I find. Time doesn't heal all wounds. But grace—when we're willing to dig deep enough to let it reach us—heals what time cannot.
 
-That's where "Great Is Your Faithfulness" became my anchor.
+---
+## Lyrics: Dig a Little Deeper
 
-Where the writing says "I'm scared to dig," the song declares: "Your love is faithful through the fire, steady through the storm."
+**Verse 1**
+They say that time can heal what's broke,
+But it just whispers empty hope.
+I've waited long, I've played the game,
+But every day still feels the same.
 
-Where the writing confesses "I've been faking it," the song proclaims: "Your mercy's new every morning, forever You are Lord."
+The echoes say, "Just give it time,"
+But time's been cruel to heart and mind.
+If healing comes with every day,
+Why do I still feel this way?
 
-Where the writing asks "what if I'm too broken?" the song testifies: "When the night feels never-ending, I will trust You're by my side."
+**Pre-Chorus**
+I tried to fake it 'til I made it,
+But I can't outrun what's breaking me.
 
-The song doesn't skip over the struggle. It names it. But it also declares the bedrock truth: God's faithfulness goes deeper than any wound. His mercies are newer than any morning. His presence is steadier than any storm.
-
-And when you hit bedrock—when you excavate all the way down to the truth of who you are—you find that Love was there all along. Faithful. Present. Holding you through every layer, every tear, every terrifying moment of digging.
-
-Great is His faithfulness. Deep enough to reach the deepest wound.
+**Chorus**
+So I'm gonna dig a little deeper,
+Down where the hurting hides.
+Open the scar so grace can reach,
+The pain that's buried deep inside.
+It's gonna hurt, I know it will,
+And healing starts when I finally feel.
+I'm gonna dig, dig a little deeper,
+'Til I find my soul.
 
 ---
 
+**Verse 2**
+The night comes calling like before,
+I see those shadows on my door.
+Every memory wakes again,
+I feel the weight I can't defend.
+
+Truth won't run, it stands its ground,
+And mercy whispers through the sound:
+"You're not alone, I'm still right here,
+Even in your tears."
+
+**Pre-Chorus**
+I've tried to numb it, tried to drown it,
+But grace keeps reaching down for me.
+
+**Chorus**
+So I'm gonna dig a little deeper,
+Down where the hurting hides.
+Open the scar so grace can reach,
+The pain that's buried deep inside.
+It's gonna hurt, I know it will,
+And healing starts when I finally feel.
+I'm gonna dig, dig a little deeper,
+'Til I find my soul.
+
+---
+
+**Verse 3 (The Turning Point)**
+Morning breaks, the light comes in,
+A softer voice beneath my skin.
+The chains I wore begin to slide,
+As mercy breathes me back to life.
+
+I feel Your love in every breath,
+A quiet peace where fear once slept.
+I'm not the same, I'm waking new,
+The pain is real — but so are You.
+
+---
+
+**Bridge**
+I can't do this on my own,
+But I was never meant to be alone.
+You reach into the mess I've made,
+And call my broken heart by name.
+You say, "Come and drink from the well that won't run dry."
+And for the first time, I believe — I'm alive.
+
+---
+
+**Final Chorus**
+So I dig a little deeper,
+You meet me in the pain.
+You wash my wounds with holy light,
+And I am whole again.
+It hurts, but I can feel again,
+I can laugh, I can cry again.
+'Cause I dug, I dug a little deeper,
+And I found You there within.
+
+---
+## Key Takeaways
+
+- **Time doesn't heal wounds—proper treatment does.** Scars can fool you into thinking you're healed when you're just covered up. Real healing requires excavation, not just waiting.
+- **You can't heal what you won't feel.** To heal deep wounds, you must cut through scar tissue, open the pain, drain the infection, and let grace reach what's been buried.
+- **Transformation is excavation, not construction.** You're not building a new self—you're uncovering your true self by removing layers of wounds, shame, and false beliefs until you hit bedrock truth.
+- **The deepest truth is your belovedness.** Beneath all the layers—performance, shame, wounds, lies—is the unchanging reality: you are loved, worthy, and enough because God says so.
+
+---
 ## Reflections for the Road
 
 These aren't questions to answer quickly. They're invitations to dig.
@@ -612,7 +573,6 @@ These aren't questions to answer quickly. They're invitations to dig.
    Don't rush past this. Let the imagery sink in. Waterfalls. Waves. Depths. What is Love inviting you into? What is it calling out of you?
 
 ---
-
 ## Practice: Excavation Journaling
 
 This is hard work. Don't rush it. Set aside unhurried time—maybe a whole afternoon or evening. Find a quiet place where you won't be interrupted.
@@ -648,7 +608,6 @@ Write honestly. Don't edit. Don't make it sound spiritual. Just dig.
 And when you hit bedrock—when you uncover the truth underneath all the layers—receive it. Let it sink in. Let it be the foundation you build on.
 
 ---
-
 ## Closing Image
 
 You're in the water now, and it's deeper than before. Not ankle-deep anymore. Waist-deep. The current is stronger here, pulling at you, but also holding you.

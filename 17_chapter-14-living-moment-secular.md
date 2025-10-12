@@ -1,31 +1,60 @@
+---
+wp_post_id: 2321
+last_updated: 2025-10-11 19:28:25
+---
+
+# Out of the Swamp: How I Found Truth (Chapter 14)
+
+*Last updated: 2025-10-11 19:28:25*
+
+### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 14: Living in the Moment
-**Based on:** "This Moment is Enough" (Devotional and Song)
 
-**Opening Scene (2-3 pages):**
+> "God said to Moses, 'I AM WHO I AM.'
+> This is what you are to say... 'I AM has sent me to you.'"
+> — Exodus 3:14
 
-You're sitting at your kitchen table on a Sunday morning, coffee still steaming in your mug. No agenda today. Nowhere you have to be. Just... space.
+---
 
-A year ago, this would have terrified you. Empty space meant your mind would race to fill it—replaying yesterday's conversations you wish you'd handled differently, rehearsing tomorrow's scenarios that might never happen, catastrophizing outcomes that probably won't come to pass.
+[This Moment is Enough](https://www.skylerthomas.com/wp-content/uploads/2025/09/This-Moment-is-Enough.mp3)
 
-But this morning, you're just here. Hands wrapped around warm ceramic. The smell of coffee. Morning light slanting through the window. The sound of birds outside.
+**Listen at:** http://go.skylerthomas.com/jIthAe
 
-Present.
+![Scan to listen: This Moment is Enough](qr-ch14-this-moment.png)
 
-When did this become possible?
+---
 
-You think back to the person you were—always somewhere else mentally. Either stuck in the past, replaying and regretting, or anxious about the future, planning and preparing and trying to control outcomes that weren't yours to control.
+**An Invitation to Be Here**
+
+You've journeyed through thirteen chapters. From swamp to water's edge. From crisis to rhythm. From scattered to rooted. From waste to redemption. From defeat to victory.
+
+But now I need to ask you one final question:
+
+**Where are you right now?**
+
+Not physically. Mentally. Emotionally. Spiritually.
+
+Are you here? Or are you replaying yesterday's conversations you wish you'd handled differently? Rehearsing tomorrow's scenarios that might never happen? Catastrophizing outcomes that probably won't come to pass?
+
+Be honest. Most of us live everywhere except the present moment.
+
+We're stuck in the past, replaying and regretting. Or anxious about the future, planning and preparing and trying to control outcomes that aren't ours to control.
 
 Never here. Never now. Always scattered across yesterday and tomorrow.
 
-The cost of that was crushing. You were exhausted from carrying regrets that belonged to yesterday and borrowing worries from tomorrow. Your today was weighed down by burdens it was never meant to carry.
+The cost of that is crushing. You're exhausted from carrying regrets that belong to yesterday and borrowing worries from tomorrow. Your today is weighed down by burdens it was never meant to carry.
 
-But somewhere along the journey—through the swamp and the water's edge, through learning rhythms and sending roots deep, through seeing your story in God's story and trusting nothing is wasted—you started to discover something revolutionary:
+But here's what I've discovered, and it's the truth that brings rest:
 
-This moment is enough.
+**This moment is enough.**
 
 Not because it's perfect. Not because all your questions are answered or your problems are solved.
 
 But because God's name is "I AM"—present tense—and His grace meets you here, now, in this breath, in this step, in this exact moment you're living.
+
+This final chapter is about learning to be present. To live here, now, instead of scattered across time. To fix your eyes on what's Real instead of on what was or what might be.
+
+To trust that this moment, with sufficient grace, is enough.
 
 You don't need tomorrow's grace today. You can't access yesterday's moments anymore. All you have—all you've ever had—is this moment.
 
@@ -33,11 +62,15 @@ And when you stop running from it and start receiving it as the gift it is, you 
 
 It's enough.
 
-You take a sip of coffee, fully tasting it. And you whisper, "This moment is enough."
+So before you continue—this final time—pause. Actually pause. Be here. Consider:
+
+*Can you say, even if it feels strange: "God, I'm here. Right now. Not yesterday, not tomorrow. Here. This moment is enough. Your grace meets me here. Help me stay present. Help me be here with You."*
+
+That's the prayer that opens presence.
+
+Because what comes next isn't about doing more. It's about being here—fully, completely, presently here—where grace has always been waiting.
 
 ---
-
-**The Geography of Presence (2 pages):**
 
 Most of us live everywhere except the present moment.
 
@@ -69,10 +102,9 @@ Grace says: Be here now. Trust God with outcomes. Rest is not weakness.
 Presence is a practice. A discipline. A choice you make moment by moment to come back here, to this breath, to this moment, to this sufficient grace.
 
 ---
+## Key Themes
 
-**Key Themes (3-4 pages):**
-
-**1. God's Name is "I AM" – Present Tense**
+### 1. God's Name is "I AM" – Present Tense
 
 When Moses asked God for His name, God didn't say "I was" or "I will be." He said:
 
@@ -102,7 +134,7 @@ But when I learned to trust that God's grace is sufficient for this moment—and
 
 Not the rest of inactivity. The rest of presence. Being here. Trusting now.
 
-**2. Matthew 6:34 – Today's Troubles Are Sufficient**
+### 2. Matthew 6:34 – Today's Troubles Are Sufficient
 
 Jesus addresses our tendency to borrow tomorrow's worries:
 
@@ -124,7 +156,15 @@ This is freedom. Real freedom. The freedom to engage fully with what's right in 
 
 Living in the moment doesn't mean being oblivious to the future. It means trusting that God will give you what you need when you need it. That tomorrow's grace will come tomorrow. That today's grace is sufficient for today.
 
-**3. The Manna Experience: Daily Bread**
+Corrie ten Boom, who lived through the horrors of a Nazi concentration camp, learned this truth:
+
+> "Worry does not empty tomorrow of its sorrow. It empties today of its strength."
+>
+> — Corrie ten Boom, *Clippings from My Notebook*
+
+If anyone had reason to worry about tomorrow, it was Corrie. But she discovered that borrowing tomorrow's troubles only robs today of the grace needed to live it well.
+
+### 3. The Manna Experience: Daily Bread
 
 When Israel wandered in the wilderness, God provided manna every morning. Daily bread. But the instruction was clear: gather only what you need for today. Don't try to hoard tomorrow's provision.
 
@@ -140,7 +180,7 @@ Not weekly bread. Not monthly bread. Daily bread.
 
 Because grace is meant to be received in rhythm—morning by morning, day by day, moment by moment.
 
-**4. Mary and Martha: The Better Choice**
+### 4. Mary and Martha: The Better Choice
 
 The story of Mary and Martha (Luke 10:38-42) perfectly captures the tension between doing and being, between productivity and presence.
 
@@ -166,7 +206,7 @@ And I've missed moments. Beautiful, sacred, unrepeatable moments because I was t
 
 I'm learning—slowly—to choose Mary's part. To sit. To be. To let the tasks wait while I'm fully present to what matters most.
 
-**5. Practices of Presence**
+### 5. Practices of Presence
 
 Living in the moment isn't automatic. It's a practice. A discipline. A set of habits that train you to be present.
 
@@ -184,7 +224,7 @@ Here are some practices that help:
 
 These aren't magic. They're training. Teaching yourself to notice God's presence in this moment. Anchoring yourself in the here and now.
 
-**6. Fixing Your Eyes on Jesus**
+### 6. Fixing Your Eyes on Jesus
 
 Hebrews 12:1-2: "Let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith."
 
@@ -207,44 +247,60 @@ Choosing to focus on what you can control—your response, your attitude, your o
 Choosing to look at Jesus instead of at the waves. At truth instead of at fear. At grace instead of at guilt.
 
 ---
-
-**Biblical Parallels (2-3 pages):**
+## Stories of Presence
 
 **Adam and Eve in the Garden (Genesis 1-3)**
 
-In the beginning, God created humans and placed them in a garden. Not a palace. Not a temple. A garden—a place of simple, present-moment living.
+In the beginning, God created humans and placed them in a garden. Not a palace with protocol and hierarchy. Not a temple with rituals and rules. A garden—soil under their feet, fruit on the trees, animals to name, work to do with their hands. Simple. Present. Alive.
 
-God walked with them in the garden in the cool of the day. Presence. Relationship. This-moment living.
+Picture the scene: evening comes, the heat of the day fading. A breeze moves through the trees. And they hear the sound of the LORD God walking in the garden. Not a distant voice from heaven. Not a vision or a dream. Walking. Present. With them.
 
-The fall wasn't just about disobedience. It was about reaching for something beyond the moment—grasping for knowledge, for autonomy, for tomorrow's wisdom today.
+This is what humanity was made for: present-moment communion with God. No anxiety about tomorrow. No regret about yesterday. Just now. This moment. This conversation. This walk together.
 
-The story of redemption is, in many ways, God bringing us back to the garden. Back to simple presence. Back to walking with Him in this moment.
+But the serpent's temptation was all about pulling them out of the present. "You will be like God, knowing good and evil." Not today. Tomorrow. Not what you have. What you could have. Not contentment in this moment. Grasping for something more.
+
+Eve looked at the fruit—pleasing to the eye, desirable for gaining wisdom—and she reached beyond the present moment. Reached for tomorrow's wisdom today. Reached for knowledge God hadn't given yet. Reached beyond simple trust.
+
+And everything broke. Not just in that moment. In every moment after.
+
+The story of redemption is, in many ways, God bringing us back to the garden. Back to simple presence. Back to walking with Him in the cool of the day. Back to this-moment trust instead of tomorrow's anxiety.
 
 **The Exodus and Daily Manna (Exodus 16)**
 
-When Israel wandered in the wilderness, God provided manna each morning. Daily bread. But the instruction was clear: gather only what you need for today.
+Every morning in the wilderness, the Israelites would wake to find the ground covered with something they'd never seen before. Thin flakes, white like coriander seed, appearing with the dew. They called it "manna"—literally, "What is it?"
 
-Those who tried to hoard manna for tomorrow found it rotting by morning. The lesson: trust today's provision for today. Tomorrow will have its own.
+The routine became sacred: rise early, before the sun gets too hot. Walk out of your tent with a container. Bend down. Gather. Enough for your family for today. Just today.
 
-This is living in the moment. Not grasping for more than you need. Not anxiously securing tomorrow. Just receiving today's grace and trusting tomorrow's will come.
+God's instruction was explicit: "Each one is to gather as much as they need. Take an omer for each person you have in your tent." Not more. Not less. Just enough.
+
+Some people didn't trust it. They gathered extra, hoarding manna for tomorrow just in case God didn't show up again. But the next morning, they'd open their containers to find worms crawling through yesterday's provision. It stank. Rotted. Useless.
+
+The only exception was the day before Sabbath—then they could gather a double portion, and it would keep. Because God wanted them to rest, to trust that His provision covered even the day they didn't work.
+
+The lesson repeated six days a week for forty years: trust today's provision for today. Tomorrow will have manna of its own. You don't need to secure it now. You don't need to hoard grace.
+
+This is living in the moment. Not grasping for more than you need. Not anxiously securing tomorrow at the expense of today's trust. Just receiving today's grace with open hands, knowing tomorrow's grace will be there when you need it.
 
 **Jesus' Temptation: Present Trust (Matthew 4)**
 
-When Jesus was tempted in the wilderness, the devil tried to pull Him out of the present moment:
+In Chapter 13, we explored Jesus' wilderness temptation as a model for spiritual warfare—how He resisted the devil's attacks by standing on Scripture. But there's another dimension to this story that reveals the heart of present-moment living.
 
-"If you are the Son of God, turn these stones to bread" (solve your immediate problem with a shortcut).
+Each of the devil's three temptations was an invitation to abandon the present moment:
 
-"Throw yourself down and angels will save you" (test tomorrow's provision today).
+**First temptation**: "Turn these stones to bread." In other words: Escape this moment's discomfort. Why trust the Father's provision when you can solve it yourself right now?
 
-"Bow down and I'll give you all the kingdoms" (take the future now, bypass the process).
+**Second temptation**: "Throw yourself down and angels will save you." In other words: Force tomorrow's provision into today. Make God prove He'll be faithful in the future by manufacturing a crisis now.
 
-Jesus' response every time? Stay in the moment. Trust the Father. Live by what God says today, not by what might happen tomorrow.
+**Third temptation**: "Bow down and I'll give you all the kingdoms." In other words: Skip the process. Take the future today. Bypass the cross and grab the crown right now.
 
-This is the pattern: present trust defeats future anxiety. Moment-by-moment obedience overcomes the temptation to control what's next.
+Every temptation pulled Jesus out of present trust—toward immediate relief, manufactured proof, or future shortcuts.
+
+And every response anchored Jesus back in the present: "Man shall not live on bread alone, but on every word that comes from the mouth of God." The Father's word for *this moment* was: fast, trust, wait. So Jesus stayed present to that word.
+
+This is the pattern for living in the moment: present trust defeats future anxiety. Moment-by-moment obedience overcomes the temptation to escape discomfort or control what's next. Jesus didn't grasp for tomorrow's grace today—He trusted that this moment's grace was sufficient.
 
 ---
-
-**Theological Anchor (2 pages):**
+## The Core Scripture Truth
 
 **Hebrews 12:1-2** - "Let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith."
 
@@ -262,17 +318,18 @@ This is the theological foundation for living in the moment: God is not just the
 
 The great "I AM"—not "I was" or "I will be," but "I AM." Present tense. Here. Now.
 
-**2 Corinthians 12:9** - "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.'"
+> "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.'"
+>
+> — 2 Corinthians 12:9
 
 Sufficient. Not abundant for tomorrow. Not stored up for next week. Sufficient for today. For this moment. For this need.
 
 That's all you need. And it's enough.
 
 ---
+## The Wayfarer Moment
 
-**The Wayfarer Moment (1-2 pages):**
-
-**The shift from living in anxiety to living in the moment changed everything for me.**
+The shift from living in anxiety to living in the moment changed everything for me.
 
 For years, I lived in two time zones: yesterday and tomorrow. I carried regrets from the past and anxieties about the future. The only time zone I wasn't living in was the present.
 
@@ -303,10 +360,30 @@ His grace is here. His love is active. His strength is available.
 And that's all I need.
 
 ---
+## Song Integration
 
-**Song Integration (2-3 pages):**
+I'd spent most of my life living anywhere but the present moment. My mind was either in the past—replaying conversations, regretting decisions, obsessing over what I should have said—or in the future—catastrophizing outcomes, trying to control variables I couldn't control. The present? I was rarely there. Because the present required me to feel, to be vulnerable, to acknowledge what was actually true right now.
 
-**Song: "This Moment is Enough"**
+Anxiety was my constant companion. The low-grade, ever-present anxiety of someone who can't trust God with the moment in front of him. I was always preparing, always planning, always trying to get ahead of the next crisis. And I was exhausted.
+
+During a season of transition, when everything felt uncertain, a friend asked: "What do you need right now? Not tomorrow. Right now."
+
+I couldn't answer. I'd spent so long living in yesterday and tomorrow that I'd forgotten how to be present to today.
+
+"Maybe the question you need to ask isn't 'What's going to happen?' but 'Is God's grace enough for this moment?'"
+
+I wanted to say yes. But honestly? I didn't know if I believed it.
+
+That's when I began studying how God met people in their present moments throughout Scripture. Adam and Eve weren't given tomorrow's grace—they were given the garden that day. Abraham wasn't promised the full picture—he was called to trust God in that moment of promise. Joseph wasn't told the palace was coming—he was called to remain faithful in the prison.
+
+The pattern was clear: God's people have always been called to live in the present tense. To trust that today's grace is sufficient for today.
+
+"This Moment is Enough" emerged from this study. I wanted to trace redemption history through the lens of present-moment faithfulness—from the garden through the flood, Abraham's yes, Joseph's redemption, all the way to Jesus. And the refrain became my anthem: "We're not promised tomorrow, only the breath we breathe. Here in this moment, God's mercy never leaves."
+
+This isn't resignation. It's liberation. I'm not promised tomorrow. I don't need tomorrow's grace today. I just need this breath, this moment, this sufficient grace right here. When you live from that truth—when you really believe this moment is enough—anxiety loses its grip. You're free to be fully present, fully here, fully alive to the grace that's already present.
+
+---
+## Lyrics: This Moment is Enough
 
 **[Verse 1]**
 In the garden mercy covered the fall,
@@ -343,11 +420,11 @@ From the garden to the cross, from the grave to today,
 The God who redeemed them is redeeming us the same.
 
 **[Verse 3 – Final Verse]**
-Joseph was broken, then lifted again,
-From prison walls to the palace of men.
-What others meant for harm, God turned to grace,
-Forgiveness and mercy took sorrow's place.
-Redemption is here in the moment we're in.
+The prophets proclaimed what the Father would do,
+Messiah would come, make all things new.
+From Isaiah's promise to shepherds' surprise,
+The Word became flesh before human eyes.
+Love took on skin in the moment Divine.
 
 **[Chorus – Final]**
 We're not promised tomorrow, but love is here today.
@@ -364,90 +441,62 @@ This moment is enough.
 This moment is a gift of grace—
 This moment is enough.
 
-*Copyright © 2025 by SkylerThomas*
+---
+## Key Takeaways
+
+- **God's name is "I AM"—present tense, not past or future.** He meets you in this moment, not in yesterday's regrets or tomorrow's anxieties. This moment is where His presence and grace are available.
+- **Sufficient grace for today is enough.** Like manna in the wilderness, God's grace is given daily. Don't hoard yesterday's grace or borrow tomorrow's worry—receive what's here, now.
+- **Presence over productivity.** Mary chose the better part—sitting at Jesus' feet—while Martha stressed over serving. Being with God matters more than doing for God.
+- **Fix your eyes on Jesus, not the waves.** Hebrews 12:2 urges you to focus on Jesus, the author and perfecter of faith. When you look at circumstances, you sink. When you look at Him, you walk on water.
 
 ---
-
-**The Story Behind the Song:**
-
-For most of my life, I lived anywhere but the present moment.
-
-My mind was either in the past—replaying conversations, regretting decisions, obsessing over what I should have said or done differently—or in the future—worrying about what might happen, catastrophizing outcomes, trying to control variables I couldn't control.
-
-The present? I was rarely there. Because the present required me to feel. To be vulnerable. To acknowledge what was actually true right now instead of what I wished had been or feared might be.
-
-Anxiety was my constant companion. Not the clinical kind that needs medication (though that's valid too). But the low-grade, ever-present anxiety of someone who can't trust God with the moment in front of him.
-
-I was always preparing. Always planning. Always trying to get ahead of the next crisis.
-
-And I was exhausted.
-
-The wake-up call came during a season of transition. Everything felt uncertain. My future was unclear. My past was full of regret. And the present? The present was terrifying because I couldn't control it.
-
-A friend asked me: "What do you need right now? Not tomorrow. Not next month. Right now."
-
-And I couldn't answer. Because I didn't know. I'd spent so long living in yesterday and tomorrow that I'd forgotten how to be present to today.
-
-"Maybe the question you need to ask isn't 'What's going to happen?' but 'Is God's grace enough for this moment?'"
-
-And I wanted to say yes. But honestly? I didn't know if I believed it.
-
-That's when I started studying how God met people in their present moments throughout Scripture.
-
-Adam and Eve weren't given tomorrow's grace. They were given the garden that day.
-
-Abraham wasn't promised the full picture. He was called to trust God in that moment of promise.
-
-Joseph wasn't told the palace was coming. He was called to remain faithful in the prison.
-
-The pattern was clear: God's people have always been called to live in the present tense. To trust that God's grace today is sufficient.
-
-The song emerged from this study. I wanted to trace redemption history through the lens of present-moment faithfulness.
-
-The garden. The flood. Abraham's yes. Joseph's redemption. All the way to Jesus.
-
-And the refrain: "We're not promised tomorrow, only the breath we breathe. Here in this moment, God's mercy never leaves."
-
-This isn't resignation. It's liberation.
-
-I'm not promised tomorrow. I don't need tomorrow's grace today. I just need this breath. This moment. This sufficient grace right here.
-
-And when you live from that truth—when you really believe this moment is enough—anxiety loses its grip.
-
-You're free to be fully present. Fully here. Fully alive to the grace that's already present.
-
----
-
-**Reflections for the Road (1-2 pages):**
+## Reflections for the Road
 
 **Questions for the Journey:**
-- Where do you spend most of your mental energy—past, present, or future? Be honest.
-- What does "fixing your eyes on Jesus" look like practically for you today? Write it down. Be specific.
-- Read Genesis 1:27 and Matthew 6:34 slowly. What is God saying to you about living in the present?
-- What practice of presence could you begin today? Breath prayers? Gratitude journaling? Sabbath rest? Pick one.
 
-**Practice: The Daily Examen**
+1. **Where do you spend most of your mental energy—past, present, or future?**
+   Be honest. Are you replaying yesterday's conversations? Rehearsing tomorrow's scenarios? Catastrophizing outcomes that may never happen? Notice where your mind goes when it wanders. Write it down.
+   What is one specific thing you're carrying from yesterday or borrowing from tomorrow that's weighing down your today?
+
+2. **Read Exodus 3:14 and Matthew 6:34 slowly.**
+   "I AM WHO I AM" (Exodus 3:14). God's name is present tense. And Jesus says, "Do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own" (Matthew 6:34).
+   If God is "I AM" (not "I was" or "I will be"), and tomorrow's grace will come tomorrow, what does that mean for this moment right now? Is this moment enough?
+
+3. **What does "fixing your eyes on Jesus" look like practically for you today?**
+   Not wandering eyes that constantly look around at what might go wrong. Not backward eyes living in regret. Not anxious eyes straining to see the distant future. Fixed eyes. On Jesus. On this moment.
+   What does that actually look like in your life today? When you notice your mind wandering to past or future, what will you do to bring it back to this moment?
+
+4. **Read Luke 10:38-42 slowly—Mary and Martha.**
+   Martha is distracted by preparations. Mary sits at Jesus' feet, present and attentive. Jesus says, "Mary has chosen what is better."
+   Where are you being Martha right now? Too busy, too distracted, too productive to be present? What would it look like to choose Mary's part—even for just one moment today?
+
+5. **How will you practice presence this week?**
+   Not all the practices. Just one. Breath prayers throughout your day? Daily examen each evening? One tech-free meal where you're fully present? A walk without headphones where you notice what's here?
+   Which one practice will you actually do? When will you start? What will you say no to in order to say yes to this practice? Be specific. Make it small. Make it real.
+
+---
+
+## Practice: The Daily Examen
 
 One of the most powerful practices for cultivating present-moment awareness is the Daily Examen. Here's a simple version:
 
-**1. Become aware of God's presence**
+### 1. Become aware of God's presence
 Take a few deep breaths. Acknowledge that God is present with you right now. Thank Him for this moment.
 
-**2. Review the day with gratitude**
+### 2. Review the day with gratitude
 Walk through your day from start to finish. Notice where you saw God's presence. Where you experienced grace. What brought joy, peace, or connection.
 
-**3. Pay attention to your emotions**
+### 3. Pay attention to your emotions
 What moments stirred strong emotions—joy, anger, peace, anxiety? Don't judge them. Just notice them. These are often clues to where God is at work.
 
-**4. Choose one feature of the day**
+### 4. Choose one feature of the day
 Pick one moment that stands out. Sit with it. What was God doing in that moment? What was He inviting you to?
 
-**5. Look toward tomorrow**
+### 5. Look toward tomorrow
 Not with anxiety, but with hope. What's one thing you're facing tomorrow? How do you want to respond? What grace do you need? Ask God for that grace. And trust that when tomorrow becomes today, the grace will be there.
 
 ---
-
-**Closing Image:**
+## Closing Image
 
 You're standing at the edge of tomorrow, but you're not stepping into it yet. Not because you're afraid. But because you're learning the sacred art of being here. Now. In this moment.
 
@@ -488,5 +537,3 @@ And this moment—this sacred, grace-filled, God-inhabited moment—is enough.
 More than enough.
 
 It's everything.
-
-**Length:** 14-16 pages

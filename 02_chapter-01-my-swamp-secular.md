@@ -1,15 +1,26 @@
-# Out of the Swamp: A Wayfarer's Journey (Chapter 1)
+---
+wp_post_id: 2148
+last_updated: 2025-10-11 19:28:11
+---
+
+# Out of the Swamp: How I Found Truth (Chapter 1)
+
+*Last updated: 2025-10-11 19:28:11*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 1: My Swamp
 
-<img src="https://www.skylerthomas.com/wp-content/uploads/2015/01/IMG_0589_tonemapped.jpg" alt="Alligator in Sawgrass Lake Park" />
-<em>Sawgrass Lake Park, St. Petersburg, FL</em>
+> "You have made us for yourself, O Lord,
+> and our hearts are restless until they rest in you."
+> — Augustine, *Confessions*
 
 ---
 
 [I Will Rise](https://www.skylerthomas.com/wp-content/uploads/2025/03/I-Will-Rise-Duet.mp3)
-*(Right-click to open in new tab)*
+
+**Listen at:** http://go.skylerthomas.com/8o4Etw
+
+![Scan to listen: I Will Rise](qr-ch01-i-will-rise.png)
 
 ---
 
@@ -52,7 +63,6 @@ This chapter is about the moment you stop defending and start seeing. When the e
 The writing that follows came from my moment of seeing. Not in a flash of revelation, but in a slow, painful recognition that I'd built a life in a place that was killing me. And the first step toward freedom wasn't a grand gesture—it was simply admitting the truth: This is my swamp. And I'm drowning in it.
 
 ---
-
 ## Key Themes
 
 **1. The Geography of Disconnection**
@@ -79,19 +89,19 @@ This isn't just depression (though it might be that too). This is years of perfo
 
 Ever feel like there's a bottomless hole inside you? Like no matter what you achieve, acquire, or accomplish, it's never enough?
 
-One writer, working through his own darkness, described it this way:
+One writer, reflecting on what truly sustains us in dark times, wrote:
 
-> "There is a deep hole in your being, like an abyss. You will never succeed in filling that hole, because your needs are inexhaustible... Since the hole is so deep and your anguish so total, you run away from it, afraid that you will fall into it. But you cannot run away from yourself."
+> "When we honestly ask ourselves which person in our lives means the most to us, we often find that it is those who, instead of giving advice, solutions, or cures, have chosen rather to share our pain and touch our wounds with a warm and tender hand."
 >
-> — Henri Nouwen, *The Inner Voice of Love*
+> — Henri Nouwen, *Out of Solitude*
 
-He wrote this in a private journal, never intending to publish it. Just trying to talk himself through the darkest season of his life. That bottomless ache that no amount of activity, achievement, or performance can fill.
+This is what the swamp teaches us: we don't need people to fix us. We need people to sit with us. To acknowledge the ache. To stop pretending they have all the answers and simply be present to the pain.
 
 There's an ancient song—thousands of years old—that gives voice to this experience. It's the only one that begins and ends in darkness:
 
-> "I am overwhelmed with troubles and my life draws near to death... You have put me in the lowest pit, in the darkest depths... Why do you reject me and hide your face from me?... The darkness is my closest friend."
+> "I am overwhelmed with troubles and my life draws near to death... You have thrown me into the lowest pit, into the darkest depths... Why do you turn your face from me?... Darkness is my closest friend."
 >
-> — Psalm 88 (The Message)
+> — Psalm 88 (NLT)
 
 The song never resolves. It ends with "darkness is my closest friend." No neat bow. No triumphant turnaround. Just brutal honesty.
 
@@ -103,7 +113,7 @@ And that honesty? It matters.
 
 Ever feel like you're playing a role? Like the person people see isn't really you?
 
-Someone gave a name to this:
+Brennan Manning gave a name to this in *Abba's Child*:
 
 > "The impostor is the false self shaped by others' expectations rather than authentic inner promptings. The impostor thrives in places that reward the compliant, the performing, the image-maintaining. The impostor whispers: 'If they knew the real you—the doubting, struggling, messy you—they'd reject you.' So you hide. You perform. You maintain the image. And you die inside while looking alive outside."
 >
@@ -119,9 +129,9 @@ I was the leader who felt nothing. The mentor dispensing advice I didn't believe
 
 There's an ancient teaching that flips this whole performance thing on its head:
 
-> "Blessed are the poor in spirit... Blessed are those who mourn... Blessed are the meek... Blessed are those who hunger and thirst for righteousness..."
+> "God blesses those who are poor and realize their need for him... God blesses those who mourn... God blesses those who are humble... God blesses those who hunger and thirst for justice..."
 >
-> — Matthew 5:3-6 (The Message)
+> — Matthew 5:3-6 (NLT)
 
 Translation: blessed are the spiritually bankrupt, the honest grievers, the powerless, the desperate.
 
@@ -175,18 +185,19 @@ Not eloquent. Not sophisticated. But honest. And honesty—raw, desperate, unvar
 
 This is authenticity stripped to bone: *I can't. Help.*
 
-One teacher talks about two kinds of suffering:
+Richard Rohr, in *Falling Upward*, talks about two kinds of suffering: necessary suffering and unnecessary suffering.
 
-> "There are two kinds of suffering: necessary suffering and unnecessary suffering. Unnecessary suffering is when you fight reality, blame others, stay in victimhood, and refuse to let the pain teach you. It's suffering that embitters rather than transforms. Necessary suffering is when you enter the pain consciously, asking 'What is this teaching me? How is this changing me? Where is truth in this?' The same suffering can be either necessary or unnecessary. The difference isn't the suffering itself; it's how you engage it. Necessary suffering breaks you open. And that breaking is grace, because only the broken can be filled."
->
-> — Richard Rohr, *Falling Upward*
+Unnecessary suffering is when you fight reality, blame others, stay in victimhood, and refuse to let the pain teach you. It's suffering that embitters rather than transforms.
+
+Necessary suffering is when you enter the pain consciously, asking 'What is this teaching me? How is this changing me? Where is truth in this?'
+
+The same suffering can be either necessary or unnecessary. The difference isn't the suffering itself; it's how you engage it. Necessary suffering breaks you open. And that breaking is grace, because only the broken can be filled.
 
 The cry for help—*I can't do this anymore*—marks the shift from unnecessary to necessary suffering.
 
 You stop fighting reality and start asking what it's trying to teach you.
 
 ---
-
 ## Stories of the Swamp
 
 Want to know something interesting? This swamp thing isn't new. People have been stuck in swamps for thousands of years. And some of their stories might sound familiar.
@@ -199,9 +210,9 @@ So they groaned. They cried out.
 
 And the response?
 
-> "I've taken a good, long look at the affliction of my people in Egypt. I've heard their cries for deliverance from their slave masters; I know all about their pain. And now I have come down to help them, pry them loose from the grip of Egypt..."
+> "I have certainly seen the oppression of my people in Egypt. I have heard their cries of distress because of their harsh slave drivers. Yes, I am aware of their suffering. So I have come down to rescue them from the power of the Egyptians..."
 >
-> — Exodus 3:7-8 (The Message)
+> — Exodus 3:7-8 (NLT)
 
 Not "try harder." Not "fix yourself first."
 
@@ -213,9 +224,9 @@ Then there's this wild story about a guy in the ultimate swamp—literally insid
 
 From that impossible place, he prays:
 
-> "In my distress I called out, and was answered. From deep in the realm of the dead I called for help, and was heard... Those who cling to worthless idols turn away from love... Salvation comes from beyond ourselves."
+> "I cried out to the LORD in my great trouble, and he answered me. I called to you from the land of the dead, and LORD, you heard me!... Those who worship false gods turn their backs on all God's mercies. But I will offer sacrifices to you with songs of praise, and I will fulfill all my vows. For my salvation comes from the LORD alone."
 >
-> — Jonah 2:2-9 (The Message)
+> — Jonah 2:2, 8-9 (NLT)
 
 Even from inside a fish, he names what he'd been doing: "clinging to worthless idols."
 
@@ -225,16 +236,15 @@ The swamp is where you discover that everything you've been clinging to is worth
 
 And there's the fugitive hiding in a cave, writing this:
 
-> "I cry aloud; I lift up my voice for mercy. I pour out my complaint; I tell my trouble... Look and see, there is no one at my right hand; no one is concerned for me. I have no refuge; no one cares for my life..."
+> "I cry out to the LORD; I plead for the LORD's mercy. I pour out my complaints before him and tell him all my troubles... I look for someone to come and help me, but no one gives me a passing thought! No one will help me; no one cares a bit what happens to me."
 >
-> — Psalm 142 (The Message)
+> — Psalm 142:1-2, 4 (NLT)
 
 He doesn't clean up his prayer. Doesn't spiritualize his pain. Doesn't pretend.
 
 That honesty—that raw vulnerability—IS courage. The complaint IS the prayer.
 
 ---
-
 ## The Core Truth
 
 Here's where I need to be straight with you about something from scripture.
@@ -243,9 +253,9 @@ There's a letter written two thousand years ago that gets quoted a lot, but usua
 
 But here's the full passage, and it matters:
 
-> "You see, at just the right time, when we were still powerless, love came for the lost. Very rarely will anyone die for a righteous person, though for a good person someone might possibly dare to die. But love demonstrates itself in this: While we were still in our broken patterns, restoration came for us. Since we have now been made right, how much more shall we be saved through this. For if, while we were opposed to what's real, we were reconciled through death, how much more, having been reconciled, shall we be saved through life!"
+> "When we were utterly helpless, Christ came at just the right time and died for us sinners. Now, most people would not be willing to die for an upright person, though someone might perhaps be willing to die for a person who is especially good. But God showed his great love for us by sending Christ to die for us while we were still sinners. And since we have been made right in God's sight by the blood of Christ, he will certainly save us from God's condemnation. For since our friendship with God was restored by the death of his Son while we were still his enemies, we will certainly be saved through the life of his Son."
 >
-> — Romans 5:6-10 (The Message)
+> — Romans 5:6-10 (NLT)
 
 Four words describe where we were when love came: powerless, lost, broken, opposed.
 
@@ -263,34 +273,37 @@ This is why scripture is different from any other approach. It doesn't start wit
 
 This is the scandal:
 
-> "The broken human is not simply an imperfect creature who needs improvement: we are rebels who must lay down our arms. Laying down your arms, surrendering, saying you are sorry, realizing that you have been on the wrong track and getting ready to start life over again from the ground up—that is the only way out of our 'hole.' Here is the scandal and the glory: Love comes to you in the muck. Not after you've cleaned yourself up. Not once you've proven yourself worthy. In the muck. While you're still a rebel. While you're still in the swamp. That's where healing finds you."
+> "Now what was the sort of 'hole' man had got himself into? He had tried to set up on his own, to behave as if he belonged to himself. In other words, fallen man is not simply an imperfect creature who needs improvement: he is a rebel who must lay down his arms. Laying down your arms, surrendering, saying you are sorry, realising that you have been on the wrong track and getting ready to start life over again from the ground floor—that is the only way out of a 'hole.'"
 >
-> — C.S. Lewis, *Mere Christianity* (adapted)
+> — C.S. Lewis, *Mere Christianity*
+
+Here is the scandal and the glory: Love comes to you in the muck. Not after you've cleaned yourself up. Not once you've proven yourself worthy. In the muck. While you're still a rebel. While you're still in the swamp. That's where healing finds you.
 
 Here's the swamp's hidden gift: it forces surrender. I'd tried everything else—more discipline, more service, more belief, more performance, even more "morality" (being good). Nothing worked. So I did the only thing left: I laid down my arms.
 
 And here's the glory: that's exactly when healing shows up. Not after you've cleaned yourself up. In the muck. Mid-swamp. While you're still broken and messy and desperate.
 
-There's an ancient invitation—words spoken by Jesus himself—that speaks directly to this:
+There's an ancient song—a testimony from someone who'd been exactly where you are—that captures this perfectly:
 
-> "Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light."
+> "I waited patiently for the LORD to help me, and he turned to me and heard my cry. He lifted me out of the pit of despair, out of the mud and the mire. He set my feet on solid ground and steadied me as I walked along."
 >
-> — Matthew 11:28-30 (The Message)
+> — Psalm 40:1-2 (NLT)
 
-*Come, all you who are weary and burdened.*
+*Out of the slimy pit. Out of the mud and mire.*
+
+That's the swamp. And the promise isn't that you have to climb out yourself. The promise is that God reaches down into the muck and lifts you out.
 
 Burned out. Swamp-stuck. Performance-exhausted.
 
 Maybe that's you. I know it was me.
 
-And the voice says: Come.
+And the promise is this: He hears the cry. He lifts us out.
 
 Not "clean up first." Not "try harder." Just come. As you are. Muck and all.
 
 And I will give you rest.
 
 ---
-
 ## The Wayfarer Moment
 
 **Admitting "I'm not okay" is the doorway to healing. The swamp is where pretending goes to die.**
@@ -317,112 +330,28 @@ It's the doorway.
 
 ---
 
-## Original Writing from the Blog
-
-THIS is my swamp…
-
-My skin is thick and tough…
-… so that I no longer have to be vulnerable to the pain that surrounds me.
-
-My fighting skills are honed and advanced…
-… so that I can aggressively and fiercely shred any foe that attacks me.
-
-I can submerge and hide for long periods of time…
-… to avoid uncomfortable confrontation.
-
-I can adapt to my surroundings here in my swamp…
-…so that I can be…
-…unaffected
-…unmoved
-…unshaken
-…un-convicted
-
-It's cold here in my swamp…
-But my thick skin insulates me from the outside cold…
-…In fact I even prefer it to be cold and dark…
-…It fits my present state of disposition…
-
-Yes… this is my swamp…
-…Where I can be alone…
-…Where I'm constantly in the dark…
-…Where I'm numb to the world around me…
-…Where I can be angry… bitter… and unforgiving…
-
-But I long for something more…
-
-When I see that warm sun reflecting light on the water
-When I feel the warmth from the sun cascading on my skin
-When I start to remember that it felt good to feel something
-I can't help but want to climb out of my swamp…
-
-…But then I look down into the murky muddy waters…
-And I realize I've been here a long time…
-And I'm covered with swamp mud all over me…
-And I stink…
-
-I get a glimpse of cleansing… but then
-I also remember all the mud I've been wallowing in…
-And I realize how much I stink…
-And I feel too ashamed to leave my swamp…
-
-Perhaps if I work REALLY REALLY REALLY hard at getting all this mud off of me…
-Perhaps then… then maybe I could leave my swamp…
+<img src="https://www.skylerthomas.com/wp-content/uploads/2015/01/IMG_0589_tonemapped.jpg" alt="Alligator in Sawgrass Lake Park" />
+<em>Sawgrass Lake Park, St. Petersburg, FL</em>
 
 ---
-
 ## Song Integration
 
-**The Season of Stuck:**
+"I Will Rise" belongs in this chapter because it captures the theological heart of what it means to move from swamp to freedom: this is not self-rescue, but God-dependent hope. The song expresses the paradox at the center of spiritual transformation—we are utterly powerless to save ourselves, yet called to actively respond to grace.
 
-The song "I Will Rise" emerged from the tension between where I was and where I longed to be. I was functional in the swamp—I'd learned to survive there. But surviving isn't the same as living, and deep down, I knew it.
+The opening verse names the impostor self with unflinching honesty: *"I built these walls, I learned to fight, kept my heart locked up so tight... But I've been sinking all the while."* This is the lament of someone who has maintained appearances while drowning inside. The song begins where transformation always begins—in truthful self-assessment, not pretense. Like the psalms of lament, it refuses to sugarcoat reality. God meets us in our honesty, not in our performance.
 
-The song doesn't skip past the swamp. It starts there:
+But the pre-chorus reveals where hope actually comes from: *"You pull me close, You draw me higher, out of the swamp, into the fire."* The agency belongs to God. We rise because we are lifted. We escape because we are drawn. This is cooperative grace—God initiating what only God can do, while we respond with the step we must take. The progression from swamp to fire is significant: we're not moving from pain to comfort, but from one kind of pain (the slow death of the swamp) to another (the purifying fire that burns away the false self and forges the true one).
 
-*"I built these walls, I learned to fight, kept my heart locked up so tight..."*
+The chorus functions as prophetic declaration, not positive thinking: *"I won't stay where shadows grow, where my heart turns cold, where the dark winds blow."* The song doesn't deny present reality; it refuses to accept it as permanent. This echoes Psalm 40's pattern of lament turning toward trust: "He lifted me out of the pit of despair, out of the mud and the mire." Rising is God's character, His pattern, His promise.
 
-That captured my reality. Not just a bad day. Not just a rough season. I'd been there so long I'd adapted to survive.
+The bridge captures the Wayfarer Moment—the vulnerable decision to move even while trembling: *"I see the road, I see the dawn, and though I shake, I'll carry on. No more hiding, no more chains, Your grace is stronger than my pain."* Here is biblical faith: not the absence of fear, but trust in God's character despite fear. "No more hiding" means the death of the impostor, and the foundation for this vulnerability is grace—"stronger than my pain." Not my strength, not my willpower, but unearned love that pursues us into the swamp and refuses to leave us there.
 
-**The Core Tension:**
+The song functions as both prayer and testimony. As prayer, it's a cry for help acknowledging both desperation and hope. As testimony, it declares for others still stuck: "I am rising—not by my power but by grace—and so can you." The chapter teaches that restlessness is mercy, the soul refusing to settle for substitutes. "I Will Rise" is that restlessness set to music, the refusal to accept the swamp as home.
 
-The verses acknowledge the swamp—the feeling of being buried, the weight, the inability to see a way out. But the chorus insists on something that hasn't happened yet:
-
-*"I will rise, I will stand, I will lift my voice again..."*
-
-This isn't positive thinking. It's not "fake it till you make it." It's the deep human intuition that this isn't the end of the story. That the swamp isn't the final word.
-
-Viktor Frankl, a psychiatrist who survived Auschwitz, wrote about this human capacity:
-
-> "Everything can be taken from a person but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances, to choose one's own way."
->
-> — Viktor Frankl, *Man's Search for Meaning*
-
-Frankl experienced the ultimate swamp—a Nazi death camp. And even there, he discovered this freedom.
-
-The song is that choice. Before the rescue. Before the healing. Before the transformation.
-
-The choice to believe rising is possible—even when you're still stuck.
-
-**Why the Song Matters:**
-
-The swamp wants you to believe you'll never rise. That you're too far gone. Too damaged. Too stuck. Too covered in muck.
-
-The song says: not yet, but I will.
-
-That's not denial. That's defiance. It's the soul refusing to accept the swamp as permanent.
-
-Brené Brown, a researcher who's spent decades studying shame and vulnerability, writes:
-
-> "Owning our story can be hard but not nearly as difficult as spending our lives running from it. Embracing our vulnerabilities is risky but not nearly as dangerous as giving up on love and belonging and joy—the experiences that make us the most vulnerable. Only when we are brave enough to explore the darkness will we discover the infinite power of our light."
->
-> — Brené Brown, *The Gifts of Imperfection*
-
-Brown's research confirms what scripture has been saying for millennia: vulnerability is the path to healing. Running from our story keeps us stuck. Owning it sets us free.
-
-"I Will Rise" is the song of someone exploring the darkness. Naming it. Owning it. And declaring: this isn't where my story ends.
+The chapter ends with a whispered prayer: "Help." The song is the elaboration of that prayer—help me rise, help me trust, help me believe the swamp isn't the end of my story. This is the faith that saves: not perfect understanding or unwavering confidence, but the broken cry "I will rise," spoken to the God who has already promised, "I will lift you out."
 
 ---
-
-## Song Lyrics: "I Will Rise"
+## Lyrics: I Will Rise
 
 **[Verse 1]**
 I built these walls, I learned to fight,
@@ -484,7 +413,14 @@ The past is gone, Your love in me.
 Oh, I will rise… I will rise.
 
 ---
+## Key Takeaways
 
+- **Honesty is the doorway to healing.** You can't heal what you won't name. Stop defending the swamp and start seeing it for what it truly is—a place of disconnection and slow death.
+- **Performance exhausts; authenticity frees.** The impostor self keeps you trapped in endless striving. Grace meets you as you are, not as you pretend to be.
+- **Your restlessness is a mercy.** The deep thirst you feel isn't a flaw—it's your soul refusing to settle for substitutes and pointing you toward the living water you actually need.
+- **Powerlessness is the prerequisite for grace.** God doesn't wait for you to clean up or prove yourself worthy. He reaches into the muck while you're still broken and says, "Come as you are."
+
+---
 ## Reflections for the Road
 
 These aren't questions to answer quickly. They're invitations to be honest.
@@ -515,8 +451,17 @@ These aren't questions to answer quickly. They're invitations to be honest.
 
    The impostor thrives in isolation. Authenticity requires witness.
 
----
+5. **Read Psalm 88 slowly—the only psalm that begins and ends in darkness.**
 
+   "Darkness is my closest friend." Does this honest lament give you permission to be honest about your swamp? What would it look like to pray like this—without pretending, without a neat ending?
+
+6. **How will you take one step toward admitting "I'm not okay" this week?**
+
+   Not a giant leap. Just one step. Who will you tell? What will you stop defending? What honest conversation will you have?
+
+   Name one specific action. Make it small. Make it soon.
+
+---
 ## Practice: The Five-Minute Honest Conversation
 
 Find a quiet space. Set a timer for five minutes.
@@ -535,12 +480,15 @@ When the timer goes off, breathe.
 
 *Take a breath.*
 
+**Time needed:** 5 minutes
+
+**Tip for starting small:** If 5 minutes of unfiltered honesty feels too long or overwhelming, start with just 2 minutes. Or if speaking out loud feels too vulnerable, write your honest thoughts in a journal instead. The goal is honesty, not eloquence or a specific format. Some people find it easier to be honest in writing first, then build up to speaking their truth aloud.
+
 You've just spoken the most important truth: the real one.
 
 The universe hears. Not because it was eloquent. Because it was true. And truth is the language healing speaks.
 
 ---
-
 ## Closing Image
 
 You're still in the swamp. Let's be honest. This isn't the rescue chapter. This is the honesty chapter. The naming chapter. The cry-for-help chapter.
@@ -557,9 +505,25 @@ You've looked up.
 
 And you see something you haven't seen in a long time: light. Just a glimmer. Just a hint. Filtering through the canopy. Weak, maybe. But real.
 
+It's not much. Not the blinding sunrise. Not the dramatic breakthrough. Just... a sliver. A crack in the darkness. Proof that somewhere beyond this place, light exists.
+
 You can't see the source yet. You can't see the full picture. You can't see the path out.
 
 But you can see that the swamp isn't all there is. There's something beyond it. Above it. Outside it.
+
+*Take a breath.*
+
+For so long, you believed the swamp was your permanent address. That this stuck place, this numb place, this drowning place—this was it. This was all there was.
+
+The light proves otherwise.
+
+It doesn't fix anything. Not yet. The muck is still thick. The water is still dark. You're still sinking.
+
+But the light changes the narrative.
+
+Before: This is all there is. I'm stuck forever. There's no way out.
+
+Now: There's something beyond this. Light exists. Maybe—just maybe—there's a way.
 
 And in that moment—that brief, fragile, barely-there moment—hope flickers.
 
@@ -569,72 +533,10 @@ Not rescue yet. Just realization.
 
 And maybe—just maybe—that's okay. Maybe admitting "I can't" is the doorway to discovering "there is a way."
 
----
+You look up again. The light is still there. Faint but real.
 
-**But here's what I want you to consider.**
+And you whisper the only honest prayer left: "Help."
 
-Just for a moment. You don't have to commit to anything. You don't have to believe it all right now. Just consider the possibility.
-
-What if that stirring you feel—that restlessness, that longing, that whisper you've been hearing in the quiet moments—what if it's not just last night's pizza? What if it's not your imagination making things up?
-
-What if it's actually something calling to your soul?
-
-What if there's a power greater than yourself—one you might not have considered before—that's been trying to get your attention?
-
-Not a cosmic force. Not karma. Not the universe.
-
-LOVE.
-
-An infinite sort of love that you can't fully comprehend just yet. A love so vast, so personal, so relentless that it won't leave you alone in your swamp. A love that knows your name. That sees you in the muck. That isn't repelled by your mess.
-
-What if God—the Almighty, the Creator, the Source of all that is—is actually capable of calling out to your soul?
-
-What if He's calling right now?
-
-I'm not asking you to believe it all. I'm not asking you to sign up for anything. I'm just asking you to consider: what if?
-
-What if the ache you feel is your soul recognizing a voice it was made to hear?
-
-What if the restlessness is mercy—Love refusing to let you settle for substitutes?
-
-What if the swamp itself—this dark, desperate place—is exactly where Love meets you?
-
-The swamp is still real. The struggle is still real. The pain is still real.
-
-But so is the light.
-
-And so is the Love calling your name.
-
-You've looked up.
-
-And maybe—just maybe—you're starting to hear.
-
----
-
-**And here's the beautiful part.**
-
-You don't have to go through some ritual to access this Love. You don't have to take a class. You don't have to learn the right words or master some technique. You don't have to clean yourself up first.
-
-You can simply cry out. Right now. Right where you are.
-
-"Help me."
-
-That's it. Two words. Not eloquent. Not religious. Just honest.
-
-You can do that any time you wish. In the swamp. In the muck. In the middle of your mess. Right here, even as you read these words.
-
-And know this: His Love is simply waiting for you.
-
-Not judging. Not demanding. Not requiring you to have it all figured out first.
-
-Just waiting.
-
-Ready to meet you exactly where you are—swamp mud and all.
-
-Even now.
-
-Especially now.
-
-That changes everything.
+It's a beginning.
 
 ---

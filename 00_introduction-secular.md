@@ -1,4 +1,11 @@
-# Out of the Swamp: A Wayfarer's Journey (Introduction)
+---
+wp_post_id: 2144
+last_updated: 2025-10-11 19:28:07
+---
+
+# Out of the Swamp: How I Found Truth (Introduction)
+
+*Last updated: 2025-10-11 19:28:07*
 
 ## The Wayfarer's Anthem
 
@@ -7,8 +14,6 @@
 ---
 
 ## Who This Book Is For (And What It's Really About)
-
-Can I ask you something?
 
 Are you tired? Not just physically tired—soul tired. The kind of tired that sleep doesn't fix.
 
@@ -24,9 +29,9 @@ And you don't have to figure it out alone.
 
 Now, I need to be honest with you about something: this is a book about finding something more. And that "something more" is a spiritual connection—but probably not the kind you're thinking of.
 
-This isn't about religion. It's not about joining a church or converting to any particular faith tradition. But yes, I'm going to introduce you to some faith-based authors. Yes, I'll cite scriptures from the Holy Bible. Because these ancient texts and thinkers have mapped this journey before us, and their wisdom matters.
+This isn't about religion. It's not about joining a church or converting to any particular faith tradition. But yes, I'm going to introduce you to some faith-based authors. Yes, I'll cite passages from the Holy Bible. Because these ancient texts and thinkers have mapped this journey before us, and their wisdom matters.
 
-But here's what this book IS about: introducing you to a God who created you and loves you exactly where you are right now. Not where you should be. Not where you wish you were. Right where you are.
+Here's what this book IS about: introducing you to a God who created you and loves you exactly where you are right now. Not where you should be. Not where you wish you were. Right where you are.
 
 **If you've never been to church**, that's okay. You might actually have an advantage—fewer bad experiences to unlearn.
 
@@ -54,7 +59,7 @@ I talk about **the Spirit** not as some spooky religious concept, but as the pre
 
 Because maybe you've tried everything else.
 
-Maybe you've tried achieving your way to meaning. Working harder. Making more money. Finding the right relationship. Filling the void with whatever you could find. And if you're honest, it's all come up short.
+Maybe you've tried achieving your way to meaning. Working harder. Making more money. Finding the right relationship. Filling the void with whatever you could find. Maybe you've even tried to just be a better person through morality (whatever that is). And if you're honest, it's all come up short.
 
 Not because you're doing it wrong. But because you were designed for something deeper. Something that doesn't break when life breaks. Something that doesn't end when your heart stops.
 
@@ -128,8 +133,6 @@ Then my world crumbled into pieces I could hardly recognize.
 
 ## The Crisis and the Promise
 
-Here's what happened to me:
-
 It was more than burnout. It was a moral breakdown—an unraveling of the life I'd tried to hold together. My performance-based identity collapsed. I crossed boundaries those closest to me couldn't accept. As a leader, husband, and father, I lost the trust that defined my identity.
 
 What remained? Shame. Emptiness. And the desperate hope that I could still be loved.
@@ -142,9 +145,7 @@ Love meets us exactly where we are. Not where we should be. Not where we pretend
 
 ## My Story of Burnout
 
-Want to know what it looked like for me?
-
-Everything looked right from the outside. Working harder. Mentoring people at work. Involvement in community. Being a good family man. People looked to us as examples of service and commitment.
+Everything looked right from the outside. Working harder. Mentoring people at work. Involvement in community. Being a good family man. People looked to me as an example of service and commitment.
 
 But underneath? Relationships fracturing in ways I couldn't control or understand.
 
@@ -218,17 +219,7 @@ This book follows three movements—three stages of the journey from performance
 
 This is where we're stuck. The quicksand of shame. The muck of failure. The waters of despair rising.
 
-Let me be specific about what a real swamp is like. I took photos at Sawgrass Lake Park in St. Petersburg, Florida—a place where I often went to reflect, to grieve, to be honest with myself.
-
-**Sight:** Dark water. Murky. Opaque. You can't see your feet. Can't see what's underneath. Can't see the way out. The light filtering through the cypress canopy? Weak. Greenish. Sickly.
-
-**Smell:** Rot. Stagnation. The smell of things dying slowly. Decomposition. The earth breaking down what was once alive.
-
-**Sound:** The buzz of insects. The occasional splash that makes you jump—alligator? snake? something worse? Mostly, though, silence. Heavy, oppressive silence.
-
-**Touch:** The muck. It clings to you. Pulls at you. Everything feels heavy—your clothes, your limbs, your thoughts. Each step? Exhausting.
-
-**Taste:** You can taste the swamp in the back of your throat. Bitter. Like drinking failure.
+Dark water you can't see through. The smell of rot. Heavy silence. Muck that clings and pulls. Everything exhausting.
 
 This isn't just depression (though it might include that). This isn't just spiritual dryness (though that's part of it).
 
@@ -236,7 +227,9 @@ This is the accumulated weight of years of performing instead of being. Conversa
 
 An ancient writer knew this place:
 
-> *"Save me, for the waters have come up to my neck. I sink in the miry depths, where there is no foothold. I have come into the deep waters; the floods engulf me. I am worn out calling for help; my throat is parched. My eyes fail, looking for hope."*
+> *"Save me, O God, for the floodwaters are up to my neck. Deeper and deeper I sink into the mire; I can't find a foothold. I am in deep water, and the floods overwhelm me. I am exhausted from crying for help; my throat is parched. My eyes are swollen with weeping, waiting for my God to help me."*
+>
+> — Psalm 69:1-3 (NLT)
 
 Worn out calling for help.
 
@@ -286,23 +279,21 @@ Not perfection, but participation. Not arrival, but walking.
 
 There's an ancient invitation that speaks to this:
 
-> *"Are you tired? Worn out? Burned out on religion? Come to me. Get away with me and you'll recover your life. I'll show you how to take a real rest. Walk with me and work with me—watch how I do it. Learn the unforced rhythms of grace."*
+> *"Come to me, all of you who are weary and carry heavy burdens, and I will give you rest. Take my yoke upon you. Let me teach you, because I am humble and gentle at heart, and you will find rest for your souls. For my yoke is easy to bear, and the burden I give you is light."*
 >
-> — From an ancient spiritual text (The Message translation)
+> — Matthew 11:28-30 (NLT)
 
 Unforced rhythms—that's what this final movement is about.
 
 Picture someone who's learned to swim—or better yet, learned to float. Still in the water, but no longer fighting it. No longer exhausting yourself trying to stay afloat through sheer effort. Learning to rest in the water that holds you.
 
-One spiritual teacher described it this way:
+One spiritual teacher captured the essence of what the world needs most:
 
-> "Grace is not opposed to effort; it is opposed to earning. Earning is an attitude. Effort is an action. You cannot earn transformation by trying harder. But you can position yourself where transformation happens—in the stream of grace."
+> "The greatest issue facing the world today, with all its heartbreaking needs, is whether those who, by profession or culture, are identified as 'people of Christ' will become disciples—students, apprentices, practitioners—of Jesus Christ, steadily learning from him how to live the life of the Kingdom of the Heavens into every corner of human existence."
 >
 > — Dallas Willard, *The Great Omission*
 
-The unforced rhythms don't mean passivity.
-
-They mean learning to cooperate with life rather than trying to manufacture it through performance.
+The unforced rhythms are about becoming apprentices—not of a religious system, but of a way of life. Learning to live sustainably, authentically, in the flow of grace rather than the grind of performance.
 
 ---
 
@@ -312,7 +303,7 @@ So what can you expect from this book?
 
 This isn't a how-to book. I don't have five steps to fix your life.
 
-What I have is a story—mine, and maybe yours too. What I have is fifteen songs that became fifteen chapters that became a map through the swamp.
+What I have is a story—mine, and maybe yours too. What I have is fourteen songs that became fourteen chapters that became a map through the swamp.
 
 What I have is the conviction that love is real, that it's for wayfarers like us, and that it meets us exactly where we are.
 
@@ -344,13 +335,51 @@ The ancient Psalms taught me this. They're not theological treatises set to musi
 
 David didn't write about crying out in the cave. He cried out, and that cry became a psalm.
 
-These fifteen songs are my psalms: imperfect, incomplete, but honest.
+These fourteen songs are my psalms: imperfect, incomplete, but honest.
 
 And honesty is where healing begins.
 
 ---
 
 ## Key Truth: Love in the Muck
+
+**A Word About "Scandal"**
+
+Throughout this book, I'm going to use the word "scandal" a lot. And I want you to understand why.
+
+A scandal breaks the rules. It violates expectations. It offends sensibilities. It makes people uncomfortable because it doesn't fit the system they've built.
+
+When I say love is "scandalous," I don't mean it's shocking in a tabloid sense. I mean it operates on principles that completely violate the economy we know—the economy of earning, deserving, performing, and paying back.
+
+**The scandal is this:** In every system humans create, love has conditions. Acceptance has requirements. Forgiveness has limits. Acceptance has to be earned.
+
+But love doesn't have to work that way.
+
+Love says:
+- "I love you when you're covered in swamp mud." (Scandalous—shouldn't I have to clean up first?)
+- "I forgive you before you've proven you've changed." (Scandalous—shouldn't I have to earn it?)
+- "I call you 'beloved' when you're still a mess." (Scandalous—shouldn't I have to deserve that title?)
+- "I meet you in the muck and call it holy ground." (Scandalous—how can failure be holy?)
+
+This is offensive to our sense of fairness. It violates our understanding of justice. It breaks every rule we have about how love should work.
+
+**That's the scandal.**
+
+Love isn't just nice. It's not just generous. It's revolutionary. Dangerous. World-upending.
+
+If you could earn it, it wouldn't be free—it would be payment.
+If you deserved it, it wouldn't be love—it would be obligation.
+If you had to clean up first, it wouldn't be scandalous—it would be sensible.
+
+But love doesn't do sensible. Love does scandalous.
+
+Throughout this book, when you see the word "scandal," remember: it's not a problem. It's the point.
+
+The scandal is what makes it love. The scandal is what makes it real. The scandal is what makes it for you.
+
+Because if love only came to the deserving, you and I would still be in the swamp.
+
+---
 
 Here's the scandalous truth that changes everything:
 
