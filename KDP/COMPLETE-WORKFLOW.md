@@ -5,7 +5,7 @@
 This document describes the ENTIRE workflow from individual markdown files all the way to the final PDF ready for Amazon KDP.
 
 **Created:** October 11, 2025 (18:40)
-**Last Updated:** October 11, 2025 (18:40)
+**Last Updated:** October 12, 2025 (04:06)
 
 ---
 
@@ -38,8 +38,6 @@ This document describes the ENTIRE workflow from individual markdown files all t
 │   ├── 17_chapter-14-living-moment-secular.md
 │   ├── 99_epilogue.md
 │   ├── 99_about-author.md
-│   ├── 99_acknowledgments.md
-│   ├── 99_how-to-access-songs.md
 │   ├── create_complete_manuscript.py      # STEP 1 SCRIPT
 │   └── create_pdf_with_headers.py         # STEP 2 SCRIPT
 │
@@ -103,11 +101,9 @@ python3 create_complete_manuscript.py
 6. Back matter:
    - `99_epilogue.md`
    - `99_about-author.md`
-   - `99_acknowledgments.md`
-   - `99_how-to-access-songs.md`
 
 **Output:**
-- File: `COMPLETE-MANUSCRIPT.md` (~500 KB)
+- File: `COMPLETE-MANUSCRIPT.md` (~314 KB)
 - Location: `/Users/paulmarshall/Documents/GitHub/skylerthomas2/KDP/COMPLETE-MANUSCRIPT.md`
 
 ---
@@ -147,7 +143,7 @@ python3 create_pdf_with_headers.py
 - ✅ Perfect 6" x 9" KDP format
 
 **Output:**
-- File: `OUT-OF-THE-SWAMP-COMPLETE.pdf` (~930 KB)
+- File: `OUT-OF-THE-SWAMP-COMPLETE.pdf` (~678 KB)
 - Location: `/Users/paulmarshall/Documents/GitHub/skylerthomas2/KDP/OUT-OF-THE-SWAMP-COMPLETE.pdf`
 
 ---
@@ -365,9 +361,7 @@ pip3 install reportlab
 ├── 00_introduction-secular.md
 ├── 01-17_*.md (chapters)
 ├── 99_epilogue.md
-├── 99_about-author.md
-├── 99_acknowledgments.md
-└── 99_how-to-access-songs.md
+└── 99_about-author.md
 ```
 
 ### Scripts:
@@ -429,6 +423,7 @@ Once the PDF is generated, you're ready to publish:
 ---
 
 **This workflow has been tested and verified on October 11, 2025.**
+**Last updated:** October 12, 2025 (04:06)
 
 **Created by:** Claude Code (AI Assistant)
 **For:** Skyler Thomas - "Out of the Swamp: How I Found Truth"

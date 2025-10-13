@@ -124,12 +124,12 @@ and our hearts are restless until they rest in you."*
 
 ---
 wp_post_id: 2144
-last_updated: 2025-10-11 21:56:11
+last_updated: 2025-10-13 14:23:57
 ---
 
 # Out of the Swamp: How I Found Truth (Introduction)
 
-*Last updated: 2025-10-11 21:56:11*
+*Last updated: 2025-10-13 14:23:57*
 
 ## The Wayfarer's Anthem
 
@@ -403,7 +403,7 @@ And honesty is where healing begins.
 
 **A Word About "Scandal"**
 
-When I say love is "scandalous," I mean it operates on principles that violate the economy we know—earning, deserving, performing, paying back.
+When I say love is "scandalous," I mean it operates on principles that violate the economy we know—earning, deserving, performing, paying back. I'm not talking about scandal in the tabloid sense.
 
 In every system humans create, love has conditions. But real love says: "I love you covered in swamp mud. I forgive you before you've proven you've changed. I call you 'beloved' when you're still a mess."
 
@@ -496,12 +496,12 @@ Let's walk together.
 
 ---
 wp_post_id: 2146
-last_updated: 2025-10-11 21:56:13
+last_updated: 2025-10-13 14:24:00
 ---
 
 # Out of the Swamp: How I Found Truth (Movement 1)
 
-*Last updated: 2025-10-11 21:56:13*
+*Last updated: 2025-10-13 14:24:00*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 
@@ -613,12 +613,12 @@ Before you begin, take a moment. **Where is your swamp?** The actual place where
 
 ---
 wp_post_id: 2148
-last_updated: 2025-10-11 21:56:15
+last_updated: 2025-10-13 14:24:02
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 1)
 
-*Last updated: 2025-10-11 21:56:15*
+*Last updated: 2025-10-13 14:24:02*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 1: My Swamp
@@ -651,7 +651,7 @@ And here's what makes the swamp so dangerous: you get functional in it. You lear
 
 This chapter is about the moment you stop defending and start seeing. When the explanations fall away and you're left with the raw truth: this place was never meant to sustain life. And you can't keep pretending it does.
 
-The writing that follows came from my moment of seeing. Not in a flash of revelation, but in a slow, painful recognition that I'd built a life in a place that was killing me. And the first step toward freedom wasn't a grand gesture—it was simply admitting the truth: This is my swamp. And I'm drowning in it.
+The song in this chapter came from my moment of seeing. Not in a flash of revelation, but in a slow, painful recognition that I'd built a life in a place that was killing me. And the first step toward freedom wasn't a grand gesture—it was simply admitting the truth: This is my swamp. And I'm drowning in it.
 
 ---
 ## Key Themes
@@ -770,11 +770,13 @@ This is authenticity stripped to bone: *I can't. Help.*
 
 Richard Rohr, in *Falling Upward*, talks about two kinds of suffering: necessary suffering and unnecessary suffering.
 
-Unnecessary suffering is when you fight reality, blame others, stay in victimhood, and refuse to let the pain teach you. It's suffering that embitters rather than transforms.
-
-Necessary suffering is when you enter the pain consciously, asking 'What is this teaching me? How is this changing me? Where is truth in this?'
-
-The same suffering can be either necessary or unnecessary. The difference isn't the suffering itself; it's how you engage it. Necessary suffering breaks you open. And that breaking is grace, because only the broken can be filled.
+> Unnecessary suffering is when you fight reality, blame others, stay in victimhood, and refuse to let the pain teach you. It's suffering that embitters rather than transforms.
+>
+> Necessary suffering is when you enter the pain consciously, asking 'What is this teaching me? How is this changing me? Where is truth in this?'
+>
+> The same suffering can be either necessary or unnecessary. The difference isn't the suffering itself; it's how you engage it. Necessary suffering breaks you open. And that breaking is grace, because only the broken can be filled.
+>
+> — Richard Rohr, *Falling Upward*
 
 The cry for help—*I can't do this anymore*—marks the shift from unnecessary to necessary suffering.
 
@@ -852,6 +854,11 @@ It's the doorway.
 
 ---
 
+<img src="https://www.skylerthomas.com/wp-content/uploads/2015/01/IMG_0589_tonemapped.jpg" alt="Alligator in Sawgrass Lake Park" />
+*Sawgrass Lake Park, St. Petersburg, FL*
+
+---
+
 ## Song Integration
 
 "I Will Rise" emerged from this chapter's core truth: the move from swamp to freedom is not self-rescue, but God-dependent hope. The song expresses the paradox at the center of spiritual transformation—we are utterly powerless to save ourselves, yet called to actively respond to grace.
@@ -860,12 +867,19 @@ The opening verse names the impostor self with unflinching honesty: *"I built th
 
 ---
 
-## Lyrics: I Will Rise
+## Song Lyrics: (I Will Rise)
+
 **[Verse 1]**
 I built these walls, I learned to fight,
 Kept my heart locked up so tight.
 Hid my fear behind a smile,
 But I've been sinking all the while.
+
+**[Pre-Chorus]**
+I hear You calling through the night,
+A voice so strong, yet full of light.
+You pull me close, You draw me higher,
+Out of the swamp, into the fire.
 
 **[Chorus]**
 I won't stay where shadows grow,
@@ -874,11 +888,45 @@ I'm stepping out, I'm choosing life,
 Leaving the swamp for the morning light.
 Oh, I will rise… I will rise.
 
-**[Outro]**
+**[Verse 2]**
+I made a home in sinking ground,
+Afraid to leave, afraid to drown.
+But chains aren't homes, and wounds don't heal
+When I resist the love you reveal
+The fear, the shame, the weight I've known,
+You call me out, You lead me home.
+
+**[Pre-Chorus]**
+I hear You calling through the night,
+A voice so strong, yet full of light.
+You pull me close, You draw me higher,
+Out of the swamp, into the fire.
+
+**[Chorus]**
+I won't stay where shadows grow,
+Where my heart turns cold, where the dark winds blow,
+I'm stepping out, I'm choosing life,
+Leaving the swamp for the morning light.
+Oh, I will rise… I will rise.
+
+**[Bridge]**
 I see the road, I see the dawn,
 And though I shake, I'll carry on.
 No more hiding, no more chains,
 Your grace is stronger than my pain!
+
+**[Final Chorus]**
+I won't stay where shadows grow,
+Where my heart turns cold, where the dark winds blow,
+I'm stepping out, I'm choosing life,
+Leaving the swamp for the morning light.
+Oh, I will rise… I will rise.
+
+**[Outro]**
+No turning back, I'm walking free,
+The past is gone, Your love in me.
+The past is gone, Your love in me.
+Oh, I will rise… I will rise.
 
 ---
 ## Key Takeaways
@@ -922,17 +970,18 @@ But something shifted.
 ---
 
 
+
 ---
 
 
 ---
 wp_post_id: 2150
-last_updated: 2025-10-11 21:56:16
+last_updated: 2025-10-13 14:24:02
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 2)
 
-*Last updated: 2025-10-11 21:56:16*
+*Last updated: 2025-10-13 14:24:02*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 2: But Then I Prayed
@@ -989,7 +1038,7 @@ This chapter is about that moment. When self-sufficiency collapses. When all our
 
 Because reaching out isn't the last resort when everything else fails. It's the first reality we keep trying to avoid: we need help more than we need solutions.
 
-The writing that follows came from a season when I learned to speak honestly instead of performing politely. When "But then I prayed" became the turning point in every valley I walked through.
+The song in this chapter came from a season when I learned to speak honestly instead of performing politely. When "But then I prayed" became the turning point in every valley I walked through.
 
 Prayer—conversation with the Divine, with your deepest self, with what's Real—in the swamp doesn't look like prayer on the mountaintop (or in a flashy church setting). Mountaintop prayer is full of gratitude and joy, hands raised, voice strong. Swamp prayer is different.
 
@@ -1074,6 +1123,18 @@ Richard Foster writes:
 > — Richard Foster, *Prayer: Finding the Heart's True Home*
 
 When we see prayer as a burden, a duty, something we have to grit our teeth to accomplish, we've missed the point entirely. Prayer is not about spiritual calisthenics or religious performance. It's about relationship. It's about learning to notice presence, to recognize truth, to trust process. The Three R's framework helps us shift from trying harder to loving deeper—from striving to abiding.
+
+**The Three R's of Prayer:**
+
+I've struggled for a long time with that "formula for prayer" in which God answers "Yes, No, or Maybe."  I never liked that because I think if we pray the right way, God will ALWAYS give us what we need.  So I like to think of prayer this way:
+
+**1. Reality** - Name what's true. Admit where you actually are. In the swamp. Broken. Desperate. Out of options. Stop pretending, stop performing, stop managing the narrative. Just tell the truth: "This is where I am."
+
+**2. Response** - Reach out. Cry out. This is the hinge moment—"but then I prayed." Not with perfect words or polished theology, but with honest desperation. The response isn't about what you say; it's about refusing to stay silent.
+
+**3. Results** - Something shifts. Not always circumstances—the swamp doesn't instantly drain. But you're no longer drowning alone. Presence arrives. The weight doesn't disappear, but you're no longer carrying it solo. The result isn't always what you expected, but it's what you needed: connection.
+
+These aren't steps to master but a framework to practice. Reality → Response → Results. Again and again. This is how prayer moves from religious performance to honest conversation, from isolation to presence.
 
 This kind of surrender—not manipulation but yielding—creates the turning point every swamp story needs. It's the moment everything changes.
 
@@ -1167,12 +1228,49 @@ The chapter teaches that honest prayer trumps perfect prayer, and this song embo
 
 ---
 
-## Lyrics: But Then I Prayed
+## Song Lyrics: (But Then I Prayed)
+
 **[Verse 1]**
 The night was long, the weight was strong,
 The shadows whispered, "You don't belong."
 I felt the fear, the dark surround,
 No light, no hope, no solid ground.
+
+**[Pre-Chorus]**
+And in my sorrow, in my despair,
+I found Your presence waiting there.
+
+**[Chorus]**
+But then I prayed, and You were near,
+Your voice of love cast out my fear.
+Your mercy came, Your grace remained,
+The chains were gone—You healed my pain.
+But then I prayed, but then I prayed.
+
+**[Verse 2]**
+The storms rolled in, the waves were high,
+The questions burned, "Lord, why, oh why?"
+My strength was gone, my faith ran dry,
+Yet still I lifted up my cry.
+
+**[Pre-Chorus]**
+And in the chaos, I heard You say,
+"My child, I'm here, don't turn away."
+
+**[Chorus]**
+But then I prayed, and You were near,
+Your voice of love cast out my fear.
+Your mercy came, Your grace remained,
+The chains were gone—You healed my pain.
+But then I prayed, but then I prayed.
+
+**[Bridge]**
+Mountains move, and waters part,
+Your power reaches every heart.
+When all seems lost, when hope is faint,
+Your name alone sustains the saints.
+I called to You, and You replied,
+Your love restored my life inside.
 
 **[Chorus]**
 But then I prayed, and You were near,
@@ -1182,12 +1280,8 @@ The chains were gone—You healed my pain.
 But then I prayed, but then I prayed.
 
 **[Outro]**
-Mountains move, and waters part,
-Your power reaches every heart.
-When all seems lost, when hope is faint,
-Your name alone sustains the saints.
-I called to You, and You replied,
-Your love restored my life inside.
+So I will pray through every fight,
+I'll lift my song in darkest night.
 
 ---
 ## Key Takeaways
@@ -1234,12 +1328,12 @@ It's not waiting for you to clean up before it comes close. It's close to the br
 
 ---
 wp_post_id: 2187
-last_updated: 2025-10-11 21:56:17
+last_updated: 2025-10-13 14:24:03
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 3)
 
-*Last updated: 2025-10-11 21:56:17*
+*Last updated: 2025-10-13 14:24:03*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 3: STOP!! And Make a Decision
@@ -1286,7 +1380,7 @@ Not tomorrow. Not when you feel ready. Not when you have all the answers figured
 
 Now.
 
-The writing that follows came from the moment my secrets were exposed and the people who loved me most said, "We're not going to watch you die. You have to choose... or we walk." It's about the crossroads we all reach eventually—the moment when staying put is no longer an option, and forward is the only way through.
+The song in this chapter came from the moment my secrets were exposed and the people who loved me most said, "We're not going to watch you die. You have to choose... or we walk." It's about the crossroads we all reach eventually—the moment when staying put is no longer an option, and forward is the only way through.
 
 You're at that crossroads now. And you have to choose.
 
@@ -1438,7 +1532,71 @@ The opening command—"STOP!!"—is fierce mercy, echoing the prophetic traditio
 
 ---
 
-## Lyrics: Stop/Decide (The Rap)
+## Song Lyrics: (Stop/Decide (The Rap))
+
+**(Intro)**
+Yo, I'm trapped in the noise, I'm lost in my mind,
+Skeletons creeping, they're crossing the line.
+Doubts keep spinning, I'm running in place,
+But I hear Your voice calling, cutting through the haze.
+
+**(Verse 1)**
+I can't fake it, no, I can't shake it,
+The pain in my chest, I just can't take it.
+Voices screaming, got me stuck in my head,
+Skeletons dancing where the angels once tread.
+
+What's sleek? What's weak? Who's real? Who's fake?
+I'm drowning in the questions I can't seem to shake.
+I'm shouting to the sky, "God, show me the way,
+I'm tired of the chaos; I'm begging You today."
+
+**(Hook)**
+STOP! Gotta make a decision,
+Your voice breaks through with a crystal vision.
+The fear fades out, now I see You're near,
+All I gotta do is turn and let You steer.
+
+**(Verse 2)**
+You said, "Lay it down, I'll carry the weight,
+Let Me take your struggle, it's never too late."
+Step by step, yeah, I'm walking the light,
+The chains fall off as I step in the fight.
+
+The lies I believed, now they crumble and fall,
+Your love lifts me higher, breaking through it all.
+I was lost in my shame, but You called my name,
+Now I'm running toward You, never the same.
+
+**(Hook)**
+STOP! Gotta make a decision,
+Your voice breaks through with a crystal vision.
+The fear fades out, now I see You're near,
+All I gotta do is turn and let You steer.
+
+**(Bridge)**
+Grace, grace, it's greater than sin,
+It pulls me from the darkness I was living within.
+Hell on Earth? That's the weight of my shame,
+But Heaven is Your love, now I'm praising Your name.
+
+You whispered to me, "Give me your pain,
+I'll take what's broken and make you whole again."
+Eternal peace, yeah, it's all that I need,
+So I follow Your voice, let it take the lead.
+
+**(Chorus)**
+Grace, grace, God's grace,
+Pulling me out of my darkest place.
+Grace, grace, it's a holy embrace,
+Now I'm running with Your love, set a brand-new pace.
+
+**(Outro)**
+So I STOP, and I make the decision,
+To follow Your path, walk the perfect vision.
+The shame is gone, my heart feels new,
+I'm stepping in faith, God, I'm trusting in You.
+
 ---
 ## Key Takeaways
 
@@ -1485,12 +1643,12 @@ And you stand at the crossroads.
 
 ---
 wp_post_id: 2190
-last_updated: 2025-10-11 21:56:18
+last_updated: 2025-10-13 14:24:04
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 4)
 
-*Last updated: 2025-10-11 21:56:18*
+*Last updated: 2025-10-13 14:24:04*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 4: Dying Changes Everything
@@ -1696,7 +1854,9 @@ But the wayfarer learns: Death is passage. The tomb isn't the end; it's the womb
 
 Richard Rohr describes this transformative death:
 
-I didn't want the old me to die. I liked him. He was successful. Respected. Put-together. Sure, he was exhausted and empty inside, but at least he looked good.
+> I didn't want the old me to die. I liked him. He was successful. Respected. Put-together. Sure, he was exhausted and empty inside, but at least he looked good.
+>
+> — Richard Rohr, *Falling Upward*
 
 ---
 
@@ -1708,7 +1868,7 @@ The chorus—*"Almost dying changes nothing, dying changes everything"*—crysta
 
 This song serves as Movement One's climax because it names the hardest truth: transformation requires death—actual death of who we thought we were, what we thought we needed, how we thought life worked. And on the other side of that death, in the tomb, in the Saturday waiting, resurrection begins. The song doesn't rush past the tomb but honors the complete submersion, the staying dead to what needs to stay dead. Yet it also refuses to leave us there. "Dying changes everything" because death is not the end—it's passage, transformation, the doorway to life we couldn't access any other way.
 
-### Song: "Dying Changes Everything"
+## Song Lyrics: (Dying Changes Everything)
 
 **Verse 1**
 I'm sinking deep, the waters rising
@@ -1843,12 +2003,12 @@ It doesn't feel like grace. It feels like loss. It feels like the end.
 
 ---
 wp_post_id: 2193
-last_updated: 2025-10-11 21:56:19
+last_updated: 2025-10-13 14:24:05
 ---
 
 # Out of the Swamp: How I Found Truth (Movement 2)
 
-*Last updated: 2025-10-11 21:56:19*
+*Last updated: 2025-10-13 14:24:05*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 
@@ -2068,12 +2228,12 @@ The water is here. The invitation is extended. Grace is waiting.
 
 ---
 wp_post_id: 2198
-last_updated: 2025-10-11 21:56:19
+last_updated: 2025-10-13 14:24:05
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 5)
 
-*Last updated: 2025-10-11 21:56:19*
+*Last updated: 2025-10-13 14:24:05*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 5: Living Waters Edge
@@ -2252,7 +2412,7 @@ But there's no pre-water ritual. No "get yourself ready first" station.
 
 Just the water. And you. And the invitation.
 
-The writing that follows came from my time at this threshold. When I'd made the decision to leave but couldn't yet see how transformation would happen. When I stood at the edge of grace, covered in swamp, and had to learn the hardest lesson:
+The song in this chapter came from my time at this threshold. When I'd made the decision to leave but couldn't yet see how transformation would happen. When I stood at the edge of grace, covered in swamp, and had to learn the hardest lesson:
 
 You don't clean up to receive grace. Grace is what cleans you up.
 
@@ -2541,29 +2701,40 @@ And feeling... nothing. Except the growing conviction that miracles were for oth
 
 But the hardness was a lie. Underneath it was crushing hope—hope that there could be a Savior who actually loved me, who would actually pay my debt. Hope that had been beaten down so many times it had learned to hide behind anger.
 
+The turning point came in April 2014. I flew to Oklahoma City to visit my best friend. Truthfully, I went to escape, to forget about my miserable lot in life, to flee from how I'd destroyed my family and marriage.
+
+But you know what they say: The only problem with running is that everywhere you go, you're there.
+
 The next morning I woke up, and I was still there. Still carrying the mess I'd created back home. I decided it was time to do some work on my life. Which meant—for me—going somewhere to think, to pray, to meditate.
+
+<img src="https://www.skylerthomas.com/wp-content/uploads/2015/05/HefnerBridge-v20140412d-Blue-Sky_tonemapped.jpg" alt="Lake Hefner boat ramp" />
+*Oklahoma City, Lake Hefner*
+
+I found myself at Lake Hefner in North Oklahoma City, sitting at the end of a boat ramp (during drought conditions). Figuratively, it looked like my life: the end of the road.
 
 What would I do?
 
+I walked to the end of the boat ramp. Sat down. Contemplated my situation. Still wearing my mask. Still pretending I had it together. Still performing rather than being real.
+
+How do you break free from yourself? From the bondage that keeps you enslaved to shame and performance and the need to look good?
+
 I put my headphones on and played a song—"Word of God Speak" by MercyMe—over and over and over. And I wept completely, from the deepest part of my inner being.
 
-What happened next? I guess I'll just say: I received my miracle.
+What happened next? I guess I'll just say: I received my miracle. I stepped off the end of the boat ramp and walked the path to the water.
 
 And I was comforted in knowing: it's going to be okay.
-
-That moment became my permission slip. Permission to admit I wanted a miracle. Permission to confess I felt unworthy. Permission to take off the mask and come to the water's edge as I actually was—broken, desperate, thirsty.
 
 ---
 
 ## Song Integration
 
-Standing at Lake Hefner's boat ramp that April morning, I was at the end of myself. The boat ramp descends into the lake, pavement giving way to water—a threshold between termination and transformation. The road I'd been traveling—self-sufficiency, performance, earning worthiness—had run out. The pavement simply stopped. And beyond it: water.
+Standing at Lake Hefner's boat ramp that April morning, I was at the end of myself. The boat ramp descended to the lake but stopped short of the water. The road I'd been traveling—self-sufficiency, performance, earning worthiness—had run out. The pavement simply stopped. And beyond it: water.
 
 "Living Water's Edge" emerges from the tension between two biblical realities: our profound unworthiness and God's scandalous willingness to make us whole anyway. This isn't a song about people who stumbled slightly. This is about people "burdened down by guilt and shame, no hope to be relieved"—the terminally stuck, the chronically unworthy, those who've given up hope that miracles are for them.
 
 ---
 
-## Lyrics: Living Water's Edge
+## Song Lyrics: (Living Water's Edge)
 
 **(Verse 1)**
 
@@ -2655,12 +2826,12 @@ You look down at your feet. You can see them through the water. Clear. The stone
 
 ---
 wp_post_id: 2279
-last_updated: 2025-10-11 21:56:20
+last_updated: 2025-10-13 14:24:06
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 6)
 
-*Last updated: 2025-10-11 21:56:20*
+*Last updated: 2025-10-13 14:24:06*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 6: In the Shadow of Your Grace
@@ -2745,7 +2916,7 @@ Grace doesn't always remove the hard season. It shelters you through it.
 
 This chapter is about dwelling in that shadow. About learning that presence in the midst of difficulty is grace enough. That you don't face the heat alone.
 
-The writing that follows came from my wilderness season. When I'd been washed but not yet arrived. When I had to learn that grace isn't always escape—sometimes it's shelter. And that shelter is enough.
+The song in this chapter came from my wilderness season. When I'd been washed but not yet arrived. When I had to learn that grace isn't always escape—sometimes it's shelter. And that shelter is enough.
 
 ---
 ## Key Themes
@@ -2788,7 +2959,7 @@ There are two kinds of hiding. Understanding the difference changes everything.
 
 **Hiding IN** is what ancient poets described in their prayers. Trust-driven. Safety-seeking. Running toward shelter for covering, not away in fear. This hiding heals, restores, connects us to our true identity.
 
-The original writing from the blog captures this journey:
+The song lyrics in this chapter capture this journey:
 
 *"What can wash away my shame, or will I live forever in its grip, squeezing the very life out of my soul, leaving me to rot on the heap of humanity? Have I walked too far beyond the boundary of grace, only to look back and see nothing but emptiness, leaving me to fend for myself in this world, sliding faster and faster to death and destruction?"*
 
@@ -2851,7 +3022,7 @@ At the water's edge, in the transition, we discover the shadow. We're not yet wa
 
 The shadow proves the light is real, present, strong enough to shelter us.
 
-The blog devotional speaks to this:
+The song speaks to this:
 
 *"How do I trust after all these years? My shame is great, my faith is weak, and I'm tired. I heard You say, 'Come to Me, and I will give you rest.'"*
 
@@ -2926,12 +3097,19 @@ Standing in full sunlight at the height of my spiritual crisis, I wasn't basking
 
 ---
 
-## Lyrics: In the Shadow of Your Grace
+## Song Lyrics: (In the Shadow of Your Grace)
+
 **[Verse 1]**
 I've been running, I've been hiding,
 Worn out from the fight.
 Tangled up in chains I fastened,
 Lost inside the night.
+
+**[Pre-Chorus]**
+But You call my name, You take the weight,
+You step right into my mistake.
+You tear the veil, You light the way,
+I won't go back, I won't be the same!
 
 **[Chorus]**
 Oh, in the shadow of Your grace,
@@ -2939,11 +3117,43 @@ Every fear begins to fade.
 Where mercy meets me face to face,
 I am free, I'm not the same!
 
-**[Outro]**
+**[Verse 2]**
+I've been restless, wide-eyed, sleepless,
+Haunted by my past.
+But Your blood is still my ransom,
+And Your love is built to last.
+
+**[Pre-Chorus]**
+You call my name, You take the weight,
+You step right into my mistake.
+You tear the veil, You light the way,
+I won't go back, I won't be the same!
+
+**[Chorus]**
+Oh, in the shadow of Your grace,
+Every fear begins to fade.
+Where mercy meets me face to face,
+I am free, I'm not the same!
+
+**[Bridge]**
 No more hiding, no more grave,
 Hell is shaking, heaven stays!
 Chains are falling, fear erased,
 I am free in Jesus' name!
+
+**[Tag]**
+I won't bow down, I won't break,
+Darkness runs when I say His name!
+I won't bow down, I won't break,
+I'm alive in Jesus' name!
+
+**[Final Chorus]**
+Oh, in the shadow of Your grace,
+Every fear begins to fade.
+Where mercy meets me face to face,
+I am free, I'm not the same!
+
+*Copyright © 2025 by SkylerThomas*
 
 ---
 ## Key Takeaways
@@ -2990,12 +3200,12 @@ The heat is still real. The sun still beats down. The journey is still hard.
 
 ---
 wp_post_id: 2281
-last_updated: 2025-10-11 21:56:21
+last_updated: 2025-10-13 14:24:07
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 7)
 
-*Last updated: 2025-10-11 21:56:21*
+*Last updated: 2025-10-13 14:24:07*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 7: Amazing Grace I Did Receive
@@ -3078,7 +3288,7 @@ This chapter is about receiving what you don't deserve. About standing at the ed
 
 The water is what cleans you up.
 
-The writing that follows came from my encounter with scandalous grace. When I'd trampled on every gift, ignored every warning, chosen my way instead of the right way—and discovered grace wasn't done with me.
+The song in this chapter came from my encounter with scandalous grace. When I'd trampled on every gift, ignored every warning, chosen my way instead of the right way—and discovered grace wasn't done with me.
 
 Grace, in fact, had just begun.
 
@@ -3135,7 +3345,7 @@ Grace is dangerous precisely because it refuses to play by our rules. It doesn't
 
 ### 2. Trading True Freedom for False Freedom
 
-The writing from the blog captures this perfectly:
+The song lyrics capture this perfectly:
 
 *"I traded it in for my version of freedom / Ruling others from my own throne / Instead of following the Master's plan / I wrote one of my own."*
 
@@ -3304,18 +3514,75 @@ Because grace isn't just a doctrine. It's an encounter.
 
 The wayfarer moment is when you stop understanding grace in the abstract and start experiencing it in the specific. When it's not just "God loves the world" but "God loves me." Not just "Jesus died for sinners" but "Jesus died for me."
 
-The wayfarer moment came when they stood at the dead end of their self-made path and heard the whisper: "Turn around. The water is here. Just trust Me."
+April 2014. Lake Hefner, Oklahoma City. I sat at the end of a boat ramp—literal pavement dead end with a path to the water. It looked like my life: the end of the road. I'd destroyed my marriage, fled to Oklahoma City trying to escape, and discovered you can't outrun yourself. The boat ramp descended to the lake, but because there was a drought it didn't reach the water...but it looked like my life.  aand I sat at that threshold—still wearing my mask, still performing, still enslaved to shame.
 
-Not theological theory. Personal history.
+How do you break free from yourself? From the bondage that keeps you captive to the need to look good?
+
+That's when grace stopped being doctrine and became decision. The dead-end road behind me. The water in front of me. And a whisper: "Walk off the dead end toward the water. The water is here. Just trust Me."
 
 ## Song Integration
 
-The first time I truly understood John Newton's "Amazing Grace," I was standing at a dead end of my own making, and the word "wretch" suddenly stopped being offensive and started being honest. This isn't a song about minor mistakes. This is about moral catastrophe, actively participating in your own destruction, deserving condemnation and receiving grace instead.
+"Amazing Grace" emerged from standing at that dead-end road, the place where my false freedom had led me into bondage. The chapter walks through the theological framework—grace for wretches, trading autonomy for surrender, the choice at the water's edge—and the song gives voice to what that moment feels like when grace stops being doctrine and becomes your story.
 
-To understand this hymn, you need to know who wrote it. John Newton was a slave trader. He commanded ships transporting kidnapped Africans across the Atlantic in horrific conditions. He profited from human suffering on an industrial scale. When a violent storm nearly sank his ship in 1748, Newton cried out to God. That moment began a long transformation—but even after his conversion, he continued in the slave trade for years. Only later, after entering ministry, did he become an active abolitionist, working with William Wilberforce to end the slave trade in Britain. When Newton called himself a wretch, he wasn't being dramatic. He was being factual.
+The opening verse captures the chapter's core truth: *"Your grace, how sweet the sound / It called me when I was bound."* This is the scandal of grace—it doesn't wait for you to clean up, get better, or deserve it. Grace calls you while you're still bound. The chapter teaches that we trade true freedom for false freedom, thinking autonomy will liberate us, only to discover we've enslaved ourselves. The song names this reality: "when I was bound." Not free. Bound. And grace is what calls into that bondage.
+
+The chorus—*"Your amazing grace has set me free / It took away the chains on me"*—is the testimony of someone who stepped off the dead-end road and ran to the water's edge. The chapter asks the question: will you flee from the water or embrace it? The song answers: I embraced it, and the chains came off. Not through my effort, but through His grace. "You called my name, I heard Your voice"—this is the personal encounter, the moment grace stops being abstract theology and becomes the voice that knows your name, calls you beloved, and sets you free.
+
+Verse 2 moves deeper into the substitutionary nature of grace: *"You bore my shame, You took my sin / And gave me life, a hope within."* The chapter discusses costly grace—grace that cost Christ His life. The song personalizes this: You bore MY shame. You took MY sin. This isn't generic grace; it's grace that reaches into the grave you've dug for yourself and lifts you out. The result? Not just forgiveness, but transformation: "Your love has claimed me as Your own / I stand redeemed before Your throne." This is the movement from wretch to beloved, from grave to grace, from slave to child.
+
+The bridge makes explicit what the chapter has been building toward: *"You called me child, You made me whole."* Grace doesn't just forgive—it adopts. It doesn't just pardon—it transforms. The chapter warns against cheap grace that leaves you unchanged. This song is about costly grace that remakes your identity. Not "you're forgiven, now try harder," but "you're My child, you're whole, you're Mine." And the only proper response? "Forever I'll sing, forever proclaim / Your grace, Your mercy, Your holy name."
+
+This song is the sound of someone who has been lifted out of the grave by God's hand. It's the testimony of costly grace received, the freedom pledge embraced, the water's edge crossed. Where the chapter teaches the theology, the song sings the testimony. And together they proclaim: Amazing grace, how sweet the sound—it saves wretches like us.
 
 ---
 
+## Song Lyrics: (Amazing Grace)
+
+**[Verse 1]**
+Oh, Your grace, how sweet the sound
+It called me when I was bound
+Your mercy reached into my night
+And led me home into Your light
+
+**[Chorus]**
+Your amazing grace has set me free
+It took away the chains on me
+You called my name, I heard Your voice
+Now I'm Yours, my heart rejoice
+
+**[Verse 2]**
+You bore my shame, You took my sin
+And gave me life, a hope within
+Your love has claimed me as Your own
+I stand redeemed before Your throne
+
+**[Chorus]**
+Your amazing grace has set me free
+It took away the chains on me
+You called my name, I heard Your voice
+Now I'm Yours, my heart rejoice
+
+**[Bridge]**
+You called me child, You made me whole
+Your love has healed and saved my soul
+Forever I'll sing, forever proclaim
+Your grace, Your mercy, Your holy name
+
+**[Outro]**
+Oh, Your grace, how sweet the sound
+Once lost, but now I have been found
+Forever I'll sing, forever proclaim
+Your grace, your mercy, your holy name
+
+**[Refrain]**
+Oh, Your grace, how sweet the sound
+Once lost, but now I have been found
+Forever I'll sing, forever proclaim
+Your grace, your mercy, your holy name
+
+---
+
+---
 ## Key Takeaways
 
 - **Grace is for wretches, not nice people.** If you deserved it, it wouldn't be grace—it would be payment. The scandal is that God loves you while you're still a mess, not after you clean up.
@@ -3356,19 +3623,18 @@ The mud from the swamp is starting to wash away. Not all at once, but gradually.
 
 ---
 wp_post_id: 2296
-last_updated: 2025-10-11 21:56:22
+last_updated: 2025-10-13 14:24:08
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 8)
 
-*Last updated: 2025-10-11 21:56:22*
+*Last updated: 2025-10-13 14:24:08*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 8: Dig a Little Deeper
 
-> "They will be like a tree planted by the water
-> that sends out its roots by the stream."
-> — Jeremiah 17:8
+> "You will seek me and find me when you seek me with all your heart."
+> — Jeremiah 29:13
 
 ---
 
@@ -3430,7 +3696,7 @@ To heal that wound, you have to open it again. You have to cut through the scar 
 
 You can't numb this. Real healing requires you to feel. To face. To dig.
 
-The writing that follows came from my season of excavation. When I discovered that time doesn't heal all wounds—it just buries them deeper. The only way to true healing was through the pain I'd been avoiding for years.
+The song in this chapter came from my season of excavation. When I discovered that time doesn't heal all wounds—it just buries them deeper. The only way to true healing was through the pain I'd been avoiding for years.
 
 Grace doesn't just wash the surface. Grace goes deep. All the way down to the bedrock truth of who you are beneath the wounds, beneath the scars, beneath the lies you've believed about yourself.
 
@@ -3485,7 +3751,7 @@ You're not building a new self from scratch. You're uncovering your true self—
 
 Dallas Willard writes in *Renovation of the Heart*:
 
-> "Actions are not impostions on who we are, but are expressions of who we are. They come out of our heart and the inner realities it supervises and interacts with."
+> "Actions are not impositions on who we are, but are expressions of who we are. They come out of our heart and the inner realities it supervises and interacts with."
 >
 > — Dallas Willard, *Renovation of the Heart*
 
@@ -3653,9 +3919,39 @@ God has the insight. He knows how to draw out what's buried. And when He does, t
 
 "Dig a Little Deeper" emerged from that season of excavation—when I learned you can't heal what you won't feel, and you can't feel what you keep buried.
 
+My counselor, Dr. Petit, explained it with devastating clarity: "It's been said time heals all wounds...yet for the untreated or poorly treated wound, time will infect then scar. For the unset or improperly set bone, time will knit then lame." This is medically accurate. A wound left untreated doesn't heal—it becomes infected and forms scar tissue over the infection. A broken bone left unset knits back together in the wrong position, leaving you permanently lame.
+
+The same is true spiritually and emotionally. Time doesn't heal soul wounds. Proper treatment does. And proper treatment requires digging—opening the wound, draining the infection, then giving time as the servant of healing rather than as the supposed healer itself.
+
 ---
 
-## Lyrics: Dig a Little Deeper
+## Song Lyrics: (Dig a Little Deeper)
+
+**Verse 1**
+They say that time can heal what's broke,
+But it just whispers empty hope.
+I've waited long, I've played the game,
+But every day still feels the same.
+
+The echoes say, "Just give it time,"
+But time's been cruel to heart and mind.
+If healing comes with every day,
+Why do I still feel this way?
+
+**Pre-Chorus**
+I tried to fake it 'til I made it,
+But I can't outrun what's breaking me.
+
+**Chorus**
+So I'm gonna dig a little deeper,
+Down where the hurting hides.
+Open the scar so grace can reach,
+The pain that's buried deep inside.
+It's gonna hurt, I know it will,
+And healing starts when I finally feel.
+I'm gonna dig, dig a little deeper,
+'Til I find my soul.
+
 ---
 ## Key Takeaways
 
@@ -3697,12 +3993,12 @@ You dig through performance—the mask you've worn for so long it feels like you
 
 ---
 wp_post_id: 2300
-last_updated: 2025-10-11 21:56:22
+last_updated: 2025-10-13 14:24:08
 ---
 
 # Out of the Swamp: How I Found Truth (Movement 3)
 
-*Last updated: 2025-10-11 21:56:22*
+*Last updated: 2025-10-13 14:24:08*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 
@@ -3884,20 +4180,20 @@ If you're not sure yet, that's okay too. These chapters will teach you. Step by 
 
 ---
 wp_post_id: 2302
-last_updated: 2025-10-11 21:56:23
+last_updated: 2025-10-13 14:24:09
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 9)
 
-*Last updated: 2025-10-11 21:56:23*
+*Last updated: 2025-10-13 14:24:09*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 9: Unforced Rhythms of Grace
 
-> "Come to me, all you who are weary and burdened,
-> and I will give you rest... Learn from me...
-> and you will find rest for your souls."
-> — Matthew 11:28-29
+> "Come to me, all you who are weary and burdened, and I will give you rest.
+> Take my yoke upon you and learn from me, for I am gentle and lowly in heart,
+> and you will find rest for your souls. For my yoke is easy and my burden is light."
+> — Matthew 11:28-30
 
 ---
 
@@ -4191,7 +4487,8 @@ In that crashed season, my counselor asked me a question I couldn't answer: "Whe
 
 ---
 
-## Lyrics: Mindful Bliss of Grace
+## Song Lyrics: (Mindful Bliss of Grace)
+
 **[Verse 1]**
 Ebb and flow, the waves embrace my feet,
 Your whispers call where sea and skylines meet.
@@ -4204,11 +4501,47 @@ Mercies each morning are always brand new.
 Through every season, Your love still persists,
 You lead me, Lord, into mindful bliss.
 
-**[Outro]**
+**[Verse 2]**
+Morning dew reflects Your tender grace,
+The sunlight streaks reveal Your holy face.
+Each step I take along the sandy trail,
+Your voice reminds me, love will never fail.
+
+**[Chorus]**
+Great is Your faithfulness, steady and true,
+Mercies each morning are always brand new.
+Through every season, Your love still persists,
+You lead me, Lord, into mindful bliss.
+
+**[Verse 3]**
+Starry skies proclaim Your mighty name,
+The moon's soft glow reveals Your love remains.
+I lift my heart and cast my cares above,
+Your Spirit wraps me in eternal love.
+
+**[Chorus]**
+Great is Your faithfulness, steady and true,
+Mercies each morning are always brand new.
+Through every season, Your love still persists,
+You lead me, Lord, into mindful bliss.
+
+**[Bridge]**
 Through trials and storms, through winds that roar,
 Your steadfast grace remains forevermore.
 Each tear I cry, each prayer I raise,
 Lifts me higher to endless praise.
+
+**[Verse 4]**
+This is my story, this is my song,
+Praising my Savior all the day long.
+Mercies descending from heaven above,
+Filling my heart with Your endless love.
+
+**[Outro]**
+Into mindful bliss, I rest in Your grace,
+Each moment I live, I behold Your face.
+Your mercies endure, Your promises stay,
+Forever I'll walk in Your holy way.
 
 ---
 ## Key Takeaways
@@ -4271,12 +4604,12 @@ This is what the unforced rhythms feel like. You're not striving anymore. Not fo
 
 ---
 wp_post_id: 2317
-last_updated: 2025-10-11 21:56:24
+last_updated: 2025-10-13 14:24:10
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 10)
 
-*Last updated: 2025-10-11 21:56:24*
+*Last updated: 2025-10-13 14:24:10*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 10: Deep Roots, Strong Growth
@@ -4424,7 +4757,7 @@ And for most of that time, you can't see the growth. Above ground, the tree migh
 
 This is the hidden work of transformation. The work that happens when no one's watching. The work that doesn't make for dramatic testimonies because it's slow, steady, mostly invisible.
 
-I'm fifteen years into this journey. And I'm still discovering shallow roots. Still finding places where I react instead of respond. Still uncovering bitterness I thought I'd released. Still learning to stay connected when I want to withdraw.
+I'm decades into this journey. And I'm still discovering shallow roots. Still finding places where I react instead of respond. Still uncovering bitterness I thought I'd released. Still learning to stay connected when I want to withdraw.
 
 But I'm also seeing growth I couldn't see five years ago. Situations that would have wrecked me ten years ago now just... don't. Not because I'm stronger. Because the roots have gone deeper. I'm accessing streams I couldn't reach before.
 
@@ -4520,18 +4853,23 @@ The counselor looked at me and said, "You're doing all the right things, but you
 
 I didn't want to hear that. I'd been practicing the rhythms for months. Showing up to prayer even when I didn't feel like it. Reading Scripture even when it felt dry. Staying connected to community even when I wanted to withdraw.
 
-But she was right. I was doing the practices without allowing them to transform me deeply. I was maintaining spiritual disciplines as performance rather than letting them sink roots that could weather the storms. The rhythms were external, not yet internal. The transformation was happening at the surface level, but the deep roots—the kind that anchor you when everything else shakes—those take time, consistency, and patient trust in the hidden work of God.
+But he was right. I was doing the practices without allowing them to transform me deeply. I was maintaining spiritual disciplines as performance rather than letting them sink roots that could weather the storms. The rhythms were external, not yet internal. The transformation was happening at the surface level, but the deep roots—the kind that anchor you when everything else shakes—those take time, consistency, and patient trust in the hidden work of God.
 
 "I Will Trust You Lord" emerged from that season of learning to trust the invisible growth happening beneath the surface. The song captures the tension between what we can see (leaves that stay green, fruit that appears) and what we can't see (roots going deeper, drawing from living water). Like Jeremiah 17:8, this is about trusting the process when you can't see the progress—believing that God is doing deep work even when all you see is the daily showing up, the ordinary faithfulness, the unglamorous consistency that builds resilience over time.
 
 ---
 
-## Lyrics: I Will Trust You Lord
+## Song Lyrics: (I Will Trust You Lord)
+
 **[Verse 1]**
 I will trust You, Lord, my shelter, my song
 Planted by Your stream, where my roots grow strong
 When the heat is near, still my leaves stay bright
 In the darkest storm, You will be my light
+
+**[Pre-Chorus]**
+Oh, my heart is grounded deep in Your grace
+Anchored in Your presence, I will stand in faith
 
 **[Chorus]**
 Like a tree beside the river, I will stand so tall
@@ -4541,11 +4879,43 @@ Your love sustains me all life long
 I will bear Your fruit, Lord, make me new
 I am deeply rooted in You
 
-**[Outro]**
+**[Verse 2]**
+I will drink Your Word, let it fill my soul
+Day and night I'll seek You, Lord, You make me whole
+When the winds arise, I will not be swayed
+For my roots run deep, I will not be afraid
+
+**[Pre-Chorus]**
+Oh, my heart is grounded deep in Your grace
+Anchored in Your presence, I will stand in faith
+
+**[Chorus]**
+Like a tree beside the river, I will stand so tall
+Through the fire, through the season, You're my all in all
+My leaves stay green, my soul stays strong
+Your love sustains me all life long
+I will bear Your fruit, Lord, make me new
+I am deeply rooted in You
+
+**[Bridge]**
 No fear in the drought (No fear, no fear!)
 No doubt in the storm (No doubt, no doubt!)
 Your love is my anchor (My heart is Yours!)
 I'll trust You, Lord (Forevermore!)
+
+**[Final Chorus]**
+Like a tree beside the river, I will stand so tall
+Through the fire, through the season, You're my all in all
+My leaves stay green, my soul stays strong
+Your love sustains me all life long
+I will bear Your fruit, Lord, make me new
+I am deeply rooted in You
+
+**[Outro]**
+Deeply rooted, never shaken
+By Your love, I stand so strong
+Deeply rooted, always faithful
+In Your hands, I belong
 
 ---
 ## Key Takeaways
@@ -4598,19 +4968,19 @@ You walk closer and place your hand on the trunk. Solid. Rough. Weathered by cou
 
 ---
 wp_post_id: 2318
-last_updated: 2025-10-11 21:56:25
+last_updated: 2025-10-13 14:24:11
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 11)
 
-*Last updated: 2025-10-11 21:56:25*
+*Last updated: 2025-10-13 14:24:11*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 11: Redemption's Story
 
-> "You intended to harm me, but God intended it for good
-> to accomplish what is now being done."
-> — Genesis 50:20
+> "Therefore, if anyone is in Christ, the new creation has come:
+> The old has gone, the new is here!"
+> — 2 Corinthians 5:17
 
 ---
 
@@ -4823,7 +5193,14 @@ Then I encountered Romans 8:28-30 with fresh eyes: "In all things God works for 
 
 ---
 
-## Lyrics: Redemption Story
+## Song Lyrics: (Redemption Story)
+
+**[Chorus]**
+From the beginning, His love was displayed,
+Through every fall, His promise stayed.
+A Savior's grace, a story divine,
+Redemption secured for hearts like mine.
+
 **[Verse 1]**
 Before the stars adorned the night,
 Before the sun gave earth its light,
@@ -4840,7 +5217,39 @@ Through every fall, His promise stayed.
 A Savior's grace, a story divine,
 Redemption secured for hearts like mine.
 
-**[Outro]**
+**[Verse 2]**
+In Eden's garden, peace was found,
+Until the serpent's lie unbound.
+The fruit was taken, the fall began,
+Sin entered the hearts of every man.
+Yet even then, God's love remained,
+A Savior promised to break the chain.
+From Adam's sin to grace restored,
+A plan of redemption from the Lord.
+
+**[Chorus]**
+From the beginning, His love was displayed,
+Through every fall, His promise stayed.
+A Savior's grace, a story divine,
+Redemption secured for hearts like mine.
+
+**[Verse 3]**
+Through kings and prophets, His voice was heard,
+Declaring His truth, His holy word.
+David, the shepherd, a king would rise,
+Through his line, the Savior arrive.
+Isaiah spoke of a suffering King,
+Who'd bear our sins and salvation bring.
+Elijah's fire, Daniel's stand,
+God's faithfulness across the land.
+
+**[Chorus]**
+From the beginning, His love was displayed,
+Through every fall, His promise stayed.
+A Savior's grace, a story divine,
+Redemption secured for hearts like mine.
+
+**[Bridge]**
 Oh, the cross, where mercy flows,
 The empty grave, the story shows.
 Sin defeated, love prevailed,
@@ -4849,6 +5258,48 @@ Oh, the cross, where hope is found,
 His grace abounds, His love profound.
 He bore the weight, the debt was paid,
 In Him, the victory's displayed.
+
+**[Verse 4]**
+Mary, chosen, her heart so pure,
+Through her, God's love would long endure.
+She held the Savior, her baby boy,
+The King of kings, her heart's great joy.
+Did she know the cross He'd face,
+The pain, the nails, the world's disgrace?
+Through grief, she trusted, through loss, she prayed,
+Believing in the plan God made.
+
+**[Verse 5]**
+The leaders schemed, their hearts grew cold,
+Blinded by power, they sought control.
+They called Him a blasphemer, sentenced His death,
+Yet love endured with His final breath.
+Betrayed by a kiss for silver's gleam,
+Denied by a friend in a broken dream.
+Yet grace would triumph, death undone,
+Victory through God's risen Son.
+
+**[Verse 6]**
+To die with Christ, to rise anew,
+To walk His path, His love pursue.
+The cross became the bridge to grace,
+A gift of life in His embrace.
+Through history's thread, His story flows,
+A love eternal, a truth that grows.
+My story now entwined with His,
+A song of hope, a life that lives.
+
+**[Final Chorus]**
+From the beginning, His love was displayed,
+Through every fall, His promise stayed.
+A Savior's grace, a story divine,
+Redemption secured for hearts like mine.
+
+**[Outro]**
+His story echoes through all of time,
+A Savior's love, so pure, so kind.
+One day we'll stand before His throne,
+Forever redeemed, forever His own.
 
 ---
 ## Key Takeaways
@@ -4899,12 +5350,12 @@ From up close, it looks messy. Dark threads mixed with light. Broken places wher
 
 ---
 wp_post_id: 2319
-last_updated: 2025-10-11 21:56:25
+last_updated: 2025-10-13 14:24:11
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 12)
 
-*Last updated: 2025-10-11 21:56:25*
+*Last updated: 2025-10-13 14:24:11*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 12: Nothing is Wasted
@@ -5160,7 +5611,8 @@ But she kept pointing: "Look at this season. What did you learn here? And here�
 
 ---
 
-## Lyrics: Nothing is Wasted
+## Song Lyrics: (Nothing is Wasted)
+
 **[Verse 1]**
 You asked me to let go of what I held too tight
 The plans I made, the dreams I shaped, the pieces of my life
@@ -5176,11 +5628,65 @@ You hold my sorrow, You know my name
 In the valley, in the waiting, I have tasted
 In the economy of Your love, nothing is wasted
 
-**[Outro]**
+**[Verse 2]**
+I've walked through days that felt like silence
+And nights I couldn't catch my breath
+I said I'd follow where You led me
+But I was scared of what came next
+I couldn't see beyond the moment
+Still You whispered, "I am near"
+You never promised all the answers
+You only asked me not to fear
+
+**[Chorus]**
+You will provide, You always do
+Even when I don't know what You're leading me through
+Even when I walk through fire, You stay in the flame
+You hold my sorrow, You know my name
+In the valley, in the waiting, I have tasted
+In the economy of Your love, nothing is wasted
+
+**[Verse 3]**
+So here I am with hands wide open
+Letting go of what I thought was mine
+You never asked me for perfection
+Just a heart that says, "I'll try"
+And in the breaking, I found healing
+In the loss, I found Your grace
+You're the God who turns my ashes
+Into beauty I can't replace
+
+**[Bridge]**
 You don't waste the waiting, You don't waste the pain
 Even when I'm walking through fire or rain
 Every breath I breathe, every pain I've tasted
 In the economy of Your love, nothing is wasted
+
+**[Final Chorus]**
+You will provide, You always do
+Even when I'm breaking in two
+Even when I walk through fire, You stay in the flame
+You never leave me alone in the pain
+In the valley, in the waiting, I have tasted
+In the economy of Your love, nothing is wasted
+
+**[Outro]**
+So I lay it down again
+Even when I don't understand
+You are good... and nothing is wasted
+You are near when I let go
+You are strong when I feel low
+You are kind... and nothing is wasted
+You've seen every tear I've cried
+Held my heart when hope had died
+You stayed... and nothing is wasted
+So I'll trust You in the silence
+I'll believe You through the dark
+You are faithful in the waiting
+You are healing every part
+I won't fear what comes tomorrow
+I won't chase what's not mine to hold
+You are God... and nothing is wasted
 
 ---
 ## Key Takeaways
@@ -5233,12 +5739,12 @@ Every step—even the ones that felt like backsliding. Every turn—even the wro
 
 ---
 wp_post_id: 2320
-last_updated: 2025-10-11 21:56:26
+last_updated: 2025-10-13 14:24:12
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 13)
 
-*Last updated: 2025-10-11 21:56:26*
+*Last updated: 2025-10-13 14:24:12*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 13: Devil's On The Run
@@ -5508,7 +6014,8 @@ Then something happened. I was reading Colossians 2, barely able to focus, when 
 
 ---
 
-## Lyrics: Devil's On The Run
+## Song Lyrics: (Devil's On The Run)
+
 **[Verse 1]**
 Devil on the run
 He's a wicked beast
@@ -5518,6 +6025,26 @@ He kicked me hard
 Left me buried deep
 But I rose in grace
 While he lost his keep
+
+**[Verse 2]**
+In my darkest night
+I forgot the gift I had
+He pulled me low
+Told me lies and made me mad
+But even in the pit
+Jesus called my name
+Now I walk in light
+I'm not the same
+
+**[Pre-Chorus]**
+Don't be fooled
+By the snake in the weeds
+He don't care
+'Bout your hope or your needs
+He can't give life
+Only takes what you earn
+He'll torch it all
+Just to watch it burn
 
 **[Chorus]**
 Now I rise, now I run
@@ -5529,6 +6056,55 @@ Tried to steal, tried to kill
 But my soul he couldn't take
 Devil's on the run
 'Cause I'm saved by grace
+
+**[Verse 3]**
+Chains are gone
+Yeah, the stone rolled back
+He lost the war
+On a bloodstained track
+Truth is fire
+And the lie won't stand
+I'm a child of God
+With a sword in my hand
+
+**[Chorus – repeat]**
+Now I rise, now I run
+By the power of the Son
+But the Devil is a liar
+He's Done!!
+Ain't no grace where he's from
+Tried to steal, tried to kill
+But my soul he couldn't take
+Devil's on the run
+'Cause I'm saved by grace
+
+**[Bridge – Breakdown / Call & Response]**
+Oh the blood!
+Oh the Lamb!
+Crushed the devil
+With a mighty hand
+Ain't no grave!
+Gonna hold me down!
+I've been bought
+And I wear the crown
+You can growl
+You can scream
+But you can't run
+From the King
+Devil's on the run—
+He lost everything
+
+**[Final Chorus – Tag out strong]**
+Now I rise, now I run
+By the power of the Son
+But the Devil is a liar
+He's Done!!
+Ain't no grace where he's from
+Tried to steal, tried to kill
+But my soul he couldn't take
+Devil's on the run
+Yeah, the devil's on the run
+Jesus won — and I'm saved by grace
 
 ---
 ## Key Takeaways
@@ -5584,12 +6160,12 @@ Your role wasn't to win. It was to stand. To hold the ground that Christ won. To
 
 ---
 wp_post_id: 2321
-last_updated: 2025-10-11 21:56:27
+last_updated: 2025-10-13 14:24:13
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 14)
 
-*Last updated: 2025-10-11 21:56:27*
+*Last updated: 2025-10-13 14:24:13*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 14: Living in the Moment
@@ -5803,7 +6379,8 @@ Anxiety was my constant companion. The low-grade, ever-present anxiety of someon
 
 ---
 
-## Lyrics: This Moment is Enough
+## Song Lyrics: (This Moment is Enough)
+
 **[Verse 1]**
 In the garden mercy covered the fall,
 Two hearts broken, yet God heard the call.
@@ -5818,11 +6395,47 @@ From Genesis to Jesus, the story carries us—
 This moment is the promise,
 This moment is enough.
 
-**[Outro]**
+**[Verse 2]**
+Abraham walked with nothing in hand,
+Trusting the covenant, trusting God's plan.
+Years went by, but His word held fast,
+A future was born from a simple "yes."
+Faith is alive in the moment we live.
+
+**[Chorus]**
+We're not promised tomorrow, only the breath we breathe.
+Here in this moment, God's mercy never leaves.
+From Genesis to Jesus, the story carries us—
+This moment is the promise,
+This moment is enough.
+
+**[Bridge]**
 These ancient stories are the ground beneath our feet,
 The God of creation still makes our lives complete.
 From the garden to the cross, from the grave to today,
 The God who redeemed them is redeeming us the same.
+
+**[Verse 3 – Final Verse]**
+The prophets proclaimed what the Father would do,
+Messiah would come, make all things new.
+From Isaiah's promise to shepherds' surprise,
+The Word became flesh before human eyes.
+Love took on skin in the moment Divine.
+
+**[Chorus – Final]**
+We're not promised tomorrow, but love is here today.
+The God of all beginnings is guiding every step we take.
+From Genesis to Jesus, His story carries on—
+This moment is the promise,
+This moment leads us home.
+
+**[Outro]**
+The story isn't over, the story lives in us.
+This moment is a gift of grace—
+This moment is enough.
+
+This moment is a gift of grace—
+This moment is enough.
 
 ---
 ## Key Takeaways
@@ -5924,8 +6537,6 @@ If you're wondering what to do next, here are a few suggestions:
 
 ---
 
-\newpage
-
 ## A Final Word
 
 I don't know where you are right now. Maybe you're in the deepest part of the swamp, and this book felt like a lifeline. Maybe you're at the water's edge, tentatively stepping into grace. Maybe you're learning the rhythms and discovering that life with Jesus is better than you imagined.
@@ -5945,6 +6556,34 @@ The journey is just beginning.
 
 *"Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus."*
 — Philippians 1:6
+
+
+
+---
+
+
+# About the Author
+
+**Skyler Thomas** is a songwriter, writer, and wayfarer who believes that honest stories and grace-filled truth have the power to change lives.
+
+Born and raised in across many states of the U.S. of A., Skyler has spent a lifetime exploring the intersection of faith, music, and spiritual formation. Through personal struggles and profound encounters with God's grace, Skyler discovered that transformation doesn't happen through striving, but through surrender to the unforced rhythms of grace.
+
+This book represents over a dozen years of journaling, songwriting, and wrestling with what it means to follow Jesus in the midst of real life—messy, broken, beautiful, and redeemed.
+
+Skyler's music and writing can be found at **skylerthomas.com**, where you can access all the songs featured in this book, read additional blog posts, and connect with a growing community of wayfarers learning to walk in grace.
+
+When not writing or making music, Skyler enjoys family and friends building memories.
+
+---
+
+**Connect with Skyler:**
+
+Website: skylerthomas.com
+Email: skyler@skylerthomas.com
+
+---
+
+*"These songs and stories aren't just mine—they're ours. I'm simply putting words to what so many of us have experienced but struggle to name. My prayer is that somewhere in these pages, you find your own story reflected back to you, and you hear God whisper: 'I see you. I know you. And I'm not done with you yet.'"*
 
 
 
