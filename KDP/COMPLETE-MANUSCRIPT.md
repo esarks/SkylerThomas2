@@ -40,7 +40,7 @@ skyler@skylerthomas.com
 
 ---
 
-*First Edition: 2025*
+*First Edition: 20251014a*
 
 
 
@@ -124,12 +124,12 @@ and our hearts are restless until they rest in you."*
 
 ---
 wp_post_id: 2144
-last_updated: 2025-10-13 14:23:57
+last_updated: 2025-10-13 17:06:22
 ---
 
 # Out of the Swamp: How I Found Truth (Introduction)
 
-*Last updated: 2025-10-13 14:23:57*
+*Last updated: 2025-10-13 17:06:22*
 
 ## The Wayfarer's Anthem
 
@@ -496,12 +496,12 @@ Let's walk together.
 
 ---
 wp_post_id: 2146
-last_updated: 2025-10-13 14:24:00
+last_updated: 2025-10-13 17:06:24
 ---
 
 # Out of the Swamp: How I Found Truth (Movement 1)
 
-*Last updated: 2025-10-13 14:24:00*
+*Last updated: 2025-10-13 17:06:24*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 
@@ -613,12 +613,12 @@ Before you begin, take a moment. **Where is your swamp?** The actual place where
 
 ---
 wp_post_id: 2148
-last_updated: 2025-10-13 14:24:02
+last_updated: 2025-10-13 17:06:24
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 1)
 
-*Last updated: 2025-10-13 14:24:02*
+*Last updated: 2025-10-13 17:06:24*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 1: My Swamp
@@ -970,18 +970,17 @@ But something shifted.
 ---
 
 
-
 ---
 
 
 ---
 wp_post_id: 2150
-last_updated: 2025-10-13 14:24:02
+last_updated: 2025-10-13 17:06:25
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 2)
 
-*Last updated: 2025-10-13 14:24:02*
+*Last updated: 2025-10-13 17:06:25*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 2: But Then I Prayed
@@ -1328,12 +1327,12 @@ It's not waiting for you to clean up before it comes close. It's close to the br
 
 ---
 wp_post_id: 2187
-last_updated: 2025-10-13 14:24:03
+last_updated: 2025-10-13 17:06:26
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 3)
 
-*Last updated: 2025-10-13 14:24:03*
+*Last updated: 2025-10-13 17:06:26*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 3: STOP!! And Make a Decision
@@ -1643,12 +1642,12 @@ And you stand at the crossroads.
 
 ---
 wp_post_id: 2190
-last_updated: 2025-10-13 14:24:04
+last_updated: 2025-10-13 17:06:27
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 4)
 
-*Last updated: 2025-10-13 14:24:04*
+*Last updated: 2025-10-13 17:06:27*
 
 ### MOVEMENT 1: IN THE SWAMP (The Struggle)
 ### Chapter 4: Dying Changes Everything
@@ -2003,12 +2002,12 @@ It doesn't feel like grace. It feels like loss. It feels like the end.
 
 ---
 wp_post_id: 2193
-last_updated: 2025-10-13 14:24:05
+last_updated: 2025-10-13 17:06:27
 ---
 
 # Out of the Swamp: How I Found Truth (Movement 2)
 
-*Last updated: 2025-10-13 14:24:05*
+*Last updated: 2025-10-13 17:06:27*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 
@@ -2228,12 +2227,12 @@ The water is here. The invitation is extended. Grace is waiting.
 
 ---
 wp_post_id: 2198
-last_updated: 2025-10-13 14:24:05
+last_updated: 2025-10-13 17:06:28
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 5)
 
-*Last updated: 2025-10-13 14:24:05*
+*Last updated: 2025-10-13 17:06:28*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 5: Living Waters Edge
@@ -2826,12 +2825,12 @@ You look down at your feet. You can see them through the water. Clear. The stone
 
 ---
 wp_post_id: 2279
-last_updated: 2025-10-13 14:24:06
+last_updated: 2025-10-13 17:06:29
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 6)
 
-*Last updated: 2025-10-13 14:24:06*
+*Last updated: 2025-10-13 17:06:29*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 6: In the Shadow of Your Grace
@@ -3058,7 +3057,7 @@ This is soul-rest. The kind of rest that comes not from the absence of struggle 
 
 ### 6. Resting in the Mystery
 
-The chapter outline notes: *"Someone asked me once: 'The mystery—is it ours to figure out, or to revere?' In the shadow of grace, we learn it's the latter."*
+*"Someone asked me once: 'The mystery—is it ours to figure out, or to revere?' In the shadow of grace, we learn it's the latter."*
 
 We don't have to understand everything. We don't have to have it all figured out. We don't have to explain how grace works or why God chooses to shelter us rather than remove the trial.
 
@@ -3195,17 +3194,18 @@ The heat is still real. The sun still beats down. The journey is still hard.
 ---
 
 
+
 ---
 
 
 ---
 wp_post_id: 2281
-last_updated: 2025-10-13 14:24:07
+last_updated: 2025-10-13 17:06:30
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 7)
 
-*Last updated: 2025-10-13 14:24:07*
+*Last updated: 2025-10-13 17:06:30*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 7: Amazing Grace I Did Receive
@@ -3514,8 +3514,6 @@ Because grace isn't just a doctrine. It's an encounter.
 
 The wayfarer moment is when you stop understanding grace in the abstract and start experiencing it in the specific. When it's not just "God loves the world" but "God loves me." Not just "Jesus died for sinners" but "Jesus died for me."
 
-April 2014. Lake Hefner, Oklahoma City. I sat at the end of a boat ramp—literal pavement dead end with a path to the water. It looked like my life: the end of the road. I'd destroyed my marriage, fled to Oklahoma City trying to escape, and discovered you can't outrun yourself. The boat ramp descended to the lake, but because there was a drought it didn't reach the water...but it looked like my life.  aand I sat at that threshold—still wearing my mask, still performing, still enslaved to shame.
-
 How do you break free from yourself? From the bondage that keeps you captive to the need to look good?
 
 That's when grace stopped being doctrine and became decision. The dead-end road behind me. The water in front of me. And a whisper: "Walk off the dead end toward the water. The water is here. Just trust Me."
@@ -3618,17 +3616,18 @@ The mud from the swamp is starting to wash away. Not all at once, but gradually.
 ---
 
 
+
 ---
 
 
 ---
 wp_post_id: 2296
-last_updated: 2025-10-13 14:24:08
+last_updated: 2025-10-13 17:06:30
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 8)
 
-*Last updated: 2025-10-13 14:24:08*
+*Last updated: 2025-10-13 17:06:30*
 
 ### MOVEMENT 2: AT THE WATER'S EDGE (The Turning)
 ### Chapter 8: Dig a Little Deeper
@@ -3919,7 +3918,13 @@ God has the insight. He knows how to draw out what's buried. And when He does, t
 
 "Dig a Little Deeper" emerged from that season of excavation—when I learned you can't heal what you won't feel, and you can't feel what you keep buried.
 
-My counselor, Dr. Petit, explained it with devastating clarity: "It's been said time heals all wounds...yet for the untreated or poorly treated wound, time will infect then scar. For the unset or improperly set bone, time will knit then lame." This is medically accurate. A wound left untreated doesn't heal—it becomes infected and forms scar tissue over the infection. A broken bone left unset knits back together in the wrong position, leaving you permanently lame.
+My counselor, Dr. Petit, explained it with devastating clarity:
+
+> "It's been said time heals all wounds...yet for the untreated or poorly treated wound, time will infect then scar. For the unset or improperly set bone, time will knit then lame. Treat the wound properly, set the bone right, then time becomes a servant of healing and ceases to be its enemy. As it is with the body so it is with the soul, the interaction, the conversation, and the relationship."
+>
+> — Dr. Petit
+
+This is medically accurate. A wound left untreated doesn't heal—it becomes infected and forms scar tissue over the infection. A broken bone left unset knits back together in the wrong position, leaving you permanently lame.
 
 The same is true spiritually and emotionally. Time doesn't heal soul wounds. Proper treatment does. And proper treatment requires digging—opening the wound, draining the infection, then giving time as the servant of healing rather than as the supposed healer itself.
 
@@ -3993,12 +3998,12 @@ You dig through performance—the mask you've worn for so long it feels like you
 
 ---
 wp_post_id: 2300
-last_updated: 2025-10-13 14:24:08
+last_updated: 2025-10-13 17:06:31
 ---
 
 # Out of the Swamp: How I Found Truth (Movement 3)
 
-*Last updated: 2025-10-13 14:24:08*
+*Last updated: 2025-10-13 17:06:31*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 
@@ -4180,12 +4185,12 @@ If you're not sure yet, that's okay too. These chapters will teach you. Step by 
 
 ---
 wp_post_id: 2302
-last_updated: 2025-10-13 14:24:09
+last_updated: 2025-10-13 17:06:32
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 9)
 
-*Last updated: 2025-10-13 14:24:09*
+*Last updated: 2025-10-13 17:06:32*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 9: Unforced Rhythms of Grace
@@ -4604,12 +4609,12 @@ This is what the unforced rhythms feel like. You're not striving anymore. Not fo
 
 ---
 wp_post_id: 2317
-last_updated: 2025-10-13 14:24:10
+last_updated: 2025-10-13 17:06:32
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 10)
 
-*Last updated: 2025-10-13 14:24:10*
+*Last updated: 2025-10-13 17:06:32*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 10: Deep Roots, Strong Growth
@@ -4968,12 +4973,12 @@ You walk closer and place your hand on the trunk. Solid. Rough. Weathered by cou
 
 ---
 wp_post_id: 2318
-last_updated: 2025-10-13 14:24:11
+last_updated: 2025-10-13 17:06:33
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 11)
 
-*Last updated: 2025-10-13 14:24:11*
+*Last updated: 2025-10-13 17:06:33*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 11: Redemption's Story
@@ -5350,12 +5355,12 @@ From up close, it looks messy. Dark threads mixed with light. Broken places wher
 
 ---
 wp_post_id: 2319
-last_updated: 2025-10-13 14:24:11
+last_updated: 2025-10-13 17:06:34
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 12)
 
-*Last updated: 2025-10-13 14:24:11*
+*Last updated: 2025-10-13 17:06:34*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 12: Nothing is Wasted
@@ -5739,12 +5744,12 @@ Every step—even the ones that felt like backsliding. Every turn—even the wro
 
 ---
 wp_post_id: 2320
-last_updated: 2025-10-13 14:24:12
+last_updated: 2025-10-13 17:06:35
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 13)
 
-*Last updated: 2025-10-13 14:24:12*
+*Last updated: 2025-10-13 17:06:35*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 13: Devil's On The Run
@@ -6160,12 +6165,12 @@ Your role wasn't to win. It was to stand. To hold the ground that Christ won. To
 
 ---
 wp_post_id: 2321
-last_updated: 2025-10-13 14:24:13
+last_updated: 2025-10-13 17:06:35
 ---
 
 # Out of the Swamp: How I Found Truth (Chapter 14)
 
-*Last updated: 2025-10-13 14:24:13*
+*Last updated: 2025-10-13 17:06:35*
 
 ### MOVEMENT 3: UNFORCED RHYTHMS OF LIFE (The Transformation)
 ### Chapter 14: Living in the Moment
